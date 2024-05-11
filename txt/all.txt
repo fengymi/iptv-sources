@@ -292,7 +292,7 @@ Entertainment,#genre#
 [HD]ช่อง_e!_entertainment,https://epg.pw/stream/cef1380d8bbf22d74405028d855ba33f508dda7a7134c9de4b3ca3c006458755.m3u8
 [HD]ginx_hd,https://epg.pw/stream/363bd4c7e2f75d3cec28c3b9ae597ee5a6f0a98cb39fe1e3600c31dc81d56069.ctv
 [HD]global_tv,https://epg.pw/stream/c9ba0cf59817ccb6303796ff6f876d3f1ed58f8029f927364f9fd5627a7af8de.m3u8
-[SD]game_show_central,https://epg.pw/stream/967b5fce1469aed98c1de217ebf7d9bfb8947caf9a3803d320d55295cff04c4c.m3u8
+[HD]game_show_central,https://epg.pw/stream/967b5fce1469aed98c1de217ebf7d9bfb8947caf9a3803d320d55295cff04c4c.m3u8
 [HD]bcu_media_hd_old,https://epg.pw/stream/acdff409c872289fb16fe37e95f2f1f6ab3d12e6ae89fabfceeb51f6e82cb3ce.m3u8
 [HD]shalom_tv,https://epg.pw/stream/513f53301e46cfe992f25cf5fa55aba8d0169f2db7007ed5ac50c38d1014792f.m3u8
 [HD]hosanna_vision,https://epg.pw/stream/7f523656f2c0d8484cf00269d4af904475932448922acfdb5044c257b5b79dc2.m3u8
@@ -1079,7 +1079,7 @@ Knowledge,#genre#
 [HD]global_trekker-cdn6,https://epg.pw/stream/752f272be46e913e470b2d0ad6dd56853a88b5fa704ae831b0217f52d83de826.m3u8
 [BD]hgtv,https://epg.pw/stream/d2c45fe2140424b9c4c4dfa1d9c909d0bedac07df5a330ede09842fc67df058c.ctv
 [SD]viju_history,https://epg.pw/stream/cb9463e6c7dc492f937ca47bab8b681ddbeaa310cee1650b94e815683b000138.m3u8
-[VGA]history_2,https://epg.pw/stream/71f31e6f570568534613700e1bb5449adcb652d44bcd05097571b3470559e77e.m3u8
+[HD]history_2,https://epg.pw/stream/71f31e6f570568534613700e1bb5449adcb652d44bcd05097571b3470559e77e.m3u8
 [BD]investigation_discovery_asia,https://epg.pw/stream/cd68fa4e08c46c26715240e68c07d3f24bfae12f47e61b7097b8526e554b7b78.m3u8
 [HD]documentary+,https://epg.pw/stream/fe79c5f6c8ebf1b4e728df6efaf2f89e2fc6dd71fa868354e4c163de7e396583.m3u8
 [BD]sula_tv,https://epg.pw/stream/7a8aab32c9db87541dd69ff759121d4cf7e1be8339ada326f4524441c7f0b8e7.m3u8
@@ -1136,7 +1136,7 @@ Knowledge,#genre#
 Other,#genre#
 [BD]telecolor_lombardia,https://epg.pw/stream/c4c99fd7b6552bb791e7864ccf5c001c3d94d9556da39d67946bbec649a6eb58.m3u8
 [VGA]khbs-tv_news_fort_smith_ar,https://epg.pw/stream/0686ee5a476df9816cdbe3abf8b1bf85b74b0cfbc6e0eebce68d86d0e84c1a80.m3u8
-[BD]shabab_fm,https://epg.pw/stream/8fa2d2321898b0da431599db9f283eb9ecc97b6bd08bd4438db278401b6b1ff8.m3u8
+[BD]alyaman_shabab_(1080p)_[not_24/7],https://epg.pw/stream/bab70664e188ae52eda0d9ffa5cf7cd9a82174f95e0ab1d471b88d041c57c057.m3u8
 [BD]action_24,https://epg.pw/stream/fb1446287d399fe046a68a8e2c0ed107fbb86f9bd5702bed1103b58e1bc5fa6e.m3u8
 [HD][埃塞俄比亚]addistv[1280*720],https://epg.pw/stream/cf66e94f476d3d328d04c3b0b71da1979d6435fdb1a7fda45179f89f1e40c8db.m3u8
 [BD]akc_tv,https://epg.pw/stream/8c010adaa6e13e556a72c4f3fe944d599ddb42d2297917ff9a583a59719b84e4.m3u8
@@ -1387,7 +1387,7 @@ News,#genre#
 [HD]la_c_news_24,https://epg.pw/stream/5843872596afe2cb45d198314871ee40c1a0821e1afcd508c0ec883eb210ecdd.m3u8
 [HD]abc_news_live_9_(720p),https://epg.pw/stream/bb281ef60fecb8c3b1b4b0e73b25750b915ce231338f614e929ff6632f2fbb70.m3u8
 [SD]india_news_punjab/himachal,https://epg.pw/stream/450b9e9a4250a80a303811ce8f5ebbece7e89ee02a34155baf7c93154b31a779.m3u8
-[HD]al_horreya,https://epg.pw/stream/28dd9edc336ccbdf7366055646b597e34f84f4436bf74158231e95dddde67404.m3u8
+[BD]al_horreya,https://epg.pw/stream/28dd9edc336ccbdf7366055646b597e34f84f4436bf74158231e95dddde67404.m3u8
 [BD]al_jazeera_arabic,https://epg.pw/stream/75c81e21141af76074419a0489f0903a7dd329b0816d243fef491c52d9f49813.m3u8
 [BD]asharq_news_(1080p),https://epg.pw/stream/409962e3325684053ebaaf4cb7e48db3d50b72bbcf626b4c0bd02ed156a8a0f3.m3u8
 [HD]astro_awani_(720p),https://epg.pw/stream/bbbcf4f22c88712a2b7e52f3645df12e57f1159a3b11d0fd0f168d797362ea4a.m3u8

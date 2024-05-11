@@ -35,7 +35,7 @@
 | 29 | [HD]r plus | epg.pw | <https://epg.pw/stream/7f8dbc2aa3865a58adf1a071003ee75f1a93f5b161d3eb55095a09c44cf256ba.m3u8> |
 | 30 | [HD]3abn | epg.pw | <https://epg.pw/stream/325d72328c939779e2ec3eeda6c7e64276bfae816b19c0a755c990499e155127.m3u8> |
 | 31 | [HD]3sat hd | epg.pw | <https://epg.pw/stream/525e92bdd275ea21d0d056b75cc1773a98674717a9742824866fd2f09ed2a6ac.m3u8> |
-| 32 | [BD]shabab fm | epg.pw | <https://epg.pw/stream/8fa2d2321898b0da431599db9f283eb9ecc97b6bd08bd4438db278401b6b1ff8.m3u8> |
+| 32 | [BD]alyaman shabab (1080p) [not 24/7] | epg.pw | <https://epg.pw/stream/bab70664e188ae52eda0d9ffa5cf7cd9a82174f95e0ab1d471b88d041c57c057.m3u8> |
 | 33 | [BD]atacama noticias | epg.pw | <https://epg.pw/stream/2145efeb47ac9b668a55fecb5ea65c5d2452b63258b800652c97f56c0870b63b.m3u8> |
 | 34 | [VGA]ช่อง 5 plus | epg.pw | <https://epg.pw/stream/be9f5cfd48f40a4c70dd05510b50f0aa93a00776d5eca6aec3f4c4feedde1606.m3u8> |
 | 35 | [BD]etv telangana | epg.pw | <https://epg.pw/stream/2810607c8062a5339b4c543dd4b8ecbc01ac65945e5a863beac7a1ecc1a1b75e.m3u8> |
@@ -66,7 +66,7 @@
 | 60 | [HD][埃塞俄比亚]addistv[1280*720] | epg.pw | <https://epg.pw/stream/cf66e94f476d3d328d04c3b0b71da1979d6435fdb1a7fda45179f89f1e40c8db.m3u8> |
 | 61 | [BD]akc tv | epg.pw | <https://epg.pw/stream/8c010adaa6e13e556a72c4f3fe944d599ddb42d2297917ff9a583a59719b84e4.m3u8> |
 | 62 | [BD]al hiwar tv | epg.pw | <https://epg.pw/stream/a0024ef0acffbd1c13fd094eb675ea401e858258453389c2eaf4ca556a5857d7.ctv> |
-| 63 | [HD]al horreya | epg.pw | <https://epg.pw/stream/28dd9edc336ccbdf7366055646b597e34f84f4436bf74158231e95dddde67404.m3u8> |
+| 63 | [BD]al horreya | epg.pw | <https://epg.pw/stream/28dd9edc336ccbdf7366055646b597e34f84f4436bf74158231e95dddde67404.m3u8> |
 | 64 | [BD]al jazeera arabic | epg.pw | <https://epg.pw/stream/75c81e21141af76074419a0489f0903a7dd329b0816d243fef491c52d9f49813.m3u8> |
 | 65 | [VGA]ace tv (kcks-ld3) (480p) | epg.pw | <https://epg.pw/stream/f06b4abfde39c6a34df463e380dcd0b918952cfc99d574a82e4183b2ef5183c7.m3u8> |
 | 66 | [BD]asharq news (1080p) | epg.pw | <https://epg.pw/stream/409962e3325684053ebaaf4cb7e48db3d50b72bbcf626b4c0bd02ed156a8a0f3.m3u8> |
@@ -590,7 +590,7 @@
 | 584 | [VGA]gtv | epg.pw | <https://epg.pw/stream/bd479af08e90369369ffc0014e9ac718b3a63c9f4aa27e559ea1d3cad060c880.m3u8> |
 | 585 | [HD]ibn tv africa | epg.pw | <https://epg.pw/stream/a732d57dc14a5c39cdf98cc9f4853fe99c12d579c05cad9ab9c8a152f37b8512.m3u8> |
 | 586 | [BD]gracia tv | epg.pw | <https://epg.pw/stream/037ae4e690edff5f977f492fb4f55a9540b5b5253b9b92408ca555291d659699.m3u8> |
-| 587 | [SD]game show central | epg.pw | <https://epg.pw/stream/967b5fce1469aed98c1de217ebf7d9bfb8947caf9a3803d320d55295cff04c4c.m3u8> |
+| 587 | [HD]game show central | epg.pw | <https://epg.pw/stream/967b5fce1469aed98c1de217ebf7d9bfb8947caf9a3803d320d55295cff04c4c.m3u8> |
 | 588 | [HD]game show network east (720p) [not 24/7] | epg.pw | <https://epg.pw/stream/f1009939af6fcf3622d581bffd253ad895d4747c1c26da831785ff05da5c86d0.m3u8> |
 | 589 | [VGA]gia lai | epg.pw | <https://epg.pw/stream/0ab8d175397d0886266237eff7a081ea00255b11224aa98221dbdafceb2a564f.m3u8> |
 | 590 | [BD]global news | epg.pw | <https://epg.pw/stream/089112f4cbf077bc53d16083a94d76bbd51ac45f92aed1754b1748c4ba467b7e.m3u8> |
@@ -634,7 +634,7 @@
 | 628 | [BD]hello tv | epg.pw | <https://epg.pw/stream/8cf0eb3506dab42c11fa7a4fff0c7b54db10aacf90c4dfb40010aee9f807446b.m3u8> |
 | 629 | [BD]home hiroshima news | epg.pw | <https://epg.pw/stream/505326b6e6c0ce15d505573e4a85e7662e0c851ba3f780d12f25ecc8a9df65ef.m3u8> |
 | 630 | [SD]viju history | epg.pw | <https://epg.pw/stream/cb9463e6c7dc492f937ca47bab8b681ddbeaa310cee1650b94e815683b000138.m3u8> |
-| 631 | [VGA]history 2 | epg.pw | <https://epg.pw/stream/71f31e6f570568534613700e1bb5449adcb652d44bcd05097571b3470559e77e.m3u8> |
+| 631 | [HD]history 2 | epg.pw | <https://epg.pw/stream/71f31e6f570568534613700e1bb5449adcb652d44bcd05097571b3470559e77e.m3u8> |
 | 632 | [VGA]history channel | epg.pw | <https://epg.pw/stream/dcda1c68bf96b22ee5e68b4b241d433b1fb1ad85931d6b4b35e5f59b93798033.ctv> |
 | 633 | [HD]hollywire (720p) | epg.pw | <https://epg.pw/stream/6a2a52e829be531eb5684018e2fa835461a26161fe4059732eebfaf0ba2a5dd7.m3u8> |
 | 634 | [HD]hollywood classics | epg.pw | <https://epg.pw/stream/0b7b43f22318768ae441ed3a4db8ae15bb12e2d8818cd19522be6a87352b2464.m3u8> |
@@ -2010,4 +2010,4 @@
 | 2004 | [BD]국악방송 | epg.pw | <https://epg.pw/stream/5f3e490eafd98ed083068a823f7e783790acb0d86d386dccb05d8db5d768f6ac.m3u8> |
 | 2005 | [BD]연합뉴스tv | epg.pw | <https://epg.pw/stream/4207ebf0f1c354ac75cc77a05692276ca2efee2340f1c706435787a6f083a7bf.m3u8> |
 
-Updated at **Sat May 11 2024 18:09:13 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat May 11 2024 20:07:58 GMT+0000 (Coordinated Universal Time)**
