@@ -5,7 +5,7 @@
 | No. | Channel Name | From | Source |
 | --- | ------------ | ---- | ------ |
 | 1 | [BD]shiva live tv | epg.pw | <https://epg.pw/stream/a26776783a8367633233e7ff577e1678c811cced64fc79048dfae0d2abfcb5a9.m3u8> |
-| 2 | [BD]浙江民生 | epg.pw | <https://epg.pw/stream/3e6d5b344a6fc2e60251a509a362d3b9e05c278026f7e3e5a1a7f35454f36a52.m3u8> |
+| 2 | [HD]浙江民生 | epg.pw | <https://epg.pw/stream/3e6d5b344a6fc2e60251a509a362d3b9e05c278026f7e3e5a1a7f35454f36a52.m3u8> |
 | 3 | [HD]радио шансон | epg.pw | <https://epg.pw/stream/a6734f930d0f0ef65579f3406f6941510f2692d2daf088c2ba5cfe86fb995396.m3u8> |
 | 4 | [HD]vevo country | epg.pw | <https://epg.pw/stream/7893dad7edd6610c885ea7d9b913961a05cd4c9477bab1b0e8c5c92464c48eff.m3u8> |
 | 5 | [HD]wmtw-tv news portland me | epg.pw | <https://epg.pw/stream/17c88cef22ccabc2f384bd88fedd2f04824705397c265fcfef5cbd4b44c99f06.m3u8> |
@@ -67,7 +67,7 @@
 | 61 | [HD][埃塞俄比亚]addistv[1280*720] | epg.pw | <https://epg.pw/stream/cf66e94f476d3d328d04c3b0b71da1979d6435fdb1a7fda45179f89f1e40c8db.m3u8> |
 | 62 | [BD]akc tv | epg.pw | <https://epg.pw/stream/8c010adaa6e13e556a72c4f3fe944d599ddb42d2297917ff9a583a59719b84e4.m3u8> |
 | 63 | [BD]al hiwar tv | epg.pw | <https://epg.pw/stream/a0024ef0acffbd1c13fd094eb675ea401e858258453389c2eaf4ca556a5857d7.ctv> |
-| 64 | [BD]al horreya | epg.pw | <https://epg.pw/stream/28dd9edc336ccbdf7366055646b597e34f84f4436bf74158231e95dddde67404.m3u8> |
+| 64 | [HD]al horreya | epg.pw | <https://epg.pw/stream/28dd9edc336ccbdf7366055646b597e34f84f4436bf74158231e95dddde67404.m3u8> |
 | 65 | [BD]al jazeera arabic | epg.pw | <https://epg.pw/stream/75c81e21141af76074419a0489f0903a7dd329b0816d243fef491c52d9f49813.m3u8> |
 | 66 | [VGA]ace tv (kcks-ld3) (480p) | epg.pw | <https://epg.pw/stream/f06b4abfde39c6a34df463e380dcd0b918952cfc99d574a82e4183b2ef5183c7.m3u8> |
 | 67 | [BD]asharq news (1080p) | epg.pw | <https://epg.pw/stream/409962e3325684053ebaaf4cb7e48db3d50b72bbcf626b4c0bd02ed156a8a0f3.m3u8> |
@@ -574,7 +574,7 @@
 | 568 | [BD]franken fernsehen | epg.pw | <https://epg.pw/stream/44df1eaf6144559bc93a5ba914e95b632af82d4754d6fb6e5224bc9ef57c53d2.m3u8> |
 | 569 | [HD]free | epg.pw | <https://epg.pw/stream/9f0afc1de4674df4bd67f4796cde7f4923d3a367365085a74b37a1cc8c518932.m3u8> |
 | 570 | [BD]reforma tv | epg.pw | <https://epg.pw/stream/6e819514346672260dfe2661fa52fff5815e6bcc891f1d6240afe746bb8e9ed8.m3u8> |
-| 571 | [HD]french lover | epg.pw | <https://epg.pw/stream/05a6207965aed3400d9b648e51da83dda363f6ef1607bc44821608ad3eb33fc6.m3u8> |
+| 571 | [HD]frenchlover | epg.pw | <https://epg.pw/stream/5a26b68c75fb825addf8df0264db67729fe4d464a4101b55ebaa4ebd6c9d8f50.m3u8> |
 | 572 | [HD]fresh (720p) | epg.pw | <https://epg.pw/stream/b6b92f839830c390d9993d50373c9c129f5ca5df860a215269e5e4c611fffea8.m3u8> |
 | 573 | [HD]ช่อง g1 sbs | epg.pw | <https://epg.pw/stream/14f1c385807ec055bf79447bd6868abb4f2111b6f9c86b8b9fea77d3cc1856ff.m3u8> |
 | 574 | [SD]gaora sports | epg.pw | <https://epg.pw/stream/402a98240c4d4a112e34fc8981ab18612c57a700f5d49ee17b7d8bf931171c24.m3u8> |
@@ -745,7 +745,7 @@
 | 739 | [SD]ltv | epg.pw | <https://epg.pw/stream/e2eb288db393f7d071759243baac523ed5fd5bd3661b52c592e7d053d5c114da.m3u8> |
 | 740 | [SD]lala tv | epg.pw | <https://epg.pw/stream/a653d81aa02d62125bc5e152aaacc75becc778d6cd80fcb70b2c56de4858259a.m3u8> |
 | 741 | [BD]leipzig fernsehen (1080p) | epg.pw | <https://epg.pw/stream/11a55727ff4d320d324cf9f8f08e19ff1866710edde8e8c65ebb34ba585a810b.m3u8> |
-| 742 | [HD]lifetime | epg.pw | <https://epg.pw/stream/7a4f19f1207c67c90ae52c9b716bc1f42139944c92d6f4597ee81f4d337ea058.m3u8> |
+| 742 | [BD]lifetime 2 | epg.pw | <https://epg.pw/stream/35e5fe27eb699dbe9a81f7090dfb48a66e50a3b54e2ea8a90f5a2f4c2d738941.m3u8> |
 | 743 | [BD]LIFETIME | epg.pw | <https://epg.pw/stream/d3e4fbc5e969cb04d8863b7e8ac11c30c36142aecbb7d09bda53b697b2086171.ctv> |
 | 744 | [SD]light channel | epg.pw | <https://epg.pw/stream/e6382f01404326cc8b17a8f4f51571a40745663ea4ed100a3240b5749e64f1c4.m3u8> |
 | 745 | [SD]russia k | epg.pw | <https://epg.pw/stream/52e70bffd854939495b32afd22744647fa65810d03a32ad029f098e4c010c0e0.m3u8> |
@@ -2048,4 +2048,4 @@
 | 2042 | [BD]국악방송 | epg.pw | <https://epg.pw/stream/5f3e490eafd98ed083068a823f7e783790acb0d86d386dccb05d8db5d768f6ac.m3u8> |
 | 2043 | [BD]연합뉴스tv | epg.pw | <https://epg.pw/stream/4207ebf0f1c354ac75cc77a05692276ca2efee2340f1c706435787a6f083a7bf.m3u8> |
 
-Updated at **Mon May 13 2024 20:07:48 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon May 13 2024 22:07:13 GMT+0000 (Coordinated Universal Time)**
