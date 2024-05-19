@@ -360,7 +360,7 @@ Entertainment,#genre#
 [SD]tiankov_folk_(576p),https://epg.pw/stream/88c29f67d05c51e7eecd6771c014a4f97a244e4b80e7aa203c9df886a0f8e9e7.m3u8
 [HD]tiny_4k,https://epg.pw/stream/d0e0f51f92b95b2675f8247de6353afcc11266a27ffd26425c2edeeac4462ee4.m3u8
 [HD]true_african_(720p),https://epg.pw/stream/3390feaa27449c0f9873439ccb3f2e40f277b1efaa01b870963c39ae7fea03a9.m3u8
-[HD]gospel,https://epg.pw/stream/0f10621e919d7a2ab0e9197a583b4ed60058b64b5e8d9dbfd7f8f937c85f9ba9.m3u8
+[HD]trace_hd,https://epg.pw/stream/cd190f3bd49d7c7de9e80a04b6416ec45bf7c530d168a62e9ef8a06dd5168b3a.ctv
 [BD]trace_urban_hd,https://epg.pw/stream/165df2286674ccee4163c5d39e205b894ad792cfc06918f792d791717b5d5da0.m3u8
 [HD]ช่อง_trans_7,https://epg.pw/stream/72e1ed1a6011a09ca2882a29b2a502dfba7afd9fb3e54fab51dc52315892ad23.m3u8
 [HD]transtv_hd,https://epg.pw/stream/4e3cc073a88fcf97e5a2006ad81ddb6f8da049118d115612c9734c2e29ecaee8.m3u8
@@ -628,7 +628,6 @@ Generic,#genre#
 [BD]mitv,https://epg.pw/stream/5da7a628a46d48bb8f31461c3068903e5c1c80aabcfb6503aba8b997fc11b046.m3u8
 [SD]moldova_tv,https://epg.pw/stream/ab6d8205880845f11c9d2b22cfa0b84269dba2ce9b1810be725a01b494206a1c.ctv
 [HD]momo综合,rtmp://f13h.mine.nu/sat/tv761
-[HD]medi_1_tv_maghreb,https://epg.pw/stream/d90058d1f41f20af705128e4ff6eb6e7b552e7c0d0b46c631f477c347a182499.m3u8
 [HD]cosmos,https://epg.pw/stream/c3f5a3f71cc0aff22674be865a6954eb36561d4770694772acce62ea1e3e1caf.m3u8
 [VGA]mega,https://epg.pw/stream/ed46f074f8a92e984add689084b294a562e443f272d2aa4bbc84cdcc10eab6d1.m3u8
 [BD]mekameleen_tv_(1080p),https://epg.pw/stream/5e28d2bd333bffd12a7115f8bf127f19481ef5cc20212336d797e699765e0314.m3u8
@@ -1217,11 +1216,11 @@ Other,#genre#
 [HD]vv8_tv,https://epg.pw/stream/3def0e0aa9143b89da021a1f6e952c98fe11c549c6764ac0b91edd66be39a9db.m3u8
 [VGA]velayat_tv,https://epg.pw/stream/3eed8f883409db0d8eda5cd2799fa03189d088aa0a4ca9fd274827e287b3c262.m3u8
 [HD]viva,https://epg.pw/stream/569dc8f8842171a604b71cb35ee259f6f54dfaba27100aa828131d1141b81b5a.m3u8
-[SD]world_poker_tour,https://epg.pw/stream/c1b792fe98f2c9f6538d05bbd623e33732e290386bc85b76aa7f37ae148337b3.m3u8
+[HD]world_poker_tour,https://epg.pw/stream/c1b792fe98f2c9f6538d05bbd623e33732e290386bc85b76aa7f37ae148337b3.m3u8
 [HD]es_tv_(720p),https://epg.pw/stream/863c88d689c26f8458a1e66a3f59399d12c37977e4dfeb65d4285cb6ed7e896a.m3u8
 [SD]zvezda,https://epg.pw/stream/e05c045c509ce56d5d994584e7290cf7401391065fb9c0cba097934d76e78d65.m3u8
 [BD]voa_tv_africa_(1080p),https://epg.pw/stream/97c08d8c195096826a8ce4efb69a530c3668ef9184fb55e15700d96876ac3c56.m3u8
-[BD]salam_tv,https://epg.pw/stream/af5ba9001535445ba1e0165d554259f81f9735f179d5bf0ab1bbb372d9477110.m3u8
+[SD]salam_tv,https://epg.pw/stream/af5ba9001535445ba1e0165d554259f81f9735f179d5bf0ab1bbb372d9477110.m3u8
 [SD]iqra_tv,https://epg.pw/stream/95be3edb52a8a658f7dd65307e7ddbe94627c7acf4e4e0f2896e042aa1e1e6ae.m3u8
 [BD]eska_tv_hd,https://epg.pw/stream/400a08aa10846dee12c3b67d6651c3aac255c8594b25c40f2ec18805503c50be.m3u8
 [HD]best_films_hd,https://epg.pw/stream/2f756616cbefeeebcd2ce9145fc49a7f736aeee3b2ac07ac268a3542388a53c2.m3u8
@@ -1694,7 +1693,7 @@ Sports,#genre#
 [SD]beinsports_1,https://epg.pw/stream/2e9e772aae77df05f0fdfab65f268e2b1ae198373f11be1e6340542989437ca2.ctv
 [HD]bein_sports_2,https://epg.pw/stream/1c6572d7562c7e25b4f598335a0261c57204d25ad95cf0ba01ea536a96abe70b.ctv
 [SD]beinsports_3,https://epg.pw/stream/72b3f6c14f5074c14d90490756166133ec4e42dc4e37bdd7e4cd71045c007cec.ctv
-[HD]bein_sports_premium_1,https://epg.pw/stream/51bd55f6d06cac0313ec40af1c93e738bbf35a3efdab6f609831fcae752aa7e4.ctv
+[HD]ช่อง_bein_sports_hd,https://epg.pw/stream/c4d7a94059afc5be24461271431114fa5b5d301b71fea7dc5f30205618d2137c.ctv
 [BD]bein_sports_2_hd,https://epg.pw/stream/7b3570b0d21143bcc30da14a6c482df5e905becdde52c49497c48ad4c7fb4acc.ctv
 [BD]bein_sports_3_hd,https://epg.pw/stream/9a29a39c1a126c158c8ec49e31f753901c54ced020c4e665ef76ba6ffcaf0af1.ctv
 [BD]2+2_sd,https://epg.pw/stream/ad814351b5f7b7928edd18312a5a1433f24e640e6a8b5cf9dc780fe55007d5e1.m3u8
