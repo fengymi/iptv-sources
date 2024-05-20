@@ -275,7 +275,7 @@ https://epg.pw/stream/2365cbcb7f11145cf6bbcd0b2c36c4c5deee31cf366876926ae7768ca7
 https://epg.pw/stream/4de56f91d6ac6bb347d1e5f39c827d4f7794b22dcbaa29aab748c1cb0f3a1ca1.ctv
 #EXTINF:-1 tvg-name="天津卫视" tvg-id="13880" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2019/01/23/large/20190123011224766299_56.jpg" group-title="综合",[BD]天津卫视
 https://epg.pw/stream/b174433fa74b990a5146d8f6ee46307b62bde3e61df3a44eb8aaa649af3cc6fd.m3u8
-#EXTINF:-1 tvg-name="天津体育" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/08/large/20220508002630226827_80.jpg" group-title="运动",[VGA]天津体育
+#EXTINF:-1 tvg-name="天津体育" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/08/large/20220508002630226827_80.jpg" group-title="运动",[BD]天津体育
 https://epg.pw/stream/e550462ba6e8b39f7caf7c0bdc83da7588e66a734647e08fe81a12e1ade63fcd.m3u8
 #EXTINF:-1 tvg-name="太原影视" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/img/logo/3_247.jpg" group-title="电影",[VGA]太原影视
 https://epg.pw/stream/91b6fbb646a23956a4fff96b3c516861919dc63fd59ab71b7657c46f9fc6fdd8.ctv
@@ -531,7 +531,7 @@ https://epg.pw/stream/3dba1aa77b00ec70e21ad288b975e283cf64dbfa98374eae276ffad9be
 https://epg.pw/stream/e6382c7e46ed4a16060f80f3b395fdb867498ca967216e61414c7d6ef6bef698.ctv
 #EXTINF:-1 tvg-name="河南卫视" tvg-id="13888" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/30/large/20220530233814283449_10.jpg" group-title="综合",[SD]河南卫视
 https://epg.pw/stream/ea842ab34e6da31e0eae5bd8be6c4b7d67f0b0c214efaca7ff2c5a1718f7fe55.m3u8
-#EXTINF:-1 tvg-name="河南都市" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/31/large/20220531143451177556_90.jpg" group-title="综合",[BD]河南都市
+#EXTINF:-1 tvg-name="河南都市" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/31/large/20220531143451177556_90.jpg" group-title="综合",[VGA]河南都市
 https://epg.pw/stream/3941773b7bb913cbbc8f7232a79186e11e45c6d9fc57b2fbdcc915444dfad19d.ctv
 #EXTINF:-1 tvg-name="河南乡村" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/30/large/20220530233933187923_13.jpg" group-title="综合",[BD]河南乡村
 https://epg.pw/stream/53d600e865cb0063c3ad759d4443465ce28c0d62b848f12f23b2592abfdd8ae3.ctv
@@ -785,7 +785,7 @@ https://epg.pw/stream/9b0c1cc4f4f67d65e60ca6be16028a33859c142adc2c8fd58751075565
 https://epg.pw/stream/ac8062ec9484078061d3bef507c15a423ac57ae4144e3fcc4b0a198dd420f911.m3u8
 #EXTINF:-1 tvg-name="高尔夫网球" tvg-id="13986" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2023/07/19/large/20230719111717827886_20.jpg" group-title="运动",[BD]高尔夫网球[ipv6]
 https://epg.pw/stream/b7bea242512cacd749fdc6300350d422f59ac8d08bc703b55169535d01668344.m3u8
-#EXTINF:-1 tvg-name="斗鱼" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2023/08/04/large/20230804204419354163_57.jpg" group-title="其它",[BD]斗鱼频道
+#EXTINF:-1 tvg-name="斗鱼" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2023/08/04/large/20230804204419354163_57.jpg" group-title="其它",[HD]斗鱼频道
 https://epg.pw/stream/55d29824857aacca8d30262a370bef4b55537ef81d6efad3658bce24fd46621e.ctv
 #EXTINF:-1 tvg-name="魅力足球" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2020/03/28/large/20200328131601312895_59.PNG" group-title="运动",[BD]魅力足球
 https://epg.pw/stream/100f8d10fb39d11544e9f834c30dd5a57e92915f801d8e9bf50bf0f01345bef7.ctv
