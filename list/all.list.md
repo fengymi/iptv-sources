@@ -1959,4 +1959,4 @@
 | 1953 | [BD]국악방송 | epg.pw | <https://epg.pw/stream/5f3e490eafd98ed083068a823f7e783790acb0d86d386dccb05d8db5d768f6ac.m3u8> |
 | 1954 | [BD]연합뉴스tv | epg.pw | <https://epg.pw/stream/4207ebf0f1c354ac75cc77a05692276ca2efee2340f1c706435787a6f083a7bf.m3u8> |
 
-Updated at **Sun May 26 2024 08:09:04 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun May 26 2024 10:07:57 GMT+0000 (Coordinated Universal Time)**
