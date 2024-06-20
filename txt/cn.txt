@@ -126,7 +126,7 @@
 [SD]内蒙古卫视[ipv6],https://stream.freetv.fun/325ee158a9026a625e36ada7cab8bf4606657903a9312e1c19a2af5e7a73d1b7.m3u8
 [SD]内蒙古卫视,https://stream.freetv.fun/ad7314a16b55c53ae78c2117774a007d72a550e07646ad5c29347c06b01a6a39.m3u8
 [BD]内蒙古农牧,https://stream.freetv.fun/f426a12024c3d2a6271d7b4e1514b8da71aeef77a9033c211e1e49a8386a8668.m3u8
-[BD]北京生活,https://stream.freetv.fun/2ccff5570151d10d87cd087632b6179a5ceebbfed1dba291f5f51df88e62cbc2.ctv
+[BD]北京生活,https://stream.freetv.fun/967122466244033e999ef448c46aa608c240231b17852bd2a6e53ac1fcc1fadb.ctv
 [BD]北京卫视[ipv6],https://stream.freetv.fun/58ada9296c1cd8c98929d12386749a6748a6ed09bda28980e0909fff792e95fc.m3u8
 [SD]北京卫视,https://stream.freetv.fun/b3b64c82ef1778be8a3a340b11d82ab92b43813d9bf3d23b9198ab5353a08116.m3u8
 [BD]北京国际,https://stream.freetv.fun/48ce1655f67ddb04f2f124a816e97665c1a6c0604751021d820fa3cb4ad19c61.ctv
@@ -141,7 +141,7 @@
 [BD]四川经济,https://stream.freetv.fun/c5d9cf07106cfb4973f238af0f556fa8bf539651a0ef70f556840c448682e8ea.ctv
 [BD]四川卫视[ipv6],https://stream.freetv.fun/3c264c25b1f8debffea48cd474ef8b830ced737528778624f006949a84930657.m3u8
 [VGA]大湾区卫视,https://stream.freetv.fun/530100dc12484a6e1bc74a557a42b260134a998632ba4a1cafd0339efeb774d8.ctv
-[VGA]天津卫视,https://stream.freetv.fun/b174433fa74b990a5146d8f6ee46307b62bde3e61df3a44eb8aaa649af3cc6fd.m3u8
+[BD]天津卫视,https://stream.freetv.fun/b174433fa74b990a5146d8f6ee46307b62bde3e61df3a44eb8aaa649af3cc6fd.m3u8
 [HD]安多卫视,https://stream.freetv.fun/290a71e47606fa713caa0f79a0812e332e24e5ec6d51610020d3031c34fb2857.m3u8
 [BD]安徽公共,https://stream.freetv.fun/4d24a833a077312dd4b99da78588cbfbde827c4f07c41765e1c8fb4381b670f6.ctv
 [BD]安徽国际,https://stream.freetv.fun/10bca8f882fc7e52fbbd3fcd70c2705f85cf9ec5e7eb1d4be9bf33d983943c61.m3u8
@@ -208,7 +208,7 @@
 [SD]河北经济生活,https://stream.freetv.fun/586bf4844e88ed18c1a209e82e9025cd3c9e84bed96638d138a3588bf243ba69.m3u8
 [BD]河北卫视[ipv6],https://stream.freetv.fun/49b81228eb02073791ce98fbba2fbd077663e55bc903daf2faa35d18705df6f4.m3u8
 [SD]河北农民台高清,https://stream.freetv.fun/12a9d1748252d68c721a22688df18fa0361bc5cdc655d66a421fbf689e10dcb5.m3u8
-[SD]河北都市,https://stream.freetv.fun/7dd307a3453e7145699cf8459ba84f59a82c9ff94b471a255fe1ee94fa69187a.m3u8
+[BD]河北都市,https://stream.freetv.fun/9fc6507da49edb0268413134352e96785e137b8f2dec3c1bef337f62e1087c1b.m3u8
 [BD]河南公共,https://stream.freetv.fun/36d0aa50423545fc54ad31f197bcd51626f05a782f179b7c8c0b328ba3d9d411.m3u8
 [BD]河南国际,https://stream.freetv.fun/62d0c21aac35038160280dece9b7f259a81271dbf5ffecb586df48ff50401fa9.ctv
 [BD]河南民生,https://stream.freetv.fun/3dba1aa77b00ec70e21ad288b975e283cf64dbfa98374eae276ffad9be33b1cf.m3u8
@@ -308,7 +308,7 @@
 [BD]内蒙古新闻,https://stream.freetv.fun/661c19e0bd21ad36b9c291bb055b7e957aab044c5b553e0b3ea110531fa721c5.ctv
 [BD]内蒙古经济,https://stream.freetv.fun/aced739729cb9fdf5cc47a25f7ccecc676768fa6009fae534c8c58863adba739.ctv
 [BD]内黄新闻综合频道,https://stream.freetv.fun/be7e252270432ee9f17312a39a1f303c3d89f55594ed1d36f9ba46cc61e7a1a5.m3u8
-[BD]北京新闻,https://stream.freetv.fun/df5f291b3e91d85d43f12c1253c789da96a06b0263fd5ccd662fd90514379fda.ctv
+[HD]北京新闻,https://stream.freetv.fun/786605619dffc1b19504dca761e9e922a7c9f005336579c733ccda56b3e2aa16.m3u8
 [BD]北京,https://stream.freetv.fun/dd59ade5b493eb11be51b30898aecdf5b847a7fa30150ef08940725623332283.m3u8
 [HD]十堰新闻,https://stream.freetv.fun/9447224f27b995b42e5354aa08915b6d16e66f4805b7ff8f5b797cf4cd5b6402.m3u8
 [HD]十堰经济,https://stream.freetv.fun/ee00033c62a5696b97d3522d93bb515c860a3d176e3639e1c118f5b2fe1dee2f.m3u8
@@ -520,6 +520,7 @@
 [SD]昆明影视,https://stream.freetv.fun/5bc66ab29db2a4885d13a59a3e994822964f54be1c733a62ff9f3ac55097ec01.m3u8
 [BD]昆明教育,https://stream.freetv.fun/99c3e864bc194c4412220e2a159547ee6a2b774774cafb19db263d07d3aefb72.m3u8
 [SD]昆明科教,https://stream.freetv.fun/b3be5545e79269f533d5f0fce35312fb5a5466e9e97aaa22a93381f4ad32cb03.m3u8
+[SD]书画,https://stream.freetv.fun/a597cedd51c33150b01dc75bc779a9380d81ca1bb157da1e5221e8c2c1991a98.ctv
 [SD]霸州少儿频道,https://stream.freetv.fun/eb656c9023968966ef3229c21758609dd94753dffc29bb29bb61e444a72a24a1.m3u8
 [BD]杭州余杭综合,https://stream.freetv.fun/0c97a46017c444662e011a7212f770d39f0393a31f029123911ccd3b161115b2.m3u8
 [VGA]东北戏曲,https://stream.freetv.fun/3587d2a664f1ed6cd95d0075b42f605bb091c9dc57a6edd13adfa56e6d9b4294.m3u8
@@ -657,7 +658,7 @@
 [HD]江西影视,https://stream.freetv.fun/9c2cc8dff58a2bbc01b04c59f527ba7d82932c5c4df19c915d2b82363c392ace.m3u8
 [HD]江西影视旅游,https://stream.freetv.fun/c829423fd3bd469c8b9e59cf331bcdce34525c0ce18c773143436e182ee28f72.ctv
 [BD]河北影视,https://stream.freetv.fun/f927788e08949e5333ad97affc4fb4b9649bef97948e0794f1ec0936054bd8c3.m3u8
-[SD]河北影视剧,rtmp://tv.pull.hebtv.com/jishi/yingshijupindao?t=2510710360&k=51b17a5611b40e6a36395d0129c85ec6
+[BD]河北影视剧,https://stream.freetv.fun/c052b9f414bbbf9c00616f9184da6d11fa730d903171e2ae8d1ef1b80538f600.m3u8
 [BD]河南电视剧,https://stream.freetv.fun/54004d9576e0f7f4fd5d8ff86403b3419be425bb87b611182cd7af86f586391b.m3u8
 [BD]影视娱乐,https://stream.freetv.fun/6c326adb5bc41e369dc27e92cbaa66e9b8917b6a5ed8f294ca830bf31f25a197.m3u8
 [SD]深圳电视剧,https://stream.freetv.fun/7e371d97f588aab4178a9da03f3744e27b161cb04e30fc582dfe8b07cb7aacfe.m3u8
