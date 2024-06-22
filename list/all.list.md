@@ -647,7 +647,7 @@
 | 641 | [HD]eisei gekijo (544p) | stream.freetv.fun | <https://stream.freetv.fun/46ce2ecb8fbda691a429acb6bc8ba2a1ea1014becbbfe39de306551b5bce585d.m3u8> |
 | 642 | [VGA]elta综合 | stream.freetv.fun | <https://stream.freetv.fun/5e09e2ab9b55e9475a9ac8f791961103ecd8d824aef473b1d7cf8f4d61b80a41.ctv> |
 | 643 | [HD]eska tv | stream.freetv.fun | <https://stream.freetv.fun/5bb8e56c5d246aafe8f979ef229250c578cf09a37a73d2bc9fda00ec22286237.m3u8> |
-| 644 | [HD]espn | stream.freetv.fun | <https://stream.freetv.fun/363d920aaf70fbf79d09019d83a24a6405e6275a8781923a19dd7f75b96199d6.m3u8> |
+| 644 | [VGA]espn 4 | stream.freetv.fun | <https://stream.freetv.fun/b5b1dd2a8919564ef453aece62f2711c05d4ba082b3abeadb831c51f5dc6c06c.m3u8> |
 | 645 | [HD]espn 2 | stream.freetv.fun | <https://stream.freetv.fun/51039ca71fd582099b851265c1d2e03b0b90b67f495c488ec83d960a7f98336b.ctv> |
 | 646 | [HD]espn 3 | stream.freetv.fun | <https://stream.freetv.fun/e926c5e02b4732c880a2e19c7932f64fc52fe88137e3eaea6083d49382032750.ctv> |
 | 647 | [HD]espn hdtv | stream.freetv.fun | <https://stream.freetv.fun/a78d400ff6c8ba03c3ddd5e50e96dd6aef647c799d2e77cf974dfdaf600bb58e.ctv> |
@@ -2863,4 +2863,4 @@
 | 2857 | [BD]소상공인방송 | stream.freetv.fun | <https://stream.freetv.fun/8b059be92e1d851bfcedeb99bbd37b00ef4c21bce792c6f147a19e4857cea026.m3u8> |
 | 2858 | [BD]연합뉴스tv | stream.freetv.fun | <https://stream.freetv.fun/4207ebf0f1c354ac75cc77a05692276ca2efee2340f1c706435787a6f083a7bf.m3u8> |
 
-Updated at **Sat Jun 22 2024 14:07:09 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Jun 22 2024 16:08:44 GMT+0000 (Coordinated Universal Time)**
