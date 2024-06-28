@@ -173,7 +173,7 @@
 | 167 | [HD]南京信息 | stream.freetv.fun | <https://stream.freetv.fun/3b410af631ef86077685d36ae62eccce5a427aba62be65c39edfa08ccb2c7965.m3u8> |
 | 168 | [BD]广州南国都市 | stream.freetv.fun | <https://stream.freetv.fun/6a602a89e0c4b88dd7d8762303fb89b2b96bdd5e578ef935e975f32590f5e39b.ctv> |
 | 169 | [HD]南宁公共频道 | stream.freetv.fun | <https://stream.freetv.fun/ba5325155e0be49993321f976b6b8ca09627d7872ab62fcea28536aa93120ef8.m3u8> |
-| 170 | [BD]南宁影视 | stream.freetv.fun | <https://stream.freetv.fun/fd5056c703d32c18eda04243a61eb44186b73c32de02eaf8d179c8ffc6eddf36.m3u8> |
+| 170 | [BD]南宁影视 | stream.freetv.fun | <https://stream.freetv.fun/49d4d4c805105acce70db0ea7bd25612a1cf7a437b71a6605b53be1ad6058ed3.m3u8> |
 | 171 | [BD]南宁新闻综合 | tv.qntv.net | <rtmp://tv.qntv.net/channellive/ch1?zguizd> |
 | 172 | [HD]南宁都市生活频道 | stream.freetv.fun | <https://stream.freetv.fun/b88dce93757224c81c0b7cff4b276be147011588c24712add4fdd9c6e6eb59d5.m3u8> |
 | 173 | [BD]苍南新闻综合频道 | stream.freetv.fun | <https://stream.freetv.fun/26867513b7f55113a68877d1621cb693f3a0215871841c667b1eb55924ebafa7.m3u8> |
@@ -673,4 +673,4 @@
 | 667 | [BD]黑龙江都市[ipv6] | stream.freetv.fun | <https://stream.freetv.fun/1175fe96b51b312afc0f98d824b8cce5c65a7c2a5911611ee31f00cef9b1f8dc.m3u8> |
 | 668 | [HD]点掌财经 | stream.freetv.fun | <https://stream.freetv.fun/a438b7c61aa6f89a563fdfc6728289c739620c234c00a7f2cb2f0b1355a926ed.m3u8> |
 
-Updated at **Fri Jun 28 2024 16:09:07 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Jun 28 2024 18:09:48 GMT+0000 (Coordinated Universal Time)**
