@@ -472,4 +472,4 @@
 | 466 | CGTN西语 | CGTN | <https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8> |
 | 467 | CGTN阿语 | CGTN | <https://news.cgtn.com/resource/live/arabic/cgtn-a.m3u8> |
 
-Updated at **Wed Jul 03 2024 00:36:04 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Jul 03 2024 02:26:13 GMT+0000 (Coordinated Universal Time)**
