@@ -343,7 +343,7 @@
 | 337 | [BD]求索纪录[ipv6] | stream1.freetv.fun | <https://stream1.freetv.fun/3b13bd62dae13e930e5518e956b85d5d69f0af28863b50e362372fcc36185d8b.m3u8> |
 | 338 | [BD]汕尾综合1080p | stream1.freetv.fun | <https://stream1.freetv.fun/7ee0220c223315991aab21d123349cd1560a2c6a3ed98478e29c69e8389637b2.ctv> |
 | 339 | [HD]汕头小公园 | stream1.freetv.fun | <https://stream1.freetv.fun/201100886175542b489bbe8702a14c933dea2b19c6a331b14ef5a45e6483acba.m3u8> |
-| 340 | [HD]新闻综合 | stream1.freetv.fun | <https://stream1.freetv.fun/be5ce7d687ea1aba7bab0e0bcab040d830a3a0ebc2808f230df3d2c522af1c58.m3u8> |
+| 340 | [BD]汕头新闻综合 | stream1.freetv.fun | <https://stream1.freetv.fun/c0cbf626a94e3768c50bb6aabb831a1c8f7c4cf9970759c305114e1509c22163.m3u8> |
 | 341 | [BD]汕头生活1080p | stream1.freetv.fun | <https://stream1.freetv.fun/2aff78068959941dc415cd0510f27f8eea7a868180b05b4147deda5233e447b4.ctv> |
 | 342 | [BD]汕头综合1080p | stream1.freetv.fun | <https://stream1.freetv.fun/7a8c6046d18d03230cbc1aa4a17ba1572fbd72b1705f1ce75d8fd10dbd78f00b.ctv> |
 | 343 | [BD]浙江公共新闻 | stream1.freetv.fun | <https://stream1.freetv.fun/c5a266d693da3b49eb6a86a0e7019f1731826536ba1915a25fbf173c909918da.m3u8> |
@@ -584,7 +584,7 @@
 | 578 | [BD]双鸭山新闻[ipv6] | stream1.freetv.fun | <https://stream1.freetv.fun/240b6449b1a2b47c72a90c8a051707821088233fb5a0c228ca8f8ae7d39d2a27.m3u8> |
 | 579 | [SD]云南娱乐 | stream1.freetv.fun | <https://stream1.freetv.fun/1e519db50efc47898d28b361b278dd74438de87cd84222210bb38c2e60968666.m3u8> |
 | 580 | [HD]云南少儿 | stream1.freetv.fun | <https://stream1.freetv.fun/0408f1b5711a3f586ae7a6d8bd809950795878c727c614b9822ccb4ba1ccbfa1.m3u8> |
-| 581 | [SD]云南康旅 | stream1.freetv.fun | <https://stream1.freetv.fun/6b179f8058c63a37624e915473dd2db178df841b3e4ca66d92292f4a45664313.m3u8> |
+| 581 | [SD]云南康旅 | stream1.freetv.fun | <https://stream1.freetv.fun/9874264a175ee369c612437a559a4e3eb873ec9621e601561d9559b974671d8e.m3u8> |
 | 582 | [SD]云南影视 | stream1.freetv.fun | <https://stream1.freetv.fun/76d6929ef3145eb85fe264b8f83432ccc076db07698455be65ce53c618477a90.m3u8> |
 | 583 | [BD]云南生活 | stream1.freetv.fun | <https://stream1.freetv.fun/1637fb300bd304852b5f9d1b2b8fcc026298f6152e6167e688780a877b45cce7.m3u8> |
 | 584 | [SD]云南卫视[ipv6] | stream1.freetv.fun | <https://stream1.freetv.fun/368e59cc43274d4c5380dfd940d1f40ee03a4b9cb5b1648b01c42b47f2516d8b.m3u8> |
@@ -615,4 +615,4 @@
 | 609 | [BD]黑龙江都市[ipv6] | stream1.freetv.fun | <https://stream1.freetv.fun/1175fe96b51b312afc0f98d824b8cce5c65a7c2a5911611ee31f00cef9b1f8dc.m3u8> |
 | 610 | [HD]点掌财经 | stream1.freetv.fun | <https://stream1.freetv.fun/a438b7c61aa6f89a563fdfc6728289c739620c234c00a7f2cb2f0b1355a926ed.m3u8> |
 
-Updated at **Mon Jul 08 2024 14:08:25 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Jul 08 2024 16:09:08 GMT+0000 (Coordinated Universal Time)**
