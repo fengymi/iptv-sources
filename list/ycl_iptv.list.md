@@ -190,7 +190,7 @@
 | 184 | NBC Sport | jmp2.uk | <https://jmp2.uk/SamsungTVPlus/USBD420002446.m3u8> |
 | 185 | Trace Sports | lightning-tracesport-samsungau.amagi.tv | <https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8> |
 | 186 | SportsGrid | amg00315-sportsgrid-firetv.amagi.tv | <https://amg00315-sportsgrid-firetv.amagi.tv/playlist.m3u8> |
-| 187 | Pop | streamsy.online:2999 | <http://streamsy.online:2999/coachj88/N93DPKS9pJ/226> |
+| 187 | TBS | IPv4 直链 | <http://143.244.60.30/TBS/index.m3u8> |
 | 188 | Tastemade | jmp2.uk | <https://jmp2.uk/SamsungTVPlus/GBBB38000093D.m3u8> |
 | 189 | MovieSphere | jmp2.uk | <https://jmp2.uk/SamsungTVPlus/USBD17000117B.m3u8> |
 | 190 | The Lego Channel | jmp2.uk | <https://jmp2.uk/SamsungTVPlus/GBBC4300005AL.m3u8> |
@@ -201,7 +201,7 @@
 | 195 | History | da8eq3kpws4wh.cloudfront.net | <https://da8eq3kpws4wh.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-qwqfh4ecsmf30/7f1c6847-381e-477d-9bda-b62f74400ee0/3.m3u8> |
 | 196 | TED Talks | tedconferences-ted-1-us.xiaomi.wurl.tv | <https://tedconferences-ted-1-us.xiaomi.wurl.tv/playlist.m3u8> |
 | 197 | Kids TV | jansonmedia-kidstv-1-us.xiaomi.wurl.tv | <https://jansonmedia-kidstv-1-us.xiaomi.wurl.tv/playlist.m3u8> |
-| 198 | Mytime | cdn-uw2-prod.tsv2.amagi.tv | <https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytimeuk-xiaomi/playlist.m3u8> |
+| 198 | Mytime | mytime-tcl.amagi.tv | <https://mytime-tcl.amagi.tv/playlist1080-p.m3u8?blog.ntnas.top> |
 | 199 | Museum | cdn-ue1-prod.tsv2.amagi.tv | <https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01492-secomsasmediart-museumtven-xiaomi/playlist.m3u8> |
 | 200 | LoveStories | lovestoriestv-lovestoriestv-1-eu.xiaomi.wurl.tv | <https://lovestoriestv-lovestoriestv-1-eu.xiaomi.wurl.tv/playlist.m3u8> |
 | 201 | Travel XP | travelxp-travelxp-1-eu.xiaomi.wurl.tv | <https://travelxp-travelxp-1-eu.xiaomi.wurl.tv/playlist.m3u8> |
@@ -280,4 +280,4 @@
 | 274 | 茶友频道 | IPv4 直链 | <rtp://239.3.1.165:8001> |
 | 275 | 快乐垂钓 | IPv4 直链 | <rtp://239.3.1.164:8001> |
 
-Updated at **Wed Jul 10 2024 10:08:47 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Jul 10 2024 12:14:39 GMT+0000 (Coordinated Universal Time)**

@@ -193,7 +193,7 @@ Stadium,https://jmp2.uk/SamsungTVPlus/USAJ3504705A.m3u8
 NBC_Sport,https://jmp2.uk/SamsungTVPlus/USBD420002446.m3u8
 Trace_Sports,https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
 SportsGrid,https://amg00315-sportsgrid-firetv.amagi.tv/playlist.m3u8
-Pop,http://streamsy.online:2999/coachj88/N93DPKS9pJ/226
+TBS,http://143.244.60.30/TBS/index.m3u8
 Tastemade,https://jmp2.uk/SamsungTVPlus/GBBB38000093D.m3u8
 MovieSphere,https://jmp2.uk/SamsungTVPlus/USBD17000117B.m3u8
 The_Lego_Channel,https://jmp2.uk/SamsungTVPlus/GBBC4300005AL.m3u8
@@ -204,7 +204,7 @@ BBC_Earth,https://d206rrc0yoxllg.cloudfront.net/v1/manifest/3722c60a815c199d9c0e
 History,https://da8eq3kpws4wh.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-qwqfh4ecsmf30/7f1c6847-381e-477d-9bda-b62f74400ee0/3.m3u8
 TED_Talks,https://tedconferences-ted-1-us.xiaomi.wurl.tv/playlist.m3u8
 Kids_TV,https://jansonmedia-kidstv-1-us.xiaomi.wurl.tv/playlist.m3u8
-Mytime,https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytimeuk-xiaomi/playlist.m3u8
+Mytime,https://mytime-tcl.amagi.tv/playlist1080-p.m3u8?blog.ntnas.top
 Museum,https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01492-secomsasmediart-museumtven-xiaomi/playlist.m3u8
 LoveStories,https://lovestoriestv-lovestoriestv-1-eu.xiaomi.wurl.tv/playlist.m3u8
 Travel_XP,https://travelxp-travelxp-1-eu.xiaomi.wurl.tv/playlist.m3u8
