@@ -12,7 +12,7 @@
 | 6 | CCTV-5+ 体育赛事 | 中国移动黑龙江 | <http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8> |
 | 7 | CCTV-6 电影 | 中国移动黑龙江 | <http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8> |
 | 8 | CCTV-7 国防军事 | 中国移动黑龙江 | <http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8> |
-| 9 | CCTV-8 电视剧 | 中国移动黑龙江 | <,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8> |
+| 9 | CCTV-8 电视剧 | 中国移动黑龙江 | <http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8> |
 | 10 | CCTV-9 纪录 | 中国移动黑龙江 | <http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8> |
 | 11 | CCTV-10 科教 | 中国移动黑龙江 | <http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226473/index.m3u8> |
 | 12 | CCTV-11 戏曲 | 中国移动黑龙江 | <http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226565/index.m3u8> |
@@ -134,4 +134,4 @@
 | 128 | CGTN西语 | 0472.org | <https://0472.org/hls/cgtnx.m3u8> |
 | 129 | CGTN阿语 | 0472.org | <https://0472.org/hls/cgtna.m3u8> |
 
-Updated at **Mon Jul 29 2024 04:10:09 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Jul 29 2024 06:12:11 GMT+0000 (Coordinated Universal Time)**
