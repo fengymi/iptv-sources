@@ -1539,7 +1539,7 @@ News,#genre#
 [HD]btv_news,https://stream1.freetv.fun/782b0a7f3d6901d5beb998861d24a82cd45dd471bdf78d07e744496332e0ece0.m3u8
 [HD]band_sp_1,https://stream1.freetv.fun/df65cca9aa407d074d3b96c799f3e9b2875b1afdaa015d9c8be56071f7a546ed.m3u8
 [BD]berita_rtm_[geo-blocked],https://stream1.freetv.fun/5894cc829fd1272ad6ff86adca0fa2910d7d386d67003cbee71afcd576d6f47e.m3u8
-[HD]billiard_tv,https://stream1.freetv.fun/9e64b4a486bf095417b078200232ee1a112657c1ff871f89101b1dc89a9479d5.m3u8
+[HD]billiard_tv_hd,https://stream1.freetv.fun/c0e462a583354cfd890d48c3d6b2a38417649c461ae4892379e0547dc1c98af6.m3u8
 [HD]blowjob_red_tv,https://stream1.freetv.fun/3803255758567ae0444063a133edfe09f49bb5723c752531b2ec3161350c2850.m3u8
 [BD]bloomberg_originals,https://stream1.freetv.fun/bf9c8ea12770988a71d180af2e0b2bdbdd692b6d1b701f089ba34a1873161335.m3u8
 [HD]BLOOMBERG_TV,https://stream1.freetv.fun/9aee6d0f817d4609a15d179533e2b2e1976edcab9ee9cce6b8fd9945805f3533.ctv
