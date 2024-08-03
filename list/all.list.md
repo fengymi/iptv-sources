@@ -96,7 +96,7 @@
 | 90 | [HD]ASTRO AURA | stream1.freetv.fun | <https://stream1.freetv.fun/9baa6d46c3d9c8890faa4a2f92719a9ec6990654d1963ba08552df7812ae37b3.ctv> |
 | 91 | [SD]astro cricket | stream1.freetv.fun | <https://stream1.freetv.fun/bf38672390dade7640265fcf4e434a04e33408ff8f22977013267f8cc6f75360.ctv> |
 | 92 | [HD]ASTRO OASIS | stream1.freetv.fun | <https://stream1.freetv.fun/b4bcd22791bf554105a4c48d65ad163ec3df4e1465173e0f2033a97f03205dc1.ctv> |
-| 93 | [SD]ASTRO WARNA | stream1.freetv.fun | <https://stream1.freetv.fun/599e7879a5dcb9594e8f161ed156e7364881013249b40370a39c6fb1b739d085.ctv> |
+| 93 | [SD]ASTRO WARNA | stream1.freetv.fun | <https://stream1.freetv.fun/a69a36cc87b822f45801220113c1b1e5f9b8d4e34ccf54e6b68399155259706d.ctv> |
 | 94 | [HD]ASTRO 华丽台 | stream1.freetv.fun | <https://stream1.freetv.fun/8f0cc2b1470b7a161fc7c6c35c70586c445ed13724bcd23f77340a2ad27ae792.ctv> |
 | 95 | [BD]atfal & mawaheb tv | stream1.freetv.fun | <https://stream1.freetv.fun/e63ce3cfa960af2f9afe942fd44351071b625b0949afe12feb4790a99343c076.m3u8> |
 | 96 | [HD]tvri world | stream1.freetv.fun | <https://stream1.freetv.fun/de78a5bddc78a16751b32abeef85fd892da97babeef58e21739986cfc5df0371.m3u8> |
@@ -337,7 +337,7 @@
 | 331 | [BD]cctv4-国际 | stream1.freetv.fun | <https://stream1.freetv.fun/1d35f4d2d00da6c61e503fb713126239f42260c4d19b6322316306410f75b368.m3u8> |
 | 332 | [SD]cctv-4中文国际 | stream1.freetv.fun | <https://stream1.freetv.fun/5ecf26f2e60ac62579cd196934377718114f8d8a41503e8354c446c72f1b09b7.m3u8> |
 | 333 | [SD]cctv4中文国际 | stream1.freetv.fun | <https://stream1.freetv.fun/6695f13d9d21c7db41f985c194e89b3e985f6c257c9555f989a489a45c196962.m3u8> |
-| 334 | [BD]cctv-5 | stream1.freetv.fun | <https://stream1.freetv.fun/e7630b0b0e7d8b116a7acdff579666e3049e9200fecb216352e90dda7a90b1d0.m3u8> |
+| 334 | [SD]cctv-5 | stream1.freetv.fun | <https://stream1.freetv.fun/dd669a633f676efe1d240fdcfd8bae1681ff4a0160d02c7b98d77fc89a3b883c.m3u8> |
 | 335 | [BD]cctv5-体育 | stream1.freetv.fun | <https://stream1.freetv.fun/d21748d5579d2ca78661122df9e4ae1f75eee06895b76f14d0426bf0e3b031ef.m3u8> |
 | 336 | [BD]cctv5+[ipv6] | stream1.freetv.fun | <https://stream1.freetv.fun/fd949c154a0facf9abb01f395c5d7d09b44a35fd0089da56e0ae57bc6b8d9c97.m3u8> |
 | 337 | [BD]cctv6 | stream1.freetv.fun | <https://stream1.freetv.fun/753fe6b20478c17a39f0c17d3c8d98a74cd5890a6e40f4ce011380f2dd185285.m3u8> |
@@ -788,7 +788,7 @@
 | 782 | [HD]documentary+ | stream1.freetv.fun | <https://stream1.freetv.fun/fe79c5f6c8ebf1b4e728df6efaf2f89e2fc6dd71fa868354e4c163de7e396583.m3u8> |
 | 783 | [BD]ssc news | stream1.freetv.fun | <https://stream1.freetv.fun/ef526c82e19de84c6d4355dbd37e56d9605f7cf2f2228409e611a2b2557334f2.ctv> |
 | 784 | [BD]jtbc 뉴스 | stream1.freetv.fun | <https://stream1.freetv.fun/9c683f5e12d8f5a1230c18b13ed38758022b4eba4978c95f8740c6e1c7620a15.m3u8> |
-| 785 | [BD]jtbc 캠핑클럽 | stream1.freetv.fun | <https://stream1.freetv.fun/2576708e85031bb8ae2b0bf91dc31e1d42a46e4941e922e8497c5d6e7fdc4256.m3u8> |
+| 785 | [HD]jtbc 캠핑클럽 | stream1.freetv.fun | <https://stream1.freetv.fun/2576708e85031bb8ae2b0bf91dc31e1d42a46e4941e922e8497c5d6e7fdc4256.m3u8> |
 | 786 | [HD]jtv | stream1.freetv.fun | <https://stream1.freetv.fun/2005907afc5485226768ad3854c284e9f176b846d739ace4ee58fc149675ca05.m3u8> |
 | 787 | [HD]bioskop indonesia | stream1.freetv.fun | <https://stream1.freetv.fun/849a108492a910d7476382d798ae382fd6e239d8ac35c185c3b450924d19a8b8.m3u8> |
 | 788 | [HD]jpm tv | stream1.freetv.fun | <https://stream1.freetv.fun/cced5ff7d56350e737e81330446e656e088670c6b642e1eabd2f503b337a4b49.m3u8> |
@@ -1350,7 +1350,7 @@
 | 1344 | [HD]ช่อง at&t sportsnet | stream1.freetv.fun | <https://stream1.freetv.fun/22e9907f02150d71f76e44ad283fc6f834b65ec904b6d6fb53d211ef63a7a361.m3u8> |
 | 1345 | [HD]ช่อง sportsnet pacific | stream1.freetv.fun | <https://stream1.freetv.fun/c024c33549e30b9dfd2e8f55711bcb63a77a01f18a2ed85eeb3667562d480b05.m3u8> |
 | 1346 | [HD]sportsnews | stream1.freetv.fun | <https://stream1.freetv.fun/067017f8ca5c3244765f0630b27b61c9c13cca77bda2ef09fa2d07d557aa6b17.m3u8> |
-| 1347 | [VGA]sportsnet 360 | stream1.freetv.fun | <https://stream1.freetv.fun/4d5276abd3c5bf96e9b702645a8f7fe87f7f563a832846bd030df8bc8b1b82d0.ctv> |
+| 1347 | [BD]sportsnet 360 | stream1.freetv.fun | <https://stream1.freetv.fun/4d5276abd3c5bf96e9b702645a8f7fe87f7f563a832846bd030df8bc8b1b82d0.ctv> |
 | 1348 | [HD]ช่อง sportsnet ontario | stream1.freetv.fun | <https://stream1.freetv.fun/10f2842733a31c8fb3d461c8035995cc1d6c89d0df81c8b004fa10a815db4f3b.m3u8> |
 | 1349 | [BD]stadium | stream1.freetv.fun | <https://stream1.freetv.fun/d4e43c238db7b1bc53e0a511ff3ef6822fdd517e3bacfd5f00e9177511518272.m3u8> |
 | 1350 | [HD]stadium | stream1.freetv.fun | <https://stream1.freetv.fun/f5425dcd09c637b13ee85cb700f947c594329d284aa63be00503d6d93b627678.ctv> |
@@ -2276,4 +2276,4 @@
 | 2270 | [BD]소상공인방송 | stream1.freetv.fun | <https://stream1.freetv.fun/8b059be92e1d851bfcedeb99bbd37b00ef4c21bce792c6f147a19e4857cea026.m3u8> |
 | 2271 | [BD]연합뉴스tv | stream1.freetv.fun | <https://stream1.freetv.fun/4207ebf0f1c354ac75cc77a05692276ca2efee2340f1c706435787a6f083a7bf.m3u8> |
 
-Updated at **Sat Aug 03 2024 10:07:47 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Aug 03 2024 12:12:58 GMT+0000 (Coordinated Universal Time)**
