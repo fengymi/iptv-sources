@@ -1268,7 +1268,7 @@ Other,#genre#
 [HD]atlanta_channel_(720p),https://stream1.freetv.fun/b0518fe83cb68fa4ab6b5d85e747485e312545c26ad3b3d862c7d8126185a2c5.m3u8
 [SD]betv,https://stream1.freetv.fun/fbd4dc026972f31ec4b9be93d10940323373a6387da5647833554a682ae935f4.m3u8
 [BD]atameken_business,https://stream1.freetv.fun/f3c3d0d78969c6bda96d548e59bfe6e631392cabe20e964e6a68b4651ceea8ed.m3u8
-[BD]babyfirst,https://stream1.freetv.fun/637b9105f56ff91f9abec79b78297dffe85a651d85dba1bc068b9b76c9f39783.m3u8
+[HD]baby_first,https://stream1.freetv.fun/2c158274b6aedb69d987e2c5177b2d3aa2cba38152bc053b6c035e34b9f5065b.ctv
 [HD]30a_the_beach_show,https://stream1.freetv.fun/1cc3357d358e6f32e58e001ccf225d6a899736eb5cac584e0721b58a14cd8be5.m3u8
 [HD]beach_tv_panama_city_(720p),https://stream1.freetv.fun/508f2efd0a90cc57174a4c9012518055877c9b68290257de66625bd008cc48ad.m3u8
 [SD]bridge,https://stream1.freetv.fun/8fe55d4bfa34d29794e71bf33eb377dd938ab4a947e38ada6225c7db573469ef.m3u8
@@ -2455,6 +2455,7 @@ Test,#genre#
 [BD]cbn_español_(1080p),https://stream1.freetv.fun/5c7c6c039e49edb01e679827d80e8f669566372911f75b76069dcf4af607a32a.m3u8
 [SD]cgtn_français_(576p)_[not_24/7],https://stream1.freetv.fun/182476bbeaf13251289573a758465d37f1716f737f8f770d4e5980a63eb4a88b.m3u8
 [SD]cgtn_русский_(576p),https://stream1.freetv.fun/cd17ab0f6da0511b921f1546eaa98aaf24f3d12f6a2dc680cc8a2e5cf1a59ee6.m3u8
+[BD]chch,https://stream1.freetv.fun/b76be57e18f47ee667b2813c6ff429972c2510e41fd2d266dc92ef0727fd7568.m3u8
 [BD]上海ics外语,https://stream1.freetv.fun/74be51393d9387c93707fb23fc9cfbffe507a584fb6d89f57103c4b8ebefe697.ctv
 [BD]上海卫视,https://stream1.freetv.fun/6c01e68a24075b15d929dd49e4b8ac59965aef19dd8daf5f2ebe7e1be3841f13.m3u8
 [BD]上海都市,https://stream1.freetv.fun/0e304419acd18f06632242d04ca3e267a9ac00bbb7bc7252fc9775420a18ec64.ctv
@@ -2651,6 +2652,7 @@ Test,#genre#
 [BD]原阳新闻综合频道,https://stream1.freetv.fun/34035d18278d3b4ea7b4ed4f94547d75a3440e5f74490c99458d9e881c990bf2.m3u8
 [VGA]哈尔滨生活,https://stream1.freetv.fun/71746238db63ed6951b3f0a4cbc42467d1a7b32c1925b4854de68ed71d678c98.m3u8
 [BD]四川科教,https://stream1.freetv.fun/b15295b3e92bc05f0d0d70f16c56a26babec64bfcf55b4d60db31d2aae6340ab.m3u8
+[HD]城市电视,https://stream1.freetv.fun/dddebc29595c94bce3c6b22f5ee44944e5efd8c632c4eeb620c7dfe6d77f705a.m3u8
 [BD]大庆新闻综合,https://stream1.freetv.fun/72078ced53b6a4f440c82744225c37ee6c2a3bf00ad47642a128e82f252474f9.m3u8
 [VGA]孝感公共频道,https://stream1.freetv.fun/0a0699b4d52d9c944c8e9bb7ec09b97d351e5d2be8fbae6c4a2843ccb7d34f9c.m3u8
 [SD]安庆公共,https://stream1.freetv.fun/920e18cafd215382241b61959adb0e9df12830393f0a43934efafeb6f5555a3a.ctv
@@ -3107,11 +3109,6 @@ CCTV-14_少儿,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLT
 CCTV-15_音乐,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226476/index.m3u8
 CCTV-16_奥林匹克,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
 CCTV-17_农业农村,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
-CCTV-4K_超高清,https://pi.0472.org/livetv/cctv4k.m3u8
-重温经典,https://pi.0472.org/livetv/cwjd.m3u8
-CHC影迷电影,https://pi.0472.org/livetv/chcym.m3u8
-CHC动作电影,https://pi.0472.org/livetv/chcdz.m3u8
-CHC家庭影院,https://pi.0472.org/livetv/chcjt.m3u8
 CGTN英语,https://0472.org/hls/cgtn.m3u8
 CGTN记录,https://0472.org/hls/cgtnd.m3u8
 CGTN俄语,https://0472.org/hls/cgtne.m3u8
