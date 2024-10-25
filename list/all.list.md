@@ -1171,7 +1171,7 @@
 | 1165 | [BD]sbs | stream1.freetv.fun | <https://stream1.freetv.fun/2fa0ac6ab64e8001eaf3caaed5b51f25d3b3fba21ef8374c58977858c6cb7449.m3u8> |
 | 1166 | [HD]mtv | stream1.freetv.fun | <https://stream1.freetv.fun/f496d97261b57a99705af1bf22a579b52b182cecb427b82ffdf3f98164bb842a.m3u8> |
 | 1167 | [HD]cbs sports | stream1.freetv.fun | <https://stream1.freetv.fun/5f95815dad0e9a0aae8e7137fbdf73965185676d031a7525a40191acfa5e90b8.m3u8> |
-| 1168 | [HD]brt 2 | stream1.freetv.fun | <https://stream1.freetv.fun/4a65d8633f52e2b526ce1109ce5eff20c8314ed12d4699d92283e139fbfc4dfd.m3u8> |
+| 1168 | [BD]sbt rj 2 | stream1.freetv.fun | <https://stream1.freetv.fun/0129e1a839381297e23a9d8c76016b4c9d9e50910ff0e08bd37d9598926f4d97.ctv> |
 | 1169 | [BD]sbt sp | stream1.freetv.fun | <https://stream1.freetv.fun/ac73347307688e36c407022689632c4cf872bd3c3f28ec1c736d38dca36eacd2.m3u8> |
 | 1170 | [HD]src tv (720p) | stream1.freetv.fun | <https://stream1.freetv.fun/61739dca009f35d644b75fcba786c7ffe4b3105b2bac5d66d7385c095bd36fb9.m3u8> |
 | 1171 | [BD]sctv-2高清 | stream1.freetv.fun | <https://stream1.freetv.fun/c9bbaace41e71f7e1f4d553a5b373ca09f3081a13a2e4dc7c75760cc04da526f.ctv> |
@@ -2258,4 +2258,4 @@
 | 2252 | [BD]국악방송 | stream1.freetv.fun | <https://stream1.freetv.fun/5f3e490eafd98ed083068a823f7e783790acb0d86d386dccb05d8db5d768f6ac.m3u8> |
 | 2253 | [BD]소상공인방송 | stream1.freetv.fun | <https://stream1.freetv.fun/8b059be92e1d851bfcedeb99bbd37b00ef4c21bce792c6f147a19e4857cea026.m3u8> |
 
-Updated at **Fri Oct 25 2024 04:12:53 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Oct 25 2024 06:13:29 GMT+0000 (Coordinated Universal Time)**
