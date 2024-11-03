@@ -42,7 +42,7 @@ Movies,#genre#
 [BD]Cinestar1,https://stream1.freetv.fun/330b72fa9d1864aad06713e7b91e6f8645d8f37a87e05e321a073c89803c34b3.ctv
 [BD]Cinestar2,https://stream1.freetv.fun/c1912d4019c9e014aa9f1cdaa893726fbf56ba4be65e2e3410e984df886ad200.ctv
 [HD]cinebox,https://stream1.freetv.fun/a0d018413db87d2d52e32f61090440cd20790afe38fdb5b86d224c6f44e5623f.m3u8
-[HD]cinemaworld,https://stream1.freetv.fun/f753cd4af407d05f08ece34d468f3280ec549f7b46a32040f9b2600785cd8c4b.m3u8
+[SD]cinemaworld,https://stream1.freetv.fun/f753cd4af407d05f08ece34d468f3280ec549f7b46a32040f9b2600785cd8c4b.m3u8
 [HD]Cinemax,https://stream1.freetv.fun/52de04cd7cda140d2b0dd2b0f1f9e3eee149128f02cc27e3bcb635013f417551.ctv
 [HD]CineMax_Action,https://stream1.freetv.fun/d662da3d128ba349a62f72257c9c782314f1e52b88aa017d751f4f9d2c877cfc.ctv
 [HD]Cinemax_Moviemax,https://stream1.freetv.fun/fcf9a61221f02466fa78c1380a34916d1689ed0c11a959bddd7c19f5d5202c49.ctv
@@ -84,7 +84,7 @@ Movies,#genre#
 [BD]hbo_xtreme,https://stream1.freetv.fun/6915206fdb22c6e3f8a6aa5c2192fb2d567a1162a90d48d622be1f86cb658e2a.ctv
 [SD]HBO_Zone,https://stream1.freetv.fun/933627aa4401be383ff088364e979d9fbf150698044a08e16d98bfcf5317072f.ctv
 [BD]myx_philippines,https://stream1.freetv.fun/8319fc3f6b1ec72b9a74b8fdcf740fb5ad36d94eff7c9c35f531726d7c94c30b.m3u8
-[BD]hbo_pop,https://stream1.freetv.fun/dad32b572ef767d9691ec044e2a515779963d2396b077dcfda456f2d4672d11e.ctv
+[HD]hbo_pop,https://stream1.freetv.fun/dad32b572ef767d9691ec044e2a515779963d2396b077dcfda456f2d4672d11e.ctv
 [BD]hbo2_hd,https://stream1.freetv.fun/ff1a04efe38150008d2363e79546ada5b8c6bce761071063abdaf656582784e4.m3u8
 [HD]HITS,https://stream1.freetv.fun/7acfd0ac240c8d9f2c03df0c508afca252c8b569f1c66cc7ded8ec2716e58d0f.ctv
 [HD]hitsmovies,https://stream1.freetv.fun/84e3fc5a9fc8c7941454f059d53ec34108ca9b7a561659ceb12922f6179393d1.ctv
@@ -546,7 +546,7 @@ Generic,#genre#
 [SD]video_calabria,https://stream1.freetv.fun/abba5925fd3fbf939c90e92f6994430ae175ca748652d783f537975584be58a8.m3u8
 [BD]8TV_MALAYSIA,https://stream1.freetv.fun/aa272e9fde44ab379ce914116247de5e4058b16d81a412138f14bf5cf6d25ea2.ctv
 [SD]9_волна,https://stream1.freetv.fun/c9510f9c84d6933391375a59eeb1f8d1a801fe6e72c359e47acdee9919f5a559.m3u8
-[BD]a_plus_ivoire,https://stream1.freetv.fun/f33f179deff628512e75765121c14a34f2dd53d7ccad9ee4a189465eef303ee5.m3u8
+[HD]a_plus_ivoire,https://stream1.freetv.fun/f33f179deff628512e75765121c14a34f2dd53d7ccad9ee4a189465eef303ee5.m3u8
 [HD]w_shopping_(720p),https://stream1.freetv.fun/3c4f54a14fed76ca85fa1d0dbd36cbf6756be78cbf6772988a12de0061a65a02.m3u8
 [BD]a_e,https://stream1.freetv.fun/41bbdb6b3a059f8f270efc5bfb1d36b1e686e0ddc8927f68c769cabc52dbdc4c.m3u8
 [VGA]kab_1,https://stream1.freetv.fun/3e69add0cbb7c4fae29a614d6b999557b630eb85ce66fdce1de1cb27119a015a.m3u8
@@ -695,7 +695,7 @@ Generic,#genre#
 [HD]tvg_galicia_eu,https://stream1.freetv.fun/26bf587d056c117cad255eabdd0be3da3851919f646b97d9d0e13d4c47f6985a.m3u8
 [SD]gulli,https://stream1.freetv.fun/eb0577ecb3910f57041cdec0ab9e80eae6b56503b578899c44e3d5a82944bc0c.m3u8
 [BD]tv1_hd,https://stream1.freetv.fun/47537095204d5c9aa8acfda7cdb68bfe79570854b7a402bc4ec47179d83d92b8.m3u8
-[HD]hr_ⓖ,https://stream1.freetv.fun/de70e98094813038b6b41451dbcb0b71fec8bdb7d806f4ca873a0460526aa137.m3u8
+[VGA]hr_ⓖ,https://stream1.freetv.fun/de70e98094813038b6b41451dbcb0b71fec8bdb7d806f4ca873a0460526aa137.m3u8
 [HD]wdr_fernsehen_münster_(720p),https://stream1.freetv.fun/49f6b481527c27def25acf6f5840bfb6aecfbb54a24a41c1b60d930e8783f2e2.m3u8
 [HD]hsn2,https://stream1.freetv.fun/8916d95cd3fb57bb5cb547ddbc035bf135c397da0071cbe51ac3167cbc025a57.m3u8
 [BD]haber_türk,https://stream1.freetv.fun/24e0310176f397ef6b41359cc583e782173acc5a853a696c3f0c3d54d8602ba9.m3u8
@@ -723,7 +723,7 @@ Generic,#genre#
 [BD]fm_italia,https://stream1.freetv.fun/e312c4203fe8dffd611a4898a7e04a8d8972b31865bfb47741b403ae72417c65.m3u8
 [HD]kiss_kiss_italia_hd,https://stream1.freetv.fun/990e184b889d050c375474b9cbd2bbc8b871ff1e24c84c10d963182c118ed0cc.m3u8
 [HD]jewellery_maker,https://stream1.freetv.fun/2d54c3347fc3bd0ec6db7c4ce666fed913bc6c4a1019005fb75e66b1316b76b5.m3u8
-[SD]bioskop_indonesia,https://stream1.freetv.fun/849a108492a910d7476382d798ae382fd6e239d8ac35c185c3b450924d19a8b8.m3u8
+[VGA]bioskop_indonesia,https://stream1.freetv.fun/849a108492a910d7476382d798ae382fd6e239d8ac35c185c3b450924d19a8b8.m3u8
 [HD]jordan_comedy,https://stream1.freetv.fun/e647f7a7ca0ad088d9540011006869f07b75ac31b4f9f2ed11095a899102495d.m3u8
 [BD]jordan_tv,https://stream1.freetv.fun/593efbfde77b1e260ab0594f59b7e2f77e7310f2c349c6a1f2aaf62afe1c9831.m3u8
 [HD]juwelo,https://stream1.freetv.fun/cb43293135b21d0e5c3297b3bda3e516890419b4cc4d20cda2dc0ee26256b382.m3u8
