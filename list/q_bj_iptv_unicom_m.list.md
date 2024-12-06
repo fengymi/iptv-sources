@@ -1,4 +1,4 @@
-# List for **qwerttvv/Beijing-IPTV IPTV Unicom Multicast**(Rollback)
+# List for **qwerttvv/Beijing-IPTV IPTV Unicom Multicast**
 
 > M3U: [q_bj_iptv_unicom_m.m3u](/q_bj_iptv_unicom_m.m3u), TXT: [q_bj_iptv_unicom_m.txt](/txt/q_bj_iptv_unicom_m.txt)
 
@@ -143,4 +143,4 @@
 | 137 | 音乐现场 | IPv4 直链 | <rtp://239.3.1.70:4120> |
 | 138 | 魅力时尚 | IPv4 直链 | <rtp://239.3.1.196:9012> |
 
-Updated at **Thu Dec 05 2024 22:09:12 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Dec 06 2024 00:47:00 GMT+0000 (Coordinated Universal Time)**
