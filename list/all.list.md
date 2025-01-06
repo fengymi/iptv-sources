@@ -1122,7 +1122,7 @@
 | 1116 | [BD]équidia racing 1 | stream1.freetv.fun | <https://stream1.freetv.fun/fc12286b44af447a59c98c969b21582fd8d42e9b75bad75527c7b70b7d3d70f8.m3u8> |
 | 1117 | [HD]ช่อง radio kiss kiss italia | stream1.freetv.fun | <https://stream1.freetv.fun/d890212fe12deb91b5ecc59faf8d166ebde0d7066cd6e0b4799fa12b63cd0aa6.m3u8> |
 | 1118 | [VGA]radio norba tv | stream1.freetv.fun | <https://stream1.freetv.fun/61e361f17f8264380da120cae20302bea7bebe2db3bc48d80ec4bb159476f6fc.m3u8> |
-| 1119 | [BD]rhema tv | stream1.freetv.fun | <https://stream1.freetv.fun/a0a5b14386cb9b21531cae8bbce1c5548e5c881c7da0044882fdb2d68e042100.m3u8> |
+| 1119 | [BD]praha tv | stream1.freetv.fun | <https://stream1.freetv.fun/615dacf6109deac08a2fd97dd49875a52b59428e35a0fa5613dd9824e410a45f.m3u8> |
 | 1120 | [BD]rai 3 | stream1.freetv.fun | <https://stream1.freetv.fun/0b0031dd4e75e2266f77af6f679c16ddb22002a3054516596081ebee218a6880.m3u8> |
 | 1121 | [SD]rai italia asia | stream1.freetv.fun | <https://stream1.freetv.fun/1864ddb18dc4da154767a383f2b77bbc5c238033e19222f7d4940f8211796cfb.ctv> |
 | 1122 | [HD]rai news 24 | stream1.freetv.fun | <https://stream1.freetv.fun/96d4b9169a30fe4c413ff7ef993f01c4951b32292fb4e29e90f976e5c7f300fd.m3u8> |
@@ -2195,4 +2195,4 @@
 | 2189 | [BD]소상공인방송 | stream1.freetv.fun | <https://stream1.freetv.fun/8b059be92e1d851bfcedeb99bbd37b00ef4c21bce792c6f147a19e4857cea026.m3u8> |
 | 2190 | [BD]연합뉴스tv | stream1.freetv.fun | <https://stream1.freetv.fun/4207ebf0f1c354ac75cc77a05692276ca2efee2340f1c706435787a6f083a7bf.m3u8> |
 
-Updated at **Mon Jan 06 2025 16:11:23 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Jan 06 2025 18:12:38 GMT+0000 (Coordinated Universal Time)**

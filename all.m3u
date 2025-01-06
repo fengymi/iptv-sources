@@ -2235,8 +2235,8 @@ https://stream1.freetv.fun/fc12286b44af447a59c98c969b21582fd8d42e9b75bad75527c7b
 https://stream1.freetv.fun/d890212fe12deb91b5ecc59faf8d166ebde0d7066cd6e0b4799fa12b63cd0aa6.m3u8
 #EXTINF:-1 tvg-name="RadioNorba" tvg-id="" tvg-country="Italy" tvg-language="Italiano" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174923764585_39.png" group-title="Generic",[VGA]radio norba tv
 https://stream1.freetv.fun/61e361f17f8264380da120cae20302bea7bebe2db3bc48d80ec4bb159476f6fc.m3u8
-#EXTINF:-1 tvg-name="Rahma TV" tvg-id="" tvg-country="Egypt" tvg-language="Arabic" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/07/22/20150722095419296564_46.jpg" group-title="Other",[BD]rhema tv
-https://stream1.freetv.fun/a0a5b14386cb9b21531cae8bbce1c5548e5c881c7da0044882fdb2d68e042100.m3u8
+#EXTINF:-1 tvg-name="Rahma TV" tvg-id="" tvg-country="Egypt" tvg-language="Arabic" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/07/22/20150722095419296564_46.jpg" group-title="Other",[BD]praha tv
+https://stream1.freetv.fun/615dacf6109deac08a2fd97dd49875a52b59428e35a0fa5613dd9824e410a45f.m3u8
 #EXTINF:-1 tvg-name="Rai 3" tvg-id="300029" tvg-country="Italy" tvg-language="Italiano" tvg-logo="https://epg.pw/media/images/channel/2024/08/13/large/20240813050016777983_50.png" group-title="Generic",[BD]rai 3
 https://stream1.freetv.fun/0b0031dd4e75e2266f77af6f679c16ddb22002a3054516596081ebee218a6880.m3u8
 #EXTINF:-1 tvg-name="Rai Italia" tvg-id="" tvg-country="Italy" tvg-language="Italiano" tvg-logo="https://epg.pw/media/images/channel/2019/01/16/large/20190116223706790494_26.PNG" group-title="Generic",[SD]rai italia asia
