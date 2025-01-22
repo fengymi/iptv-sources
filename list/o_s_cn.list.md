@@ -1,4 +1,4 @@
-# List for **iptv.org stream China**
+# List for **iptv.org stream China**(Rollback)
 
 > M3U: [o_s_cn.m3u](/o_s_cn.m3u), TXT: [o_s_cn.txt](/txt/o_s_cn.txt)
 
@@ -511,4 +511,4 @@
 | 505 | Nei Monggol TV 2 Mongolian Culture Channel | IPv4 直链 | <http://1.183.141.194:8001/hls/54/index.m3u8> |
 | 506 | Hunan Entertainment Channel | 1732e975z9.zicp.fun:8082 | <http://1732e975z9.zicp.fun:8082/hls/20/index.m3u8> |
 
-Updated at **Wed Jan 22 2025 02:41:33 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Jan 22 2025 04:11:50 GMT+0000 (Coordinated Universal Time)**
