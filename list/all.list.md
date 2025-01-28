@@ -226,7 +226,7 @@
 | 220 | [BD]tvsn beauty | stream1.freetv.fun | <https://stream1.freetv.fun/396eecdd5391a444d47d1fe7f4c03e7e66ca31bbe108dfafaddf7613145bf82e.m3u8> |
 | 221 | [HD]bein sport 1feed ʜᴅ | stream1.freetv.fun | <https://stream1.freetv.fun/a0f33fde8258fa79a1d73df7b0bf6060aab6e4f87f0b0100de0005b916c3192b.m3u8> |
 | 222 | [BD]BERITA SATU | stream1.freetv.fun | <https://stream1.freetv.fun/45379d627f79e193cba8bd4bfaa0c0a2e5628de4bfe29a911454103fc32422e2.ctv> |
-| 223 | [SD]BERNAMA | stream1.freetv.fun | <https://stream1.freetv.fun/79792e57208d6604d16dda222cfed6e80a02e63b5c211daad3dc0d0e41ebe67e.ctv> |
+| 223 | [SD]BERNAMA | stream1.freetv.fun | <https://stream1.freetv.fun/1a63ec1f95e7051ff590ad42d903c81751ab7ecc159294089011eab5d434f74c.ctv> |
 | 224 | [HD]bet | stream1.freetv.fun | <https://stream1.freetv.fun/f1ffadad9f59c53481dd143353cd696dbaf856186d80c0bd3cb2cf12fd9b5166.m3u8> |
 | 225 | [BD]atameken business | stream1.freetv.fun | <https://stream1.freetv.fun/f3c3d0d78969c6bda96d548e59bfe6e631392cabe20e964e6a68b4651ceea8ed.m3u8> |
 | 226 | [BD]bfm tv | stream1.freetv.fun | <https://stream1.freetv.fun/39595fafb094b6e55e51b0fc95c59387ad295c02bb5cf8aa4dfd64e9b08311d0.m3u8> |
@@ -344,7 +344,7 @@
 | 338 | [SD]cetv2 | stream1.freetv.fun | <https://stream1.freetv.fun/bb4609ce986de4f617d8423665cdf621602164f15e32f92539e5765f514487eb.m3u8> |
 | 339 | [SD]cetv1 | stream1.freetv.fun | <https://stream1.freetv.fun/0bfe9795b2c1f06b657cde811fafe4c5c866d8f25937cce71a4eca84b5a7674a.m3u8> |
 | 340 | [HD]cgtn | stream1.freetv.fun | <https://stream1.freetv.fun/6121b01fb26a5be3ae517a1ab7310fb51948d1de596bb0f3cead41297bfa84b7.m3u8> |
-| 341 | [BD]cgtn documentary | stream1.freetv.fun | <https://stream1.freetv.fun/ddc5def56380b1f26e52ee3fd80b30bfda1c11a302dfbdab95802cae9f83d6e6.ctv> |
+| 341 | [BD]cgtndocumentary | stream1.freetv.fun | <https://stream1.freetv.fun/1ebd8c247614989d427a4c85d5c480f6d1511f5d52cc7e14df6154d032288990.m3u8> |
 | 342 | [BD]cbn español (1080p) | stream1.freetv.fun | <https://stream1.freetv.fun/b895c387cf1a7aadb946718916a88c3e6c42546c24e02b76f6f62634c74deb03.m3u8> |
 | 343 | [BD]rt français | stream1.freetv.fun | <https://stream1.freetv.fun/64543fe572d9034545ac4a98661562b6960fcee879fdb5b6a79832cda28a3061.m3u8> |
 | 344 | [BD]cgtn русский | stream1.freetv.fun | <https://stream1.freetv.fun/98c909e5b48bbdfc98542e48a9c9b75e5daa58934298fc11ab1dc2748959947e.m3u8> |
@@ -1494,7 +1494,7 @@
 | 1488 | [VGA]rusport | stream1.freetv.fun | <https://stream1.freetv.fun/1f597cff550b50477587857330f9e2407967800a05cc5564097d7970a78b720d.m3u8> |
 | 1489 | [BD]tuyên quang | stream1.freetv.fun | <https://stream1.freetv.fun/e9c2d95c9d0868c4f68e7ce312d63f746cd1c63649f4268013cac7efc63d7d47.m3u8> |
 | 1490 | [HD]tv japi | stream1.freetv.fun | <https://stream1.freetv.fun/8b6dfa75bd65805b6b2ea8bd5f6e5ced9998c69999ed97480cfc34e2cfc022d1.m3u8> |
-| 1491 | [BD]TvN Movies | stream1.freetv.fun | <https://stream1.freetv.fun/505ba69e797542e1fd7372c2b727ce5f7ba59aa83ad76b068f4e55bc0dc02f3b.m3u8> |
+| 1491 | [HD]TvN Movies | stream1.freetv.fun | <https://stream1.freetv.fun/505ba69e797542e1fd7372c2b727ce5f7ba59aa83ad76b068f4e55bc0dc02f3b.m3u8> |
 | 1492 | [BD]TVN Movies | stream1.freetv.fun | <https://stream1.freetv.fun/75af95a36cdd81bfb178acac3ddb13ca7b6d0fde6e6c121b3ddfdc46e47d15d6.m3u8> |
 | 1493 | [HD]t-sports | stream1.freetv.fun | <https://stream1.freetv.fun/6ff4be69b4cc460c95f00d462d9337a425abb4c95b62622055fa3a9441cd5ace.ctv> |
 | 1494 | [HD]4u tv | stream1.freetv.fun | <https://stream1.freetv.fun/e3a05b495dfa8196750b1a5f7b5b4d92e0ab9fef0bb24ccd3c879eb8100a47f0.m3u8> |
@@ -2136,4 +2136,4 @@
 | 2130 | [BD]소상공인방송 | stream1.freetv.fun | <https://stream1.freetv.fun/8b059be92e1d851bfcedeb99bbd37b00ef4c21bce792c6f147a19e4857cea026.m3u8> |
 | 2131 | [BD]연합뉴스tv | stream1.freetv.fun | <https://stream1.freetv.fun/4207ebf0f1c354ac75cc77a05692276ca2efee2340f1c706435787a6f083a7bf.m3u8> |
 
-Updated at **Tue Jan 28 2025 06:12:52 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Jan 28 2025 08:12:40 GMT+0000 (Coordinated Universal Time)**
