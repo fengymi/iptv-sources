@@ -5,7 +5,7 @@
 | No. | Channel Name | From | Source |
 | --- | ------------ | ---- | ------ |
 | 1 | [BD]cctv-08高清 | stream1.freetv.fun | <https://stream1.freetv.fun/ed2adbd8e85a8beae1719c81854098c8616616adcdd64992ccc49e8590432152.ctv> |
-| 2 | [SD]cctvnews | stream1.freetv.fun | <https://stream1.freetv.fun/1ed77186bcbb64c99b2b0add39765eda80eb46e15839b13af33de7a786ad12ee.m3u8> |
+| 2 | [SD]cctv-news | stream1.freetv.fun | <https://stream1.freetv.fun/31e0e3c5a4772bc01ce297d73d6075b9862d5c9f20fab300e68a66a32bc4f220.m3u8> |
 | 3 | [BD]asharq documentary | stream1.freetv.fun | <https://stream1.freetv.fun/6533e4430f9a9db4767409224aa980b2cb4c8b58deaa849c12ca4b6e644d448d.m3u8> |
 | 4 | [BD]cctv1 | stream1.freetv.fun | <https://stream1.freetv.fun/99b71c837047da3124410388891a6eda75bd93b35fdba0f860f51acdbf6cc435.m3u8> |
 | 5 | [BD]cctv10 | stream1.freetv.fun | <https://stream1.freetv.fun/eda703fff53e38655071972d02dbb7b599faa57b720e828bd35d8db2f4dff147.m3u8> |
@@ -361,4 +361,4 @@
 | 355 | [BD]黑龙江卫视 50 fps | stream1.freetv.fun | <https://stream1.freetv.fun/7e118a9a23ec7f770a7bb9646a05267e59cf45f1da34bad27223781c1e1a9644.m3u8> |
 | 356 | [SD]黑龙江都市 | stream1.freetv.fun | <https://stream1.freetv.fun/94d03a6c6397805046161297bb2e0e23493fa49311e5aad1c467e550a6c1b8ff.m3u8> |
 
-Updated at **Tue Feb 18 2025 10:10:08 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Feb 18 2025 12:17:23 GMT+0000 (Coordinated Universal Time)**
