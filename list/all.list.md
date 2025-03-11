@@ -182,7 +182,7 @@
 | 176 | [BD]bbc scotland | stream1.freetv.fun | <https://stream1.freetv.fun/49fe605c239b3a7f3ca7feebad560b2370ab9bd5dcf933947fa9c765aef2a627.ctv> |
 | 177 | " tvg-id="" tvg-country="Iran" tvg-language="فارسی" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/01/18/20160118205636517119_29.jpg" group-title="News",[BD]mbc persia | stream1.freetv.fun | <https://stream1.freetv.fun/329f1553f78b90ad0ffb7622997aec003ef35f3a59fbd1ed733c61175eb2e25d.m3u8> |
 | 178 | [BD]bbc two | stream1.freetv.fun | <https://stream1.freetv.fun/ecc10d90d3bcaafe16427d8cac1980be17b75c4045921b679c2df50576c5ddf2.ctv> |
-| 179 | [HD]BBC 2 | stream1.freetv.fun | <https://stream1.freetv.fun/6170b7a7acb609d4ff934489c07df30ad36aa954082e64b915392b3a378c22ee.ctv> |
+| 179 | [BD]BBC 2 | stream1.freetv.fun | <https://stream1.freetv.fun/6170b7a7acb609d4ff934489c07df30ad36aa954082e64b915392b3a378c22ee.ctv> |
 | 180 | [SD]BBC World News | stream1.freetv.fun | <https://stream1.freetv.fun/625b361eddb79d264b3c69da50ce07de64d239d9091bdd9f124cefd4ce4f7148.ctv> |
 | 181 | [SD]bbc one | stream1.freetv.fun | <https://stream1.freetv.fun/9cb9cfde1c6180ac324e6e65b268a05226cffe0386a40ab0f0cbdbee8202060f.m3u8> |
 | 182 | [BD]bbs | stream1.freetv.fun | <https://stream1.freetv.fun/7eb0bfb8b3d75a510ccbb0750f876f174ebd948a90664b2f619defaa938652da.m3u8> |
@@ -1060,7 +1060,7 @@
 | 1054 | [HD]Starz Cinema | stream1.freetv.fun | <https://stream1.freetv.fun/028f21849ac7a06b1e5bccb05aff49787942b8aeeb8c36d6ab928690058ffe88.ctv> |
 | 1055 | [BD]starz edge east | stream1.freetv.fun | <https://stream1.freetv.fun/dcd3dad61be097cba7d390fc226247cae3d7b6f70cbc559c3d486d2ddbc94a22.m3u8> |
 | 1056 | [HD]starz encore westerns east | stream1.freetv.fun | <https://stream1.freetv.fun/1b039d05b0cd31282d4f87aa3128a9ac7d73101afa01bf4376ea713252260d14.m3u8> |
-| 1057 | [VGA]Starz West | stream1.freetv.fun | <https://stream1.freetv.fun/001ffc1cf14bda461ec9473f87d000c898e200856ed2c71ed60641db538af44f.ctv> |
+| 1057 | [HD]Starz West | stream1.freetv.fun | <https://stream1.freetv.fun/001ffc1cf14bda461ec9473f87d000c898e200856ed2c71ed60641db538af44f.ctv> |
 | 1058 | [BD]on style tv | stream1.freetv.fun | <https://stream1.freetv.fun/cb970b776b7344de958991e690db2d1f97b70755432b9684198ab823fa478721.ctv> |
 | 1059 | [VGA]sudan tv | stream1.freetv.fun | <https://stream1.freetv.fun/5b172fe2a9465e44c6948cfc6107790ff80b62acbcf71e0200231d18ec66caaf.m3u8> |
 | 1060 | [BD]sukan rtm | stream1.freetv.fun | <https://stream1.freetv.fun/d23964f2d7344c700bf6fc1fb9e66a23b8b7909a3f423525d9db8d251368666b.m3u8> |
@@ -1862,4 +1862,4 @@
 | 1856 | [BD]국악방송 | stream1.freetv.fun | <https://stream1.freetv.fun/472436881eaa1f9da21c5a3f6c9469bc2aee56b9867abcb163be70bee7c59d58.m3u8> |
 | 1857 | [BD]연합뉴스tv | stream1.freetv.fun | <https://stream1.freetv.fun/4207ebf0f1c354ac75cc77a05692276ca2efee2340f1c706435787a6f083a7bf.m3u8> |
 
-Updated at **Tue Mar 11 2025 06:14:16 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Mar 11 2025 08:13:34 GMT+0000 (Coordinated Universal Time)**
