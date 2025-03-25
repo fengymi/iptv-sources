@@ -1096,7 +1096,7 @@
 | 1090 | [HD]Starz West | stream1.freetv.fun | <https://stream1.freetv.fun/4ad0fdbbebd05656c32122aee435a43f9b74709afaae449f1558274ee9d1c221.ctv> |
 | 1091 | [BD]on style tv | stream1.freetv.fun | <https://stream1.freetv.fun/536ae94c19822e02659ba8363f669e09f767a0318c2b188b736f8f02b3659dff.ctv> |
 | 1092 | [VGA]sudan tv | stream1.freetv.fun | <https://stream1.freetv.fun/5b172fe2a9465e44c6948cfc6107790ff80b62acbcf71e0200231d18ec66caaf.m3u8> |
-| 1093 | [BD]Sukan | stream1.freetv.fun | <https://stream1.freetv.fun/db84632fb26b66c92678436ba8cbdc6f5487ff6acd967c6051e15829e05e1b60.m3u8> |
+| 1093 | [BD]sukan rtm | stream1.freetv.fun | <https://stream1.freetv.fun/d23964f2d7344c700bf6fc1fb9e66a23b8b7909a3f423525d9db8d251368666b.m3u8> |
 | 1094 | [BD]Sun Music | stream1.freetv.fun | <https://stream1.freetv.fun/54a2a417b3dbd7612e85fe8d2496767acfbfab0f610a83dc420ce8042afa20b9.ctv> |
 | 1095 | [BD]Sun TV | stream1.freetv.fun | <https://stream1.freetv.fun/c0de569a745a8787aac7123bf8c3ac5a1e87a4b673fe75f7359aef755dd438de.ctv> |
 | 1096 | [HD]sundance | stream1.freetv.fun | <https://stream1.freetv.fun/6f22320a940192037fbed8433a27632555a786ee62a631db6f43a31629845cda.m3u8> |
@@ -1915,4 +1915,4 @@
 | 1909 | [BD]국악방송 | stream1.freetv.fun | <https://stream1.freetv.fun/472436881eaa1f9da21c5a3f6c9469bc2aee56b9867abcb163be70bee7c59d58.m3u8> |
 | 1910 | [BD]연합뉴스tv | stream1.freetv.fun | <https://stream1.freetv.fun/4207ebf0f1c354ac75cc77a05692276ca2efee2340f1c706435787a6f083a7bf.m3u8> |
 
-Updated at **Tue Mar 25 2025 16:10:21 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Mar 25 2025 18:13:25 GMT+0000 (Coordinated Universal Time)**
