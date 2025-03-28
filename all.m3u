@@ -2861,8 +2861,8 @@ https://stream1.freetv.fun/c0aea495f970f573ed7c9441b25a076a37b42c467dd2ac92990e6
 https://stream1.freetv.fun/3f7283fa869c25941161a01044501bf18640041ca0e303e0f05c9cc47cccb63d.m3u8
 #EXTINF:-1 tvg-name="xite" tvg-id="" tvg-country="Netherlands" tvg-language="Dutch" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174447671591_13.png" group-title="Entertainment",[HD]xite
 https://stream1.freetv.fun/61abe238aa6c23b28647d1b4bb762894d82000f1d6ba5fa59c5465a773f96c54.m3u8
-#EXTINF:-1 tvg-name="yol tv hd" tvg-id="" tvg-country="Kurdistan" tvg-language="Kurdish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/01/04/20170104012449530917_60.png" group-title="Entertainment",[BD]lol tv
-https://stream1.freetv.fun/2c303fa9c0956973a2bbf4f1a83129782243a377e5f08afb707b82ca9a8267df.m3u8
+#EXTINF:-1 tvg-name="yol tv hd" tvg-id="" tvg-country="Kurdistan" tvg-language="Kurdish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/01/04/20170104012449530917_60.png" group-title="Entertainment",[HD]sol tv
+https://stream1.freetv.fun/e5c246d6b683659e091697539065c1a0244888b0bf2df4c412bf0b74fac87384.m3u8
 #EXTINF:-1 tvg-name="zagros" tvg-id="" tvg-country="Turkey" tvg-language="Kurdish" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506173856950611_69.png" group-title="News",[HD]zagros
 https://stream1.freetv.fun/078f0515bdb0f0383ff6165141ac6e2531288b208e95a425f1350ee6d6b86fff.m3u8
 #EXTINF:-1 tvg-name="zarok tv" tvg-id="" tvg-country="Kurdistan" tvg-language="Kurdish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/01/06/20160106025216902415_35.jpg" group-title="Kids",[HD]zarok tv
@@ -3577,7 +3577,7 @@ https://stream1.freetv.fun/c607ae84f4c7fab6b975a2af17c7778ad8d09bcbd4cd13b6f6b51
 https://stream1.freetv.fun/9bc7f3dc585f5d76fcc3b66149f2c792f4d439953e464450b638291fdb9b4a6d.m3u8
 #EXTINF:-1 tvg-name="无线新闻台" tvg-id="" tvg-country="Hong Kong" tvg-language="Cantonese" tvg-logo="https://epg.pw/media/images/channel/2022/08/07/large/20220807134835358971_10.jpg" group-title="News",[BD]无线新闻
 https://stream1.freetv.fun/a5939b915562fd0fa5b663475ec27ae72074b246a4675c8812de73566f836931.ctv
-#EXTINF:-1 tvg-name="甄子丹影视" tvg-id="" tvg-country="Hong Kong" tvg-language="Cantonese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/10/14/20161014131011501629_83.jpg" group-title="Other",[SD]甄子丹电影
+#EXTINF:-1 tvg-name="甄子丹影视" tvg-id="" tvg-country="Hong Kong" tvg-language="Cantonese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/10/14/20161014131011501629_83.jpg" group-title="Other",[VGA]甄子丹电影
 https://stream1.freetv.fun/dd36ce8639d3e960f752ae060b9918fc61e28ae5fc35aafba8a2d935a0fb954c.ctv
 #EXTINF:-1 tvg-name="甘肃公共应急" tvg-id="" tvg-country="China" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2021/10/11/large/20211011234740111968_10.png" group-title="Other",[HD]公共应急
 rtmp://livein.gstv.com.cn/49048r/2v86i8.flv

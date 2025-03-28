@@ -420,7 +420,7 @@ Entertainment,#genre#
 [HD]super_tv,https://stream1.freetv.fun/3c4d05f041c203d8c78b33936a60aa0517fb972f5007f696a664630be0fa8db5.m3u8
 [BD]quran,https://stream1.freetv.fun/4a4ddafdbc36414afd85c3fbf4ce3d65ad1ab9e47c2b4b16a22446fa1e0546b2.m3u8
 [HD]xite,https://stream1.freetv.fun/61abe238aa6c23b28647d1b4bb762894d82000f1d6ba5fa59c5465a773f96c54.m3u8
-[BD]lol_tv,https://stream1.freetv.fun/2c303fa9c0956973a2bbf4f1a83129782243a377e5f08afb707b82ca9a8267df.m3u8
+[HD]sol_tv,https://stream1.freetv.fun/e5c246d6b683659e091697539065c1a0244888b0bf2df4c412bf0b74fac87384.m3u8
 [HD]like_tv,https://stream1.freetv.fun/1dac64eb653907d727b153a2f2d0269ccafba2dfa7ce3c08cac9bc4d3a334f44.m3u8
 [HD]sim_tv,https://stream1.freetv.fun/b46801c6225512a3101544c2a385474abe9d02ecd3132d6f918a821ef6910c45.m3u8
 [BD]беларусь_1,https://stream1.freetv.fun/d8c9a0dac7681acc254fae80d1ad9b8e18b8fbc6670c8c156fa27afd74cf4278.m3u8
@@ -1277,7 +1277,7 @@ Other,#genre#
 [HD]湖州娱乐,https://stream1.freetv.fun/8c0deff913dc9e1f960f84c0c8ffd1fca0db4a05a1670e16bc6eac393e9c8f7d.m3u8
 [BD]澳亚卫视,https://stream1.freetv.fun/4cedee3372130b21deaebdb343a74b3e07ed4c34e07680a6561b5727c37ff0cd.ctv
 [BD]济源电视一套,https://stream1.freetv.fun/c607ae84f4c7fab6b975a2af17c7778ad8d09bcbd4cd13b6f6b518a5bfddd050.m3u8
-[SD]甄子丹电影,https://stream1.freetv.fun/dd36ce8639d3e960f752ae060b9918fc61e28ae5fc35aafba8a2d935a0fb954c.ctv
+[VGA]甄子丹电影,https://stream1.freetv.fun/dd36ce8639d3e960f752ae060b9918fc61e28ae5fc35aafba8a2d935a0fb954c.ctv
 [HD]公共应急,rtmp://livein.gstv.com.cn/49048r/2v86i8.flv
 [BD]生命电视台,https://stream1.freetv.fun/1f8ae2cd70bd10ff4b1c7e7ce2db6d534f0b00caca678a8a513cadd462c30528.m3u8
 [BD]生命电视台,https://stream1.freetv.fun/3f1da41967f70b7fc0c80cce65f2a8c6d9c74b85eb97d39b0f3745b36b69a875.m3u8

@@ -1435,7 +1435,7 @@
 | 1429 | [SD]Tvone | stream1.freetv.fun | <https://stream1.freetv.fun/c0aea495f970f573ed7c9441b25a076a37b42c467dd2ac92990e661497ecde91.ctv> |
 | 1430 | [HD]Vtm | stream1.freetv.fun | <https://stream1.freetv.fun/3f7283fa869c25941161a01044501bf18640041ca0e303e0f05c9cc47cccb63d.m3u8> |
 | 1431 | [HD]xite | stream1.freetv.fun | <https://stream1.freetv.fun/61abe238aa6c23b28647d1b4bb762894d82000f1d6ba5fa59c5465a773f96c54.m3u8> |
-| 1432 | [BD]lol tv | stream1.freetv.fun | <https://stream1.freetv.fun/2c303fa9c0956973a2bbf4f1a83129782243a377e5f08afb707b82ca9a8267df.m3u8> |
+| 1432 | [HD]sol tv | stream1.freetv.fun | <https://stream1.freetv.fun/e5c246d6b683659e091697539065c1a0244888b0bf2df4c412bf0b74fac87384.m3u8> |
 | 1433 | [HD]zagros | stream1.freetv.fun | <https://stream1.freetv.fun/078f0515bdb0f0383ff6165141ac6e2531288b208e95a425f1350ee6d6b86fff.m3u8> |
 | 1434 | [HD]zarok tv | stream1.freetv.fun | <https://stream1.freetv.fun/5635c4237ae7618ca0b790ff3b15cda72b84531ed5d76801d85cef760999e2d9.m3u8> |
 | 1435 | [HD]zarok tv sorani | stream1.freetv.fun | <https://stream1.freetv.fun/ffdc290bca934b9d30e39899cb13b8f1bc3b3a1e1529c96ada1e994178333ec3.m3u8> |
@@ -1793,7 +1793,7 @@
 | 1787 | [BD]济源电视一套 | stream1.freetv.fun | <https://stream1.freetv.fun/c607ae84f4c7fab6b975a2af17c7778ad8d09bcbd4cd13b6f6b518a5bfddd050.m3u8> |
 | 1788 | [BD]无线新闻台 | stream1.freetv.fun | <https://stream1.freetv.fun/9bc7f3dc585f5d76fcc3b66149f2c792f4d439953e464450b638291fdb9b4a6d.m3u8> |
 | 1789 | [BD]无线新闻 | stream1.freetv.fun | <https://stream1.freetv.fun/a5939b915562fd0fa5b663475ec27ae72074b246a4675c8812de73566f836931.ctv> |
-| 1790 | [SD]甄子丹电影 | stream1.freetv.fun | <https://stream1.freetv.fun/dd36ce8639d3e960f752ae060b9918fc61e28ae5fc35aafba8a2d935a0fb954c.ctv> |
+| 1790 | [VGA]甄子丹电影 | stream1.freetv.fun | <https://stream1.freetv.fun/dd36ce8639d3e960f752ae060b9918fc61e28ae5fc35aafba8a2d935a0fb954c.ctv> |
 | 1791 | [HD]公共应急 | livein.gstv.com.cn | <rtmp://livein.gstv.com.cn/49048r/2v86i8.flv> |
 | 1792 | [BD]甘肃卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/4b1f13ba4341c2b65fdf4a5cc14cd1406453c98d29972511ebee68262f82c797.m3u8> |
 | 1793 | [BD]生命电视台 | stream1.freetv.fun | <https://stream1.freetv.fun/1f8ae2cd70bd10ff4b1c7e7ce2db6d534f0b00caca678a8a513cadd462c30528.m3u8> |
@@ -1934,4 +1934,4 @@
 | 1928 | [BD]국악방송 | stream1.freetv.fun | <https://stream1.freetv.fun/472436881eaa1f9da21c5a3f6c9469bc2aee56b9867abcb163be70bee7c59d58.m3u8> |
 | 1929 | [BD]연합뉴스tv | stream1.freetv.fun | <https://stream1.freetv.fun/4207ebf0f1c354ac75cc77a05692276ca2efee2340f1c706435787a6f083a7bf.m3u8> |
 
-Updated at **Fri Mar 28 2025 06:14:42 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Mar 28 2025 08:13:34 GMT+0000 (Coordinated Universal Time)**
