@@ -4101,6 +4101,7 @@ Amouzesh,https://lenz.splus.ir/PLTV/88888888/224/3221226151/index.m3u8
 Anadolu_Dernek_TV_(576p),http://185.234.111.229:8000/play/a020
 Anadolu_Net_TV_(1080p),https://live.artidijitalmedya.com/artidijital_anadolunet/anadolunet/playlist.m3u8
 Anand_TV_(720p)_[Not_24/7],https://live-anandtv.anandmedia.net/anandtvapp/anandtv/index.m3u8
+Andorra_TV_(1080p),https://live-edge-eu-1.cdn.enetres.net/56495F77FD124FECA75590A906965F2C022/live-3000/index.m3u8
 Antena_3_(720p),http://185.189.225.150:85/Antena3HD/index.m3u8
 Antena_7_(480p)_[Not_24/7],https://alba-do-antena7-antena7.stream.mediatiquestream.com/index.m3u8
 Antena_Seis_TV_(720p),https://video1.azulstream.com:8081/antenaseistv/index.m3u8
@@ -8045,6 +8046,7 @@ ARB_Gunes,https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-a
 Atfal_&_Mawaheb_TV_(1080p),https://5aafcc5de91f1.streamlock.net/atfal1.com/atfal2/playlist.m3u8
 Baby_Shark_TV_(720p),https://c0c65b821b3542c3a4dca92702f59944.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BabySharkTV/playlist.m3u8
 BabyFirst,https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/c8d16110-566c-4e95-a1df-55d175e9e201/manifest.m3u8
+BabyTV_Spain_(480p),http://181.78.109.48:8000/play/a00c/index.m3u8
 Balapan_TV,https://balapantv-stream.qazcdn.com/balapantv/balapantv/playlist.m3u8
 Bebecito_Bum_y_sus_amigos,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60493283ffc52f000710edae/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26f5a3-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=85e80dc7-d7c2-49ee-b346-20b976b1db9b
 Biznet_Kids_(480p),http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w417362857_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8
@@ -8639,6 +8641,7 @@ Afghan_Nobel_Movies_(720p),https://live.relentlessinnovations.net:1936/afghannob
 Aflam_(1080p),https://shls-live-enc.edgenextcdn.net/out/v1/0044dd4b001a466c941ad77b04a574a2/index.m3u8
 Afriwood_Blockbuster_(720p),https://origin3.afxp.telemedia.co.za/PremiumFree/afriwoodbb/playlist.m3u8
 Alfa_Dramas_(226p)_[Not_24/7],https://www.hellasnet.tv/rest2.live.hn/w2r.alf/playlist.m3u8
+AMC_Europe_Spain_(1080p),http://181.78.109.48:8000/play/a02l/index.m3u8
 American_Horrors_(480p),http://107.167.7.162:8081/playlist/amhor/playlist.m3u8
 Atresplayer_Multicine_(1080p),https://fast-channels.atresmedia.com/648ef18c1756b0e41daf83cc/648ef18c1756b0e41daf83cc.m3u8
 Aurora_Media_Films_(720p),https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8
