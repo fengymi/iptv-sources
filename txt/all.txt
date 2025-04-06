@@ -1028,7 +1028,7 @@ Knowledge,#genre#
 [HD]history,https://stream1.freetv.fun/34d0b6f7d027bd6dd28d43eaae812cd72cacc0ce1d18585222cb427d85a1801c.m3u8
 [BD]history_2,https://stream1.freetv.fun/ebfa92beb7a74d2a8581bd1ffdc93af4936009949adb9d3f18ce6e0ede75d354.ctv
 [BD]true_history,https://stream1.freetv.fun/7ddc747ce9e814938e1bdc0bde994192937e9fdfe3b9d253dc76a4d30228ae8c.m3u8
-[BD]history2,https://stream1.freetv.fun/82fcc6e39349fbd76963e536503c31fa6f44960cfa675570ed0c04499a240682.m3u8
+[HD]history2,https://stream1.freetv.fun/82fcc6e39349fbd76963e536503c31fa6f44960cfa675570ed0c04499a240682.m3u8
 [HD]Investigation_Discovery,https://stream1.freetv.fun/5683c3c9317b73c2e5d750a0bc7ff16d194f041ed21c42fe1fd8dc04c0808a08.m3u8
 [BD]love_nature,https://stream1.freetv.fun/0c552589b4fcf164ed142e83d60eeb4e0fe7569f82dfb443b89ae78eb3c7abce.m3u8
 [HD]netmax_tv,https://stream1.freetv.fun/ae9130e7f204f36cbc1335e3c54aaa95d14909841a2f27b2d052b8e3841ffc60.m3u8
@@ -1151,7 +1151,7 @@ Other,#genre#
 [VGA]rtr_planeta,https://stream1.freetv.fun/cb41f36341762eb6846779b9b812105f374baea2b1d4ed45910013e2d6bb09b1.m3u8
 [HD]iran_international,https://stream1.freetv.fun/e74d6f6bf8ac4aa86c99aad6d59ded7751cc305d779feeea2652aa504a5b2efd.m3u8
 [BD]ru.tv,https://stream1.freetv.fun/e281545e65ad43873f2dcd59b4cee420a945f9831f87c0a29ba0452e3f470e55.m3u8
-[SD]俄国russiatoday,https://stream1.freetv.fun/ddbecacaa798fb4b6ff9937c33f6759696780067d615c5410181b5fe520e929a.m3u8
+[BD]俄国russiatoday,https://stream1.freetv.fun/ddbecacaa798fb4b6ff9937c33f6759696780067d615c5410181b5fe520e929a.m3u8
 [BD]rhema_tv,https://stream1.freetv.fun/a0a5b14386cb9b21531cae8bbce1c5548e5c881c7da0044882fdb2d68e042100.m3u8
 [SD]mtv,https://stream1.freetv.fun/c2263cc5e70792340379584151d2e3e171175bd76a2d461f1bf0c9c398f43324.m3u8
 [VGA]sharjah_tv,https://stream1.freetv.fun/7a5c7078219ffbda0fa70c2aa0260af9f1301e9ddbdab4ed010bae2f9d2646f1.m3u8

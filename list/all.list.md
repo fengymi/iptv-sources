@@ -620,7 +620,7 @@
 | 614 | [BD]history 2 | stream1.freetv.fun | <https://stream1.freetv.fun/ebfa92beb7a74d2a8581bd1ffdc93af4936009949adb9d3f18ce6e0ede75d354.ctv> |
 | 615 | [HD]true history channel | stream1.freetv.fun | <https://stream1.freetv.fun/6c62f5a2f384fbce629b8ccc125a81ccfabf15f4c84597d770ce5a4d12881ec1.m3u8> |
 | 616 | [BD]true history | stream1.freetv.fun | <https://stream1.freetv.fun/7ddc747ce9e814938e1bdc0bde994192937e9fdfe3b9d253dc76a4d30228ae8c.m3u8> |
-| 617 | [BD]history2 | stream1.freetv.fun | <https://stream1.freetv.fun/82fcc6e39349fbd76963e536503c31fa6f44960cfa675570ed0c04499a240682.m3u8> |
+| 617 | [HD]history2 | stream1.freetv.fun | <https://stream1.freetv.fun/82fcc6e39349fbd76963e536503c31fa6f44960cfa675570ed0c04499a240682.m3u8> |
 | 618 | [BD]hits电影 | stream1.freetv.fun | <https://stream1.freetv.fun/867d5d1cbe84ef7b566bd75584f374e5e4a301921e78118e36f25b5b4cb7fef1.m3u8> |
 | 619 | [HD]hollywire (720p) | stream1.freetv.fun | <https://stream1.freetv.fun/6a2a52e829be531eb5684018e2fa835461a26161fe4059732eebfaf0ba2a5dd7.m3u8> |
 | 620 | [BD]Hollywood | stream1.freetv.fun | <https://stream1.freetv.fun/37318b9cdc38f6d271e5e28e19095c5eed5a767e05b158ad833ffac9851897d9.ctv> |
@@ -962,7 +962,7 @@
 | 956 | [BD]rti 2 | stream1.freetv.fun | <https://stream1.freetv.fun/48e7521a13d72f6a4a656cd3af1ce01fc7f7f897cf2a59fae52979e53485d2ff.m3u8> |
 | 957 | [BD]ru.tv | stream1.freetv.fun | <https://stream1.freetv.fun/e281545e65ad43873f2dcd59b4cee420a945f9831f87c0a29ba0452e3f470e55.m3u8> |
 | 958 | [SD]ru frist music | stream1.freetv.fun | <https://stream1.freetv.fun/fe4e6d86f7f949c2ccd74236349f5786d4bcc8b23306b97d0c5346387b5c155a.ctv> |
-| 959 | [SD]俄国russiatoday | stream1.freetv.fun | <https://stream1.freetv.fun/ddbecacaa798fb4b6ff9937c33f6759696780067d615c5410181b5fe520e929a.m3u8> |
+| 959 | [BD]俄国russiatoday | stream1.freetv.fun | <https://stream1.freetv.fun/ddbecacaa798fb4b6ff9937c33f6759696780067d615c5410181b5fe520e929a.m3u8> |
 | 960 | [HD]ช่อง radio kiss kiss italia | stream1.freetv.fun | <https://stream1.freetv.fun/d890212fe12deb91b5ecc59faf8d166ebde0d7066cd6e0b4799fa12b63cd0aa6.m3u8> |
 | 961 | [BD]radio norba tv | stream1.freetv.fun | <https://stream1.freetv.fun/61e361f17f8264380da120cae20302bea7bebe2db3bc48d80ec4bb159476f6fc.m3u8> |
 | 962 | [BD]rhema tv | stream1.freetv.fun | <https://stream1.freetv.fun/a0a5b14386cb9b21531cae8bbce1c5548e5c881c7da0044882fdb2d68e042100.m3u8> |
@@ -1906,4 +1906,4 @@
 | 1900 | [BD]국악방송 | stream1.freetv.fun | <https://stream1.freetv.fun/472436881eaa1f9da21c5a3f6c9469bc2aee56b9867abcb163be70bee7c59d58.m3u8> |
 | 1901 | [BD]연합뉴스tv | stream1.freetv.fun | <https://stream1.freetv.fun/4207ebf0f1c354ac75cc77a05692276ca2efee2340f1c706435787a6f083a7bf.m3u8> |
 
-Updated at **Sun Apr 06 2025 06:13:15 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Apr 06 2025 08:11:40 GMT+0000 (Coordinated Universal Time)**
