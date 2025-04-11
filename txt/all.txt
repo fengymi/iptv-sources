@@ -2,7 +2,7 @@ Movies,#genre#
 [HD]love_stories_tv,https://stream1.freetv.fun/76844b66240ee2380c07568c3de0b8392ed7009d6820e9fb250a278a286ac086.m3u8
 [VGA]астрахань_24,https://stream1.freetv.fun/67dd57d2edfaf08c5262fffb44e79466b83c56c3de8b2fdcaaefa9266674cbbb.m3u8
 [BD]「河南」嵩县综合新闻,https://stream1.freetv.fun/03278433b264223d8f96057734cfe40edb11789c2b6d85b538d11acd8ed5d6ca.m3u8
-[SD]8_Mediacorp,https://stream1.freetv.fun/56636bc54db3020e38e6596b6911e4272eb3ac69ea98b5ee817a9b61b5ebd52f.ctv
+[SD]8_Mediacorp,https://stream1.freetv.fun/ac59c466542a108e3c4a2c443f23a8056cda2bc3324af39684a68e31d17767f9.ctv
 [BD]amc,https://stream1.freetv.fun/46ce80f4a4792f6b69fb3119e11a8f19439e9c1644ba66cd54a3e5128aa990c2.m3u8
 [HD]Amc电影,https://stream1.freetv.fun/55e5271eba992a593b5ae703de81955d8c4865f4736ab9c4fa062d345ff6eb99.ctv
 [BD]amedia_hit_hd,https://stream1.freetv.fun/893d4a03834f56671e23a5bc497fc08ed9e2773e837a05e4fc691b426767ff89.m3u8
@@ -43,7 +43,7 @@ Movies,#genre#
 [HD]Cinemax,https://stream1.freetv.fun/f2b0859b8a1a7e6282d31b3b85b456fca23689d0f804a50723f27e390c236794.m3u8
 [HD]CineMax_Action,https://stream1.freetv.fun/e478fb04cdd834ed78c307f5bdd934ba24e4d10da58f14d8d964c1245d7da90d.m3u8
 [HD]Cinemax_Moviemax,https://stream1.freetv.fun/776480c0ba6e5b728a26a5851133df5a38a74f88e057d42eced218a3667679fc.ctv
-[HD]Cinemax,https://stream1.freetv.fun/ff70e1f5047daa804fb41cccc7db7908924617349cf60e198fedd17aabd82d87.ctv
+[HD]Cinemax,https://stream1.freetv.fun/7a843cd656823fc912e6cfacaae6b69f43ec876d83bc7c0c79f88bacf35efd92.ctv
 [HD]tvb_classic_movies,https://stream1.freetv.fun/5b0aae5334d42f4bd9fb0d7789324dc0af0aa193edd1f018c2ca1b94398a2e3e.ctv
 [BD]court_tv,https://stream1.freetv.fun/940abf26f16f9b5db93fd1dc4fcde73dde03e081ef0c620cd8a9a9712412b567.m3u8
 [BD]mad_world,https://stream1.freetv.fun/e54ce4a63fc50f15e20db900e411b5833d98ce917d8a08e750856b37203e1539.m3u8
@@ -72,7 +72,7 @@ Movies,#genre#
 [HD]HBO_Family,https://stream1.freetv.fun/c57c4225ff24f397c47b359a132dd160755d8d6312c1e321aeed41d04f2660c1.ctv
 [HD]HBO_Family,https://stream1.freetv.fun/d7a6774294f89e9cece8ea4bc197ece7bd7682557b7042020d23df5268f3a1a8.ctv
 [SD]HBO_Family_East,https://stream1.freetv.fun/25ca322f404516d9a199eef5e567aa23c3ae82ac24938af482bdebec72ca1f41.m3u8
-[HD]HBO_HD,https://stream1.freetv.fun/a63a902b8261404f352d2e15ac77cc240d0f1eb93c26cb32dfaa0b2227d63e18.ctv
+[VGA]HBO_HD,https://stream1.freetv.fun/fae0b019a8ed1452ffa814dcd9c060f7026f0054be259ee2e0f004ebc4df788d.ctv
 [BD]HBO_Hits,https://stream1.freetv.fun/c0a6288d0272822bf4299bd0027f9d43dfdc33296f22f8d1997c68619d5af247.ctv
 [BD]HBO_Hits,https://stream1.freetv.fun/c249b2389fde0d5eaf4fc1c9e23929e99ffa35518f40bb016adf6c3329f5689f.ctv
 [BD]HBO_Hits,https://stream1.freetv.fun/043419e7cb2019c6f23acd427d54f2e7ddefac4c614c76c8619f72cf74fafc24.ctv
@@ -84,6 +84,8 @@ Movies,#genre#
 [HD]HBO,https://stream1.freetv.fun/16be7a718276b8287b4b37b52e4cf4e5f0d4b42dc7ab17a2d260fcf764bc61e4.m3u8
 [SD]HBO,https://stream1.freetv.fun/ae322d58c64bbaf8ece872e4b60e36166169cc557519e7ad12d5ce6fcbb3c062.ctv
 [BD]hbo原创巨献,https://stream1.freetv.fun/96ba274769f2c8703a12158065375a05157f61090b31cf4cc1500b1e0a30e112.m3u8
+[VGA]Hits,https://stream1.freetv.fun/b9c73ca90deb2e0b9e04c570e270dfb4664c9066ebea25912b8738ffa53e2b9c.ctv
+[VGA]Hits_Movie,https://stream1.freetv.fun/12a317973cee9e7fe5221c59ba7b3c4f15d6946cb476f55651ac5dc648cea105.ctv
 [BD]Hallmark,https://stream1.freetv.fun/d7bef954c12aecc81764c03dfd71737ca878f66a106d6753c5e1e6d84fa02da0.ctv
 [HD]hallo_movies,https://stream1.freetv.fun/ffa8f55f4158972d2255e1134003ea8924964677f677bb8a42b6525bf53dd527.m3u8
 [SD]Hallmark_Movies_&_Mysteries,https://stream1.freetv.fun/d5bc8a069126d91f27efa9737f8fd42d50f8d681449d22b58374632e02b79980.ctv
