@@ -12,8 +12,8 @@
 | 6 | 晴彩少年「移动」 | 咪咕 | <http://gslbserv.itv.cmvideo.cn:80/3000000020000011525/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011525&livemode=1&stbId=YanG-1989> |
 | 7 | 晴彩竞技「移动」 | 咪咕 | <http://gslbserv.itv.cmvideo.cn:80/3000000020000011528/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011528&livemode=1&stbId=YanG-1989> |
 | 8 | 晴彩篮球「移动」 | 咪咕 | <http://gslbserv.itv.cmvideo.cn:80/3000000020000011529/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011529&livemode=1&stbId=YanG-1989> |
-| 9 | 咪咕直播 𝟜K-𝟙「移动」 | 咪咕 | <http://gslbserv.itv.cmvideo.cn:80/3000000010000005180/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=YanG-1989> |
-| 10 | 咪咕直播 𝟜K-𝟚「移动」 | 咪咕 | <http://gslbserv.itv.cmvideo.cn:80/3000000010000015686/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=YanG-1989> |
+| 9 | 咪咕直播 𝟜𝕂-𝟙「移动」 | 咪咕 | <http://gslbserv.itv.cmvideo.cn:80/3000000010000005180/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=YanG-1989> |
+| 10 | 咪咕直播 𝟜𝕂-𝟚「移动」 | 咪咕 | <http://gslbserv.itv.cmvideo.cn:80/3000000010000015686/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=YanG-1989> |
 | 11 | 咪咕直播 𝟙「移动」 | 咪咕 | <http://gslbserv.itv.cmvideo.cn:80/3000000001000005308/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005308&livemode=1&stbId=YanG-1989> |
 | 12 | 咪咕直播 𝟚「移动」 | 咪咕 | <http://gslbserv.itv.cmvideo.cn:80/3000000001000005969/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005969&livemode=1&stbId=YanG-1989> |
 | 13 | 咪咕直播 𝟛「移动」 | 咪咕 | <http://gslbserv.itv.cmvideo.cn:80/3000000001000007218/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000007218&livemode=1&stbId=YanG-1989> |
@@ -134,4 +134,4 @@
 | 128 | 猫和老鼠「动漫」 | live.iill.top | <https://live.iill.top/huya/11352879> |
 | 129 | 中华小当家「动漫」 | live.iill.top | <https://live.iill.top/huya/11342413> |
 
-Updated at **Sat Aug 23 2025 18:12:27 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Aug 23 2025 20:10:07 GMT+0000 (Coordinated Universal Time)**
