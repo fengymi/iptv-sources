@@ -380,7 +380,7 @@
 | 374 | [HD]novo tempo | stream1.freetv.fun | <https://stream1.freetv.fun/e4105087ba112221db2bc40784d188c3ba8b4c25918c646620fff27d9e82aab5.m3u8> |
 | 375 | [BD]canal rural | stream1.freetv.fun | <https://stream1.freetv.fun/8f4e1c2368cf508b510a8cd88f9557d0086c9ee938b5be6804d902c171845f03.m3u8> |
 | 376 | [BD]telesur | stream1.freetv.fun | <https://stream1.freetv.fun/31e6b66104a426396ad48663c29f3553d3cb9d90cf27f19ba85aab1f6aa32496.m3u8> |
-| 377 | [HD]canal educação | stream1.freetv.fun | <https://stream1.freetv.fun/14a8e8e83da888c49b1819c4ccebf43c149ef22dd4caa98c2756959660371607.m3u8> |
+| 377 | [SD]canal educação | stream1.freetv.fun | <https://stream1.freetv.fun/14a8e8e83da888c49b1819c4ccebf43c149ef22dd4caa98c2756959660371607.m3u8> |
 | 378 | [HD]canal multivision | stream1.freetv.fun | <https://stream1.freetv.fun/916dcb2002d7e73f2d98a88a778a80c8e091527cf3aa0505692876612643363a.m3u8> |
 | 379 | [HD]fifa plus spain | stream1.freetv.fun | <https://stream1.freetv.fun/ca70b7f466e56dbdd579bfbb846de091bb210b1bed6c1fe224bf7cfe2c74b36e.m3u8> |
 | 380 | [BD]futbol | stream1.freetv.fun | <https://stream1.freetv.fun/b9a4500ed7215d5a7be71b78d3716c43b98df35ba7327061cd67c2987c596451.m3u8> |
@@ -435,7 +435,7 @@
 | 429 | [BD]dd national | stream1.freetv.fun | <https://stream1.freetv.fun/1912135cda1f95f25e7005eb813000202caccac50616d1549a689cfc07835994.m3u8> |
 | 430 | [BD]deejay tv | stream1.freetv.fun | <https://stream1.freetv.fun/e89fb042de8f650ffba0e8b2287470a51395aaed2acc534a40765404ce6f4de2.m3u8> |
 | 431 | [SD]deen tv | stream1.freetv.fun | <https://stream1.freetv.fun/4d0bc7d67a4b3b39f6167f9283094932a3b9e0062e2bbabdd6552a9a59950bb1.m3u8> |
-| 432 | [HD]diaspora 24 | stream1.freetv.fun | <https://stream1.freetv.fun/360f73cb068cadd7bd32d7012b7b862e9f56bdf9ade5a886947498e6e6b7139d.m3u8> |
+| 432 | [VGA]diaspora 24 | stream1.freetv.fun | <https://stream1.freetv.fun/360f73cb068cadd7bd32d7012b7b862e9f56bdf9ade5a886947498e6e6b7139d.m3u8> |
 | 433 | [HD]dieu tv | stream1.freetv.fun | <https://stream1.freetv.fun/4c3dfa7378e6e93092bfa10f08315c74cf4aba68dba36527a803771ba935e4e4.m3u8> |
 | 434 | [HD]discovery world *s | stream1.freetv.fun | <https://stream1.freetv.fun/28e93b7bc4e1f7c07cfce2bcec0451fe311800b440b455a7570895fdc8df7b9d.m3u8> |
 | 435 | [SD]discovery science *m | stream1.freetv.fun | <https://stream1.freetv.fun/e57174c1641d0033ccca434d007b0064bbc8bf2953b5870e6c160058c2da57a6.ctv> |
@@ -2001,4 +2001,4 @@
 | 1995 | [BD]龙华洋片 *c | stream1.freetv.fun | <https://stream1.freetv.fun/d2d405033c8a8ce21482bdea78882a68b92c7bab16dba91b863e13d211112f58.ctv> |
 | 1996 | [BD]龙华经典 *c | stream1.freetv.fun | <https://stream1.freetv.fun/408e21b8a132cac58fbd987fc7b14fd691eda7c092cc617f9196e1d9a8028636.ctv> |
 
-Updated at **Thu Aug 28 2025 18:14:36 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Aug 28 2025 20:11:33 GMT+0000 (Coordinated Universal Time)**
