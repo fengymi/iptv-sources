@@ -24,7 +24,7 @@
 | 18 | [SD]2x2 | stream1.freetv.fun | <https://stream1.freetv.fun/da4a8927151369f0d11fd7b3e76667eb9401b26648b65f9c867569aee47134b6.m3u8> |
 | 19 | [SD]bbc food | stream1.freetv.fun | <https://stream1.freetv.fun/8e2baddd24a661301b1725efb0b3fa7939719fe0e965a58055f7a9c7aced5264.m3u8> |
 | 20 | [SD]365 дней тв | stream1.freetv.fun | <https://stream1.freetv.fun/0050505cc5a78dedc1e9043ada1e56baeba7e20865d6478a0acf87e4e5d5d1bd.m3u8> |
-| 21 | [HD]3abn kids | stream1.freetv.fun | <https://stream1.freetv.fun/d33e7d7def20abbb0720be4c9b6c9631a610a8470a419f0fe73d741d2e988900.m3u8> |
+| 21 | [SD]3abn kids | stream1.freetv.fun | <https://stream1.freetv.fun/a5360b8262c6d16537682710111c89de13190c4bed5735a69f51d2e027299a57.m3u8> |
 | 22 | [BD]shabab fm | stream1.freetv.fun | <https://stream1.freetv.fun/60a99d0260cbdc6b822ec876eb84152d14c4767636a94e39f1ea1c6908f60586.m3u8> |
 | 23 | [BD]40 graus tv | stream1.freetv.fun | <https://stream1.freetv.fun/1c8d2745dad5f0af8ed8d3cf51591e29aff408739d054fe23db9ad81102790dd.m3u8> |
 | 24 | [HD]amx noticias | stream1.freetv.fun | <https://stream1.freetv.fun/a43155c5db121932408ea1865a62ebb74d2d4124b51d5133d226f257d8783705.m3u8> |
@@ -2024,4 +2024,4 @@
 | 2018 | [BD]龙华戏剧 *l | stream1.freetv.fun | <https://stream1.freetv.fun/9e20f179820bb5490c3c447b842f925ffc8f939cde8fecb7cf2687309e14982f.ctv> |
 | 2019 | [BD]龙华日韩 | stream1.freetv.fun | <https://stream1.freetv.fun/9c2920df490df6a08c307894de50ccb79ac68fb82eebf6b8d6e8f2b1a3dc3509.m3u8> |
 
-Updated at **Fri Aug 29 2025 22:09:30 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Aug 30 2025 00:44:45 GMT+0000 (Coordinated Universal Time)**
