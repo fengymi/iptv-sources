@@ -2027,4 +2027,4 @@
 | 2021 | [BD]黑龙江卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/9d7a745d71fa16ea6b1a0edce79f7b842e59487519e7a76bcef5b0c7a87a3f24.m3u8> |
 | 2022 | [BD]龙华日韩 | stream1.freetv.fun | <https://stream1.freetv.fun/9c2920df490df6a08c307894de50ccb79ac68fb82eebf6b8d6e8f2b1a3dc3509.m3u8> |
 
-Updated at **Sat Aug 30 2025 12:17:13 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Aug 30 2025 14:07:51 GMT+0000 (Coordinated Universal Time)**
