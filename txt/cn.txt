@@ -1,7 +1,7 @@
 知识,#genre#
 [BD]documentary_plus,https://stream1.freetv.fun/7b508d7fb0954dd5fcf6b8202417831b73c59032075ca66bf0deb741502805e6.m3u8
 [VGA]cctv9,https://stream1.freetv.fun/ea81fc0f2fac864a17a10c1a7f4d1a32258b45f78172eb9177e7b60db8c9e9b2.ctv
-[BD]asharq_documentary,https://stream1.freetv.fun/8ab5f603f7d5a9e5c37a07736f309c981277dd2250416023994aaff9ef4bd2ac.m3u8
+[HD]asharq_documentary,https://stream1.freetv.fun/8ab5f603f7d5a9e5c37a07736f309c981277dd2250416023994aaff9ef4bd2ac.m3u8
 
 其它,#genre#
 [VGA]cctv俄语,https://stream1.freetv.fun/64be70c8173273b7c3e790bd3b3e5a5ec61d3b52b6ecec23f401248e220e1d76.ctv
@@ -180,7 +180,7 @@
 [HD]云南影视,rtmp://hwzbout.yntv.net/62hdvf/utrat7
 
 新闻,#genre#
-[BD]cctv13,https://stream1.freetv.fun/6c43994efaf873ec88937d3ff55a75d044c558c07de5f93f7e4619c2b41bf49c.m3u8
+[BD]cctv13,https://stream1.freetv.fun/82d9d590a2d4800cdf1844d619e280c1985839577f5536e3241301f8b263599f.ctv
 [BD]cctv2,https://stream1.freetv.fun/ccc77f9724e786676ba5afe0965ea489e0a72bf472625688b404670f479f6f8a.m3u8
 [SD]cctv4,https://stream1.freetv.fun/6261ed0c0f3c2699d203a8e55721801a5d1b2fc9de680180fb327da15654bceb.ctv
 [BD]cctv4,https://stream1.freetv.fun/15a4180e12b35249c7b2bc9d2b5d2feed983b66d309ca216fc6d8782766a349f.m3u8
@@ -244,7 +244,7 @@
 [HD]云南都市,https://stream1.freetv.fun/c7f89783268c13760aff864a0e464360ea9335ac3ef8a5ef52a354d7fd305ef2.m3u8
 [BD]韶关综合,https://stream1.freetv.fun/13ed16dda5256856a43863b3e3840c0cf70753842c7b2f184474628f653afd3d.m3u8
 [HD]盐城新闻综合,https://stream1.freetv.fun/ee730abf7f00cf19da98b49f0f8cfe02c2c6a9ce62eaa9b1e3a5ba0510bc4168.m3u8
-[HD]丽江新闻综合,https://stream1.freetv.fun/038fcc966210a5c920391694c24e747c5bd8ee11a51735284375f0567fae0c0b.m3u8
+[BD]溧水新闻综合,rtmp://lishui-tv-hls.cm.jstv.com/lishui-tv/lsxwzh
 
 儿童,#genre#
 [BD]cctv14,https://stream1.freetv.fun/5d7dfa5ebfe90c78b537cdc5dd77be50a3ed19ffe163aa50de5f4d79dd2ab3db.m3u8
