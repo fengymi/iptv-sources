@@ -95,4 +95,4 @@
 | 89 | 家有购物 | IPv4 直链 | <rtp://239.3.1.185:8001> |
 | 90 | 聚鲨精选 | IPv4 直链 | <rtp://239.3.1.179:8001> |
 
-Updated at **Fri Sep 26 2025 06:15:26 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Sep 26 2025 08:14:13 GMT+0000 (Coordinated Universal Time)**
