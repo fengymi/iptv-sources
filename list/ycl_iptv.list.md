@@ -98,42 +98,41 @@
 | 92 | 凤凰中文 | php.jdshipin.com | <http://php.jdshipin.com/TVOD/iptv.php?id=fhzw> |
 | 93 | 凤凰资讯 | php.jdshipin.com | <http://php.jdshipin.com/TVOD/iptv.php?id=fhzx> |
 | 94 | 凤凰香港 | IPv4 直链 | <http://203.205.191.53/qctv.fengshows.cn/live/0701phk72.m3u8> |
-| 95 | 中天新闻 | IPv4 直链 | <http://222.128.55.152:9080/live/fc.m3u8> |
-| 96 | 澳门莲花 | live-hls.macaulotustv.com | <http://live-hls.macaulotustv.com/lotustv/macaulotustv.m3u8> |
-| 97 | 天映频道 | php.jdshipin.com | <http://php.jdshipin.com/smt.php?id=Celestial> |
-| 98 | 龙华电影 | cdn8.163189.xyz | <https://cdn8.163189.xyz/live/lhdy/stream.m3u8> |
-| 99 | Pearl | php.jdshipin.com | <http://php.jdshipin.com/TVOD/iptv.php?id=mzt2> |
-| 100 | 翡翠台 | php.jdshipin.com:8880 | <http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3> |
-| 101 | TVB J1 | php.jdshipin.com | <http://php.jdshipin.com/TVOD/iptv.php?id=j1> |
-| 102 | TVB J2 | php.jdshipin.com | <http://php.jdshipin.com/TVOD/iptv.php?id=j2> |
-| 103 | 无线新闻 | php.jdshipin.com | <http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt> |
-| 104 | 娱乐新闻 | php.jdshipin.com | <http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw> |
-| 105 | VIUTV | php.jdshipin.com | <http://php.jdshipin.com/TVOD/iptv.php?id=viutv> |
-| 106 | 美亚电影 | php.jdshipin.com | <http://php.jdshipin.com/TVOD/iptv.php?id=meiya> |
-| 107 | 翡翠华丽 | php.jdshipin.com:8880 | <http://php.jdshipin.com:8880/TVOD/iptv.php?id=huali> |
-| 108 | 美亚电影 | php.jdshipin.com:8880 | <http://php.jdshipin.com:8880/TVOD/iptv.php?id=meiya> |
-| 109 | 千禧经典 | php.jdshipin.com:8880 | <http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc> |
-| 110 | 重温经典 | php.jdshipin.com:8880 | <http://php.jdshipin.com:8880/TVOD/iptv.php?id=cwjd> |
-| 111 | astro欢喜台 | php.jdshipin.com | <http://php.jdshipin.com/smt.php?id=Huahee> |
-| 112 | astro QJ | php.jdshipin.com | <http://php.jdshipin.com/smt.php?id=Quanjia> |
-| 113 | 澳视澳门 | php.jdshipin.com | <http://php.jdshipin.com/TVOD/iptv.php?id=asam> |
-| 114 | 澳门Mac | php.jdshipin.com | <http://php.jdshipin.com/PLTV/iptv.php?id=as> |
-| 115 | astro Aec | php.jdshipin.com | <http://php.jdshipin.com/smt.php?id=AEC> |
-| 116 | astro Aod | php.jdshipin.com | <http://php.jdshipin.com/smt.php?id=Aodhd> |
-| 117 | 亚洲武侠 | php.jdshipin.com | <http://php.jdshipin.com/TVOD/iptv.php?id=yzwx> |
-| 118 | 龙华经典 | cdn8.163189.xyz | <https://cdn8.163189.xyz/live/lhjd/stream.m3u8> |
-| 119 | 龙华卡通 | cdn8.163189.xyz | <https://cdn8.163189.xyz/live/lhkt/stream.m3u8> |
-| 120 | 龙华偶像 | cdn8.163189.xyz | <https://cdn8.163189.xyz/live/lhox/stream.m3u8> |
-| 121 | 龙华日韩 | cdn8.163189.xyz | <https://cdn8.163189.xyz/live/lhrh/stream.m3u8> |
-| 122 | 龙华戏剧 | cdn8.163189.xyz | <https://cdn8.163189.xyz/live/lhxj/stream.m3u8> |
-| 123 | 龙华洋片 | cdn8.163189.xyz | <https://cdn8.163189.xyz/live/lhyp/stream.m3u8> |
-| 124 | TVB星河 | php.jdshipin.com:8880 | <http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe> |
-| 125 | TVB武侠 | php.jdshipin.com | <http://php.jdshipin.com/TVOD/iptv.php?id=yzwx> |
-| 126 | 爱奇艺 | php.jdshipin.com | <http://php.jdshipin.com/smt.php?id=Qiyi> |
-| 127 | 美亚C+ | ottproxy2.ist.ooo | <http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8> |
-| 128 | RTHK31 | php.jdshipin.com:8880 | <http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk31> |
-| 129 | RTHK32 | php.jdshipin.com:8880 | <http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk32> |
-| 130 | HOY TV | php.jdshipin.com | <http://php.jdshipin.com/TVOD/iptv.php?id=hoytv> |
-| 131 | 亚洲卫视 | pull-hsbj.vzan.com | <https://pull-hsbj.vzan.com/v/slowlive_821481626725612419.flv> |
+| 95 | 澳门莲花 | live-hls.macaulotustv.com | <http://live-hls.macaulotustv.com/lotustv/macaulotustv.m3u8> |
+| 96 | 天映频道 | php.jdshipin.com | <http://php.jdshipin.com/smt.php?id=Celestial> |
+| 97 | 龙华电影 | cdn8.163189.xyz | <https://cdn8.163189.xyz/live/lhdy/stream.m3u8> |
+| 98 | Pearl | php.jdshipin.com | <http://php.jdshipin.com/TVOD/iptv.php?id=mzt2> |
+| 99 | 翡翠台 | php.jdshipin.com:8880 | <http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3> |
+| 100 | TVB J1 | php.jdshipin.com | <http://php.jdshipin.com/TVOD/iptv.php?id=j1> |
+| 101 | TVB J2 | php.jdshipin.com | <http://php.jdshipin.com/TVOD/iptv.php?id=j2> |
+| 102 | 无线新闻 | php.jdshipin.com | <http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt> |
+| 103 | 娱乐新闻 | php.jdshipin.com | <http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw> |
+| 104 | VIUTV | php.jdshipin.com | <http://php.jdshipin.com/TVOD/iptv.php?id=viutv> |
+| 105 | 美亚电影 | php.jdshipin.com | <http://php.jdshipin.com/TVOD/iptv.php?id=meiya> |
+| 106 | 翡翠华丽 | php.jdshipin.com:8880 | <http://php.jdshipin.com:8880/TVOD/iptv.php?id=huali> |
+| 107 | 美亚电影 | php.jdshipin.com:8880 | <http://php.jdshipin.com:8880/TVOD/iptv.php?id=meiya> |
+| 108 | 千禧经典 | php.jdshipin.com:8880 | <http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc> |
+| 109 | 重温经典 | php.jdshipin.com:8880 | <http://php.jdshipin.com:8880/TVOD/iptv.php?id=cwjd> |
+| 110 | astro欢喜台 | php.jdshipin.com | <http://php.jdshipin.com/smt.php?id=Huahee> |
+| 111 | astro QJ | php.jdshipin.com | <http://php.jdshipin.com/smt.php?id=Quanjia> |
+| 112 | 澳视澳门 | php.jdshipin.com | <http://php.jdshipin.com/TVOD/iptv.php?id=asam> |
+| 113 | 澳门Mac | php.jdshipin.com | <http://php.jdshipin.com/PLTV/iptv.php?id=as> |
+| 114 | astro Aec | php.jdshipin.com | <http://php.jdshipin.com/smt.php?id=AEC> |
+| 115 | astro Aod | php.jdshipin.com | <http://php.jdshipin.com/smt.php?id=Aodhd> |
+| 116 | 亚洲武侠 | php.jdshipin.com | <http://php.jdshipin.com/TVOD/iptv.php?id=yzwx> |
+| 117 | 龙华经典 | cdn8.163189.xyz | <https://cdn8.163189.xyz/live/lhjd/stream.m3u8> |
+| 118 | 龙华卡通 | cdn8.163189.xyz | <https://cdn8.163189.xyz/live/lhkt/stream.m3u8> |
+| 119 | 龙华偶像 | cdn8.163189.xyz | <https://cdn8.163189.xyz/live/lhox/stream.m3u8> |
+| 120 | 龙华日韩 | cdn8.163189.xyz | <https://cdn8.163189.xyz/live/lhrh/stream.m3u8> |
+| 121 | 龙华戏剧 | cdn8.163189.xyz | <https://cdn8.163189.xyz/live/lhxj/stream.m3u8> |
+| 122 | 龙华洋片 | cdn8.163189.xyz | <https://cdn8.163189.xyz/live/lhyp/stream.m3u8> |
+| 123 | TVB星河 | php.jdshipin.com:8880 | <http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe> |
+| 124 | TVB武侠 | php.jdshipin.com | <http://php.jdshipin.com/TVOD/iptv.php?id=yzwx> |
+| 125 | 爱奇艺 | php.jdshipin.com | <http://php.jdshipin.com/smt.php?id=Qiyi> |
+| 126 | 美亚C+ | ottproxy2.ist.ooo | <http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8> |
+| 127 | RTHK31 | php.jdshipin.com:8880 | <http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk31> |
+| 128 | RTHK32 | php.jdshipin.com:8880 | <http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk32> |
+| 129 | HOY TV | php.jdshipin.com | <http://php.jdshipin.com/TVOD/iptv.php?id=hoytv> |
+| 130 | 亚洲卫视 | pull-hsbj.vzan.com | <https://pull-hsbj.vzan.com/v/slowlive_821481626725612419.flv> |
 
-Updated at **Thu Oct 02 2025 06:15:23 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Oct 02 2025 08:13:28 GMT+0000 (Coordinated Universal Time)**
