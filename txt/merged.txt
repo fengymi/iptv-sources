@@ -2446,7 +2446,29 @@ Test,#genre#
 
 其它,#genre#
 [BD]云南卫视,https://epg.pw/stream/368e59cc43274d4c5380dfd940d1f40ee03a4b9cb5b1648b01c42b47f2516d8b.ctv
+央视频道,#genre#
+CCTV1,http://101.74.28.84:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV7,http://101.74.28.84:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV12,http://101.74.28.84:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV13,http://101.74.28.84:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV14,http://101.74.28.84:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
 
+卫视频道,#genre#
+四川卫视,http://101.74.28.84:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
+山东卫视,http://101.74.28.84:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
+广东卫视,http://101.74.28.84:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
+江苏卫视,http://101.74.28.84:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
+江西卫视,http://101.74.28.84:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
+河北卫视,http://101.74.28.84:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
+河南卫视,http://101.74.28.84:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
+浙江卫视,http://101.74.28.84:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南卫视,http://101.74.28.84:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
+贵州卫视,http://101.74.28.84:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
+
+其他频道,#genre#
+保定1,http://101.74.28.84:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+世界地理,http://101.74.28.84:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
+河北影视,http://101.74.28.84:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 央视高清,#genre#
 CCTV-1_综合,http://58.248.112.205:8006/GD_CUCC/G_CCTV-1-CQ.m3u8?Authinfo=3iRp8RZG1d3hGsaPmj%2FtHZMxCRWp3HWsIw2YA4WN0gZ4ZwGH0TEaahnmJ3AUk9g%2B&p=GITV&area=GD_CUCC&mac=d4:38:44:a5:72:8b
 CCTV-2_财经,http://58.248.112.205:8006/GD_CUCC/G_CCTV-2-CQ.m3u8?Authinfo=3iRp8RZG1d3hGsaPmj%2FtHYpSLOWx8KnbAEA%2FNlMdpMt4ZwGH0TEaahnmJ3AUk9g%2B&p=GITV&area=GD_CUCC&mac=d4:38:44:a5:72:8b
