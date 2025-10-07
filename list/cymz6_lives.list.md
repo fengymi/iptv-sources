@@ -29,4 +29,4 @@
 | 23 | 陕西都市青春 | IPv4 直链 | <http://36.40.236.130:9999/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0> |
 | 24 | 陕西银铃 | IPv4 直链 | <http://36.40.236.130:9999/tsfile/live/1009_1.m3u8?key=txiptv&playlive=0&authid=0> |
 
-Updated at **Mon Oct 06 2025 22:09:16 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Oct 07 2025 00:46:20 GMT+0000 (Coordinated Universal Time)**
