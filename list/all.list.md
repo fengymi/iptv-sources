@@ -277,7 +277,7 @@
 | 271 | [BD]cctv10-科教 | stream1.freetv.fun | <https://stream1.freetv.fun/8127300bcde1efa61bdb0876eba8c446aa473f5db52ffe7e23f520ab43563cb7.ctv> |
 | 272 | [BD]cctv11 | stream1.freetv.fun | <https://stream1.freetv.fun/4dbca66939ec886cc2ac71e07fbe545f7d6b6e4189fc63d01cd0a9b705414492.m3u8> |
 | 273 | [BD]cctv12 | stream1.freetv.fun | <https://stream1.freetv.fun/6f4520a649957c1068efd36c848b994de2752266a929a4f9a50dba84b9baf9b7.m3u8> |
-| 274 | [BD]cctv13 | stream1.freetv.fun | <https://stream1.freetv.fun/4117adc4edd224d94a0b6eaa71990c698fdd314f82390ce7328eee62f3e69299.ctv> |
+| 274 | [BD]cctv-13 | stream1.freetv.fun | <https://stream1.freetv.fun/3466bfc0dd7b8f0051570c9b0c713adfd3379d4741e59a1579f3f2325a30fd70.m3u8> |
 | 275 | [BD]cctv14 | stream1.freetv.fun | <https://stream1.freetv.fun/9c73daa5c22a14745357255f55b73b65ab6bab976d1309bfe949de363622e36a.ctv> |
 | 276 | [BD]cctv15 | stream1.freetv.fun | <https://stream1.freetv.fun/2c02ba7886ffaec4d28d5f9246f2bbf8dd89da8771f03f3bbbef49361b4cbb88.m3u8> |
 | 277 | [BD]cctv16[ipv6] | stream1.freetv.fun | <https://stream1.freetv.fun/e48a1dccf8e46a6ff6d6c3f16ecb266622e67ea7ad05003389743c7c6a988b5b.m3u8> |
@@ -300,7 +300,7 @@
 | 294 | [BD]cctv风云足球 | stream1.freetv.fun | <https://stream1.freetv.fun/f29c24e198f9bf47ac2be43abf3d1a9eb21ebf26392c4959f9ec8d2077718450.m3u8> |
 | 295 | [SD]celestial classic *wj | stream1.freetv.fun | <https://stream1.freetv.fun/4c90357c3feaaa8da589774076571e069e009ada0b46a2f328e13056cc2f2fa2.ctv> |
 | 296 | [SD]cetv4 | stream1.freetv.fun | <https://stream1.freetv.fun/462dc59fdf341d3dcdddac450d2e467664f1d800138efdefa4ff4dd061207790.m3u8> |
-| 297 | [BD]cetv1[ipv6] | stream1.freetv.fun | <https://stream1.freetv.fun/5dde6483e2272e460f65b17869d0cccae877e509dbdf85500b03be369357558a.m3u8> |
+| 297 | [BD]cetv1 | stream1.freetv.fun | <https://stream1.freetv.fun/da35c24c83335a7bcc71382e437f168201a41aa7b9806b67031a6b17c7930fdc.ctv> |
 | 298 | [BD]cgntv japan | stream1.freetv.fun | <https://stream1.freetv.fun/be87d8db8d2f3d934589fcc35f6e3bc413e947818b79f0e2aec1aa3e055c862f.m3u8> |
 | 299 | [HD]cgtn *wj | stream1.freetv.fun | <https://stream1.freetv.fun/01aa86eaafcfce1ff183d2bcfaf05dd5fe4c23e48d4ce5efefa5a4eb73efc470.ctv> |
 | 300 | [HD]asharq documentary | stream1.freetv.fun | <https://stream1.freetv.fun/8ab5f603f7d5a9e5c37a07736f309c981277dd2250416023994aaff9ef4bd2ac.m3u8> |
@@ -404,7 +404,7 @@
 | 398 | [HD]comedy central east | stream1.freetv.fun | <https://stream1.freetv.fun/63dff6b1b59d85ed3dd67f2129b92ea7265cf2555861b371fb02a411bc1a47ae.m3u8> |
 | 399 | [SD]comedy xtra *m | stream1.freetv.fun | <https://stream1.freetv.fun/27c94242772e89a0db068e7d7678978a472d0bd77bce1b6139aa21207841c723.ctv> |
 | 400 | [BD]rakuten tv comedy movies | stream1.freetv.fun | <https://stream1.freetv.fun/8be0bc1c7bd7fd2183d261d9638835fdc1d8e836a22bbf03885f475b106fd041.m3u8> |
-| 401 | [SD]court tv | stream1.freetv.fun | <https://stream1.freetv.fun/2104ae6466368098e9428e0e581681041a00b0f7d44a95ff3adec0cb14bc63b8.m3u8> |
+| 401 | [HD]court tv | stream1.freetv.fun | <https://stream1.freetv.fun/2104ae6466368098e9428e0e581681041a00b0f7d44a95ff3adec0cb14bc63b8.m3u8> |
 | 402 | [SD]crime 360 (720p) | stream1.freetv.fun | <https://stream1.freetv.fun/553183ed7d12a08ef53cefd93ab6d600608f080c9f682a6bf21967392a746a54.m3u8> |
 | 403 | [HD]crime plus investigation | stream1.freetv.fun | <https://stream1.freetv.fun/df37708591cd7dd74da6f6b724b59ae2861278fb0755bcf5d26d9483df9062db.m3u8> |
 | 404 | [HD]cozi tv | stream1.freetv.fun | <https://stream1.freetv.fun/7f13c43a09108ddfd93c2215ee1e8d20ceb07ff9335754520ec827fcb8f26dfb.m3u8> |
@@ -451,7 +451,7 @@
 | 445 | [BD]discovery h h | stream1.freetv.fun | <https://stream1.freetv.fun/8cdbb8386603267a4bd09b57f2184c8cf65517be58ad0a2f38679f74ddb170a2.ctv> |
 | 446 | [HD]usa-disney jr | stream1.freetv.fun | <https://stream1.freetv.fun/f23267c8843fa3e04ee6e14b468f4f60bfc39ef53e69dd9af70c88c7a2f25a19.ctv> |
 | 447 | [VGA]disney channel === | stream1.freetv.fun | <https://stream1.freetv.fun/03b664d77c2a6b34697ffddf4b24393ea5de9aa504940f2b7c3c4ff575fd7e7d.ctv> |
-| 448 | [SD]disney channel | stream1.freetv.fun | <https://stream1.freetv.fun/d18633171795dadaa86feddd86473c4056e69201e22e65d974e72fa6b179b14b.m3u8> |
+| 448 | [HD]disney channel | stream1.freetv.fun | <https://stream1.freetv.fun/6825b4b02e2a3037751c436dc0db39f515fc00f56d772e76b99d541bf097ad63.m3u8> |
 | 449 | [HD]disney junior(asia) == | stream1.freetv.fun | <https://stream1.freetv.fun/2b5a06cbea9e77c6e5f9ff541e7e16bde8f3ecf2ddec4f9926b366bfb82e55db.ctv> |
 | 450 | [SD]disney xd | stream1.freetv.fun | <https://stream1.freetv.fun/3c801c0dd4a036bf221597518645cf18ac400fbb51dea7fb2a0ad46299dfbb8f.ctv> |
 | 451 | [HD]diyar tv | stream1.freetv.fun | <https://stream1.freetv.fun/3898c67aa6c07422a30ba3e6a4ff9c8a0277b527e5ff10af16e085e4af20cd2b.m3u8> |
@@ -580,7 +580,7 @@
 | 574 | [HD]cg entertainment | stream1.freetv.fun | <https://stream1.freetv.fun/9724f836fbe54986c95c7fe2c92595f656181f56f651eb30e5ddb51fc534caed.m3u8> |
 | 575 | [SD]geo kahani (360p) | stream1.freetv.fun | <https://stream1.freetv.fun/52414852cf22228c9f78b4a01b6997b79e6455ee94d6d9b0ebfd7c899ab332a6.m3u8> |
 | 576 | [HD]gandan tv | stream1.freetv.fun | <https://stream1.freetv.fun/aa5cb8bc80b2e19bd3fdab75d14a8d793a7cade56b8991f5a2ceeac99f6d6373.m3u8> |
-| 577 | [VGA]global tv | stream1.freetv.fun | <https://stream1.freetv.fun/8162d5c744d36459c439a78f0e1c9e169aeb8fb0484c191fb1506a7eb4f93fb0.m3u8> |
+| 577 | [HD]global tv | stream1.freetv.fun | <https://stream1.freetv.fun/8162d5c744d36459c439a78f0e1c9e169aeb8fb0484c191fb1506a7eb4f93fb0.m3u8> |
 | 578 | [BD]gmm 25 | stream1.freetv.fun | <https://stream1.freetv.fun/db8939422dd9d8b0de0ddf10563cdf413ec79a65d80c86a81f43c9eb9a47280b.m3u8> |
 | 579 | [VGA]golden tv | stream1.freetv.fun | <https://stream1.freetv.fun/18d6de475c12dc724468e194856fe4fd2c389928cb4d24f4b223e8734481cb1e.m3u8> |
 | 580 | [SD]golf channel == | stream1.freetv.fun | <https://stream1.freetv.fun/a05993103d14e1053e133b7a3330109197235761058299bb25e2786294781993.ctv> |
@@ -789,7 +789,7 @@
 | 783 | [BD]pulse | stream1.freetv.fun | <https://stream1.freetv.fun/0b723fae3575898b30c47d6c9c2ab8b9983f204e29b48ff6945dcf188ac9e1ef.m3u8> |
 | 784 | [VGA]yadah tv | stream1.freetv.fun | <https://stream1.freetv.fun/843a12291902ec65b3a60a102cbaa819ee69a418131163ad427a37f1c7df7df2.m3u8> |
 | 785 | [HD]madani tv | stream1.freetv.fun | <https://stream1.freetv.fun/4bece81c093b9ba4d07f695e6afa55474a2ba228a759942a51fe12552ed7ba8e.m3u8> |
-| 786 | [VGA]ciudad magazine | stream1.freetv.fun | <https://stream1.freetv.fun/4c5bb955091d244d284dccaf6dd46446a1408419920ee1a8357ce22832e460d4.m3u8> |
+| 786 | [BD]ciudad magazine | stream1.freetv.fun | <https://stream1.freetv.fun/4c5bb955091d244d284dccaf6dd46446a1408419920ee1a8357ce22832e460d4.m3u8> |
 | 787 | [HD]magic tv | stream1.freetv.fun | <https://stream1.freetv.fun/8a61102033bae9e6a017fb44c8811dc2ea469aef04ed67cff6d69151d25cae11.m3u8> |
 | 788 | [VGA]makkah tv | stream1.freetv.fun | <https://stream1.freetv.fun/b53100e3a283be960483086b25c9cbc10a1371a7a8d3058b0b8caff5b3d202c7.m3u8> |
 | 789 | [VGA]dangal tv | stream1.freetv.fun | <https://stream1.freetv.fun/19acf8ca362b66112c01872efea755eb7c650e10549674406a1417c5cfae85fc.m3u8> |
@@ -851,7 +851,7 @@
 | 845 | [HD]nation tv | stream1.freetv.fun | <https://stream1.freetv.fun/70bf9b51e18f1a62309612a1b104fb349a671362404e447097bd39767e938d7e.m3u8> |
 | 846 | [HD]national geographic east | stream1.freetv.fun | <https://stream1.freetv.fun/eb178a3dd9cc0c7f4acdcf1abba88afdc37675f7f73f0ccd2d323184d6fa43cb.m3u8> |
 | 847 | [BD]abu dhabi | stream1.freetv.fun | <https://stream1.freetv.fun/1226751a9babfb4596aca39409b6779a2799ccc505af384a7108db9068f7d7a9.m3u8> |
-| 848 | [HD]national assembly tv | stream1.freetv.fun | <https://stream1.freetv.fun/184c89462d6e1d973b8ef95b9b1bded1205ab88892179961e7f870bc1adfc97d.m3u8> |
+| 848 | [VGA]national assembly tv | stream1.freetv.fun | <https://stream1.freetv.fun/184c89462d6e1d973b8ef95b9b1bded1205ab88892179961e7f870bc1adfc97d.m3u8> |
 | 849 | [HD]nautical channel | stream1.freetv.fun | <https://stream1.freetv.fun/64cfc3bf2ea7a6e2961ba433f3d647e328e235d759d76d444b8452497b5555ec.m3u8> |
 | 850 | [HD]angel tv indonesia | stream1.freetv.fun | <https://stream1.freetv.fun/48b79f5b603a78a23ca040af9725826719811020e46b867ec2a92e85d35f5d70.m3u8> |
 | 851 | [BD]docubox netflix | stream1.freetv.fun | <https://stream1.freetv.fun/8a9abbb5e533ef43a48ed210c247360a1435038b89afcfd5d0e12088a4e727b1.ctv> |
@@ -886,7 +886,7 @@
 | 880 | [BD]oanplus | stream1.freetv.fun | <https://stream1.freetv.fun/6b0998bdd8ac8b324ac298aca9a2a921520a17db5fd2d6c2f420323c40675751.m3u8> |
 | 881 | [HD]on style tv | stream1.freetv.fun | <https://stream1.freetv.fun/09dfd47bad388d5411aed76f9d9c62a1b5bc5d5f62ee2eb09915fcf2a138fb4e.m3u8> |
 | 882 | [HD]sl one | stream1.freetv.fun | <https://stream1.freetv.fun/90fc6ab9d53111da5b2fbf7cf58f58c5a297b07de8277ec85172d6305f8978e5.m3u8> |
-| 883 | [HD]coral tv | stream1.freetv.fun | <https://stream1.freetv.fun/9ebe6318198873302504943b05e44db06dbe6b118949088768d89ad4c86a4f82.m3u8> |
+| 883 | [VGA]coral tv | stream1.freetv.fun | <https://stream1.freetv.fun/9ebe6318198873302504943b05e44db06dbe6b118949088768d89ad4c86a4f82.m3u8> |
 | 884 | [SD]orf 1 | stream1.freetv.fun | <https://stream1.freetv.fun/96fee75b08baa20ecb23cfe70e07769a443c01ef7c16395e39837a51cf2284bb.m3u8> |
 | 885 | [HD]cine premiere | stream1.freetv.fun | <https://stream1.freetv.fun/4adb5547eaed5db039790d364f774c24da89ce141322b034f4ecbe5dc1673e28.m3u8> |
 | 886 | [BD]mbc drama plus | stream1.freetv.fun | <https://stream1.freetv.fun/04488e601daee6fd02ab81791a1f63ae19022222886aacbf48a9abba2774f81d.m3u8> |
@@ -973,7 +973,7 @@
 | 967 | [BD]rta sport | stream1.freetv.fun | <https://stream1.freetv.fun/a156dbcea1ed83d23964536b49d48a65a74f932d74de88cb77c8b77f0efe0cd2.m3u8> |
 | 968 | [BD]rtl-tvi | stream1.freetv.fun | <https://stream1.freetv.fun/fe7c7cdfada34cff15bd3ec768c3096e046b76763bd017ee033ede37cc721f4d.m3u8> |
 | 969 | [BD]rte news | stream1.freetv.fun | <https://stream1.freetv.fun/d67b1b162356af1fe0893cb2f6d46af446e847ba0725f0f47da4c5b5cbf4ac21.ctv> |
-| 970 | [BD]rtm parlimen | stream1.freetv.fun | <https://stream1.freetv.fun/e62f7591f4ed5cfe7cd307b855aeeb9be88f05ae93357440cc54f3e217b02682.m3u8> |
+| 970 | [HD]rtm parlimen | stream1.freetv.fun | <https://stream1.freetv.fun/e62f7591f4ed5cfe7cd307b855aeeb9be88f05ae93357440cc54f3e217b02682.m3u8> |
 | 971 | [BD]rta sports | stream1.freetv.fun | <https://stream1.freetv.fun/dd9a6031ff300f456e48cd29c2cdb987da811f1b74dc6abc15edead50572d78a.m3u8> |
 | 972 | [HD]rtp 3 | stream1.freetv.fun | <https://stream1.freetv.fun/db274f35b3d2b1fa353ef4033bc75a08395a32dcd1adcac0ed75b94ff96c9280.m3u8> |
 | 973 | [SD]rtp açores | stream1.freetv.fun | <https://stream1.freetv.fun/ba3972cec6c78f7af5d7ea58fe8a7a9e4714479ebdb0ff731490b853f8e0b840.m3u8> |
@@ -1053,7 +1053,7 @@
 | 1047 | [VGA]safari tv | stream1.freetv.fun | <https://stream1.freetv.fun/a35c67363a7e5122fceb657d3f5e7e8ce94ad07f61e3afe68aa5faa03ac22acd.m3u8> |
 | 1048 | [HD]salto 1 | stream1.freetv.fun | <https://stream1.freetv.fun/c9c5a002080a9a44f5ef056a1970af58d3b1063a38fc9605ca545902d9cc95d0.m3u8> |
 | 1049 | [HD]salto 2 | stream1.freetv.fun | <https://stream1.freetv.fun/420ccfd566d4d8936811414082b91a601d5c4c666f974abc514a08bb1618a685.m3u8> |
-| 1050 | [HD]sama dubai | stream1.freetv.fun | <https://stream1.freetv.fun/a176beac14bf9eef1093a9687fa70ed4a582ad256e7e69caab22f6044a7c6478.m3u8> |
+| 1050 | [BD]sama dubai | stream1.freetv.fun | <https://stream1.freetv.fun/a176beac14bf9eef1093a9687fa70ed4a582ad256e7e69caab22f6044a7c6478.m3u8> |
 | 1051 | [HD]fighting tv samurai | stream1.freetv.fun | <https://stream1.freetv.fun/9b300cf9b28a509994b5722da38dd9cd163ca462d967fd8ded21c86a10d09dd1.m3u8> |
 | 1052 | [BD]sanskar tv | stream1.freetv.fun | <https://stream1.freetv.fun/34e9134e8d49be06c96ed6826060bb113f5fe99f20b8024ee34f8b39d41d16ab.m3u8> |
 | 1053 | [VGA]sat 7 kids | stream1.freetv.fun | <https://stream1.freetv.fun/8546612d8a36fc57554988c8b3884e576402dc4a6e87c6ff71af2f95adc45698.m3u8> |
@@ -1294,7 +1294,7 @@
 | 1288 | [VGA]televízia osem | stream1.freetv.fun | <https://stream1.freetv.fun/d9038790e034cd8460f6bd4966d85feb6edaeb7da3db1be808ca2415e4868a0f.m3u8> |
 | 1289 | [HD]tempo tv | stream1.freetv.fun | <https://stream1.freetv.fun/e0fe3985d0e83f20dd637e24d240c96f05765189ebe150f4a4d761a0943f9bf7.m3u8> |
 | 1290 | [BD]ten | stream1.freetv.fun | <https://stream1.freetv.fun/0ccc2423e93ac6636152e64d3ee2065197352b7c96c7898ce85893919a962063.m3u8> |
-| 1291 | [VGA]tennis plus | stream1.freetv.fun | <https://stream1.freetv.fun/8c1ec7196514ea50c64699f27aa4995faf94d8e4f4faead9c9a77602036fd14d.m3u8> |
+| 1291 | [BD]tennis plus | stream1.freetv.fun | <https://stream1.freetv.fun/8c1ec7196514ea50c64699f27aa4995faf94d8e4f4faead9c9a77602036fd14d.m3u8> |
 | 1292 | [VGA]thai chaiyo | stream1.freetv.fun | <https://stream1.freetv.fun/5635ee3c984bc6865f02b469cec49ef1fa24fcdb422646cf6c7fc3fd90d6470e.m3u8> |
 | 1293 | [BD]thai pbs | stream1.freetv.fun | <https://stream1.freetv.fun/675c050af34997be04eaf771bf2405935f42006df3d3c936782080a1658bca3d.m3u8> |
 | 1294 | [BD]thairath tv | stream1.freetv.fun | <https://stream1.freetv.fun/40878d5ac355f01af108581ceb12f57776265c70f5fa3f4ff32f94e33b2bace9.m3u8> |
@@ -1862,4 +1862,4 @@
 | 1856 | [BD]龙华经典 | stream1.freetv.fun | <https://stream1.freetv.fun/c18a68c08db26e594330015d8ba2b4db254e993bdf7ce3e5dfb9c920038ed8a5.m3u8> |
 | 1857 | [BD]龙华电影 | stream1.freetv.fun | <https://stream1.freetv.fun/f3e4792919e603bd0eb00254eb263931dbab92a22578853745d8dbe977714338.m3u8> |
 
-Updated at **Mon Oct 13 2025 16:12:29 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Oct 13 2025 18:14:43 GMT+0000 (Coordinated Universal Time)**
