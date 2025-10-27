@@ -216,7 +216,7 @@ Movies,#genre#
 [BD]明珠,https://stream1.freetv.fun/e56abfec74a8d135ddfc2c074a81751b6fc41d0272d5f5519c218b2e56d3265f.m3u8
 [HD]东方影视,https://stream1.freetv.fun/24b2b7048074d6989b0b0bdbb6cf188930ea474e17a5a04641c5313791b6791a.ctv
 [BD]东森戏剧_*wj,https://stream1.freetv.fun/a72d26a8a43106c2c29140a67e29db7e83a3642cae2340f9e738d95bc87d21e4.m3u8
-[BD]东森羊片_*wj,https://stream1.freetv.fun/26008552355975340da4bb3db50e2d52e6c5675d7619d2811a15d91d7ff7a4d6.m3u8
+[BD]东森羊片_*wj,https://stream1.freetv.fun/82c401987de841febec9cb10f205b32be395046dc8789cd834f5b6fb563b5d61.m3u8
 [BD]东森电影_*wj,https://stream1.freetv.fun/ce1dd6cbaf8eb05f318b53ea031d53f49e0f0d283ce11ccaf51e6ffa53ee6a03.m3u8
 [VGA]江苏影视,https://stream1.freetv.fun/9d484a9619de8c105275bb57c65317305753c31116204761125e17efc1398ee9.ctv
 [BD]河南电视剧,https://stream1.freetv.fun/a43721bffdbe0d3438f94a2a3a45d1e37c201a3dfb81f1afd8bde9c32e4035f8.m3u8

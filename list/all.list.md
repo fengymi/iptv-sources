@@ -1709,7 +1709,7 @@
 | 1703 | [BD]东森幼幼 *wj | stream1.freetv.fun | <https://stream1.freetv.fun/9080bda2fc50c781962c39b28571bc4fe0a5a71226db28ab289ef1a813bfbe90.m3u8> |
 | 1704 | [BD]东森戏剧 *wj | stream1.freetv.fun | <https://stream1.freetv.fun/a72d26a8a43106c2c29140a67e29db7e83a3642cae2340f9e738d95bc87d21e4.m3u8> |
 | 1705 | [BD]东森新闻 *wj | stream1.freetv.fun | <https://stream1.freetv.fun/4458fb2083129f6336f4d3dffcee7549ce14dedde69006ed08900fcf2fd5c522.m3u8> |
-| 1706 | [BD]东森羊片 *wj | stream1.freetv.fun | <https://stream1.freetv.fun/26008552355975340da4bb3db50e2d52e6c5675d7619d2811a15d91d7ff7a4d6.m3u8> |
+| 1706 | [BD]东森羊片 *wj | stream1.freetv.fun | <https://stream1.freetv.fun/82c401987de841febec9cb10f205b32be395046dc8789cd834f5b6fb563b5d61.m3u8> |
 | 1707 | [BD]东森综合 | stream1.freetv.fun | <https://stream1.freetv.fun/a34f63cf23e4e386f7b9304a7bf75f568c4886d6ccaec81cee72fd1156ad2e00.ctv> |
 | 1708 | [BD]东森美洲 | stream1.freetv.fun | <https://stream1.freetv.fun/58095733803c46eb57bb7d5401c87aa9ee2a605c57b9d8ced2c65d9b385610ed.m3u8> |
 | 1709 | [BD]东森美洲新闻台 | stream1.freetv.fun | <https://stream1.freetv.fun/d08ea3c0e788d241119fdfe7dadd2d9505a329c9313957a73adcd13de810c593.m3u8> |
@@ -1879,4 +1879,4 @@
 | 1873 | [SD]黑龙江新闻 | stream1.freetv.fun | <https://stream1.freetv.fun/7dd215c9f166208cd88c7d3807f2899e00819ef112fb02d0f6b4d0b3ec6c5d80.m3u8> |
 | 1874 | [BD]黑龙江卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/8db7fe87f56b1781603eca82aa8111cd9a6f7a52cb6648858a6a657a926d5ddf.m3u8> |
 
-Updated at **Mon Oct 27 2025 04:20:39 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Oct 27 2025 06:17:58 GMT+0000 (Coordinated Universal Time)**
