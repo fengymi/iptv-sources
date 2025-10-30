@@ -4,8 +4,6 @@
 
 | No. | Channel Name | From | Source |
 | --- | ------------ | ---- | ------ |
-| 1 | 北京卫视 | IPv4 直链 | <http://115.48.161.108:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0> |
-| 2 | 四川卫视 | IPv4 直链 | <http://115.48.161.108:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0> |
-| 3 | 灵宝新闻综合 | IPv4 直链 | <http://115.48.161.108:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0> |
 
-Updated at **Thu Oct 30 2025 20:11:38 GMT+0000 (Coordinated Universal Time)**
+
+Updated at **Thu Oct 30 2025 22:10:07 GMT+0000 (Coordinated Universal Time)**
