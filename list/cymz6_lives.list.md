@@ -1,4 +1,4 @@
-# List for **cymz6/AutoIPTV-Hotel lives**
+# List for **cymz6/AutoIPTV-Hotel lives**(Rollback)
 
 > M3U: [cymz6_lives.m3u](/cymz6_lives.m3u), TXT: [cymz6_lives.txt](/txt/cymz6_lives.txt)
 
@@ -11,4 +11,4 @@
 | 5 | 山东卫视 | IPv4 直链 | <http://125.125.236.53:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0> |
 | 6 | 旅游卫视 | IPv4 直链 | <http://125.125.236.53:9901/tsfile/live/0114_1.m3u8?key=txiptv&playlive=1&authid=0> |
 
-Updated at **Sat Nov 01 2025 16:10:31 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Nov 01 2025 18:12:54 GMT+0000 (Coordinated Universal Time)**
