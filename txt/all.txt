@@ -976,7 +976,7 @@ Knowledge,#genre#
 [SD]discovery_life_*m,https://stream1.freetv.fun/d314db210f8c59bc53eb7335d46481f07ba5d1390fbf13671c1e225a01d49079.ctv
 [SD]discovery_science,https://stream1.freetv.fun/2802ba16f6652a3ba808e18b44e6353388014a9bf6bcd74df205fa80abb4d1d3.m3u8
 [SD]discovery_turbo_*m,https://stream1.freetv.fun/55719136e39b8dd83a184cc7d3066f307ee1fa5c85e5c7de0f3728f56be05da9.ctv
-[HD]discovery_h_h,https://stream1.freetv.fun/8cdbb8386603267a4bd09b57f2184c8cf65517be58ad0a2f38679f74ddb170a2.ctv
+[BD]discovery_h_h,https://stream1.freetv.fun/8cdbb8386603267a4bd09b57f2184c8cf65517be58ad0a2f38679f74ddb170a2.ctv
 [SD]docubox,https://stream1.freetv.fun/a5dd784ef89b4162edb7325ee7be03251704486f5cee19284b6d1de4efef6191.m3u8
 [HD]global_trekker_*wj,https://stream1.freetv.fun/2d271af86133c33c8d51251bb60fc3c8f0aac3bebe92cbca058db2a4f5f41ecd.m3u8
 [BD]genb_tv,https://stream1.freetv.fun/f36ecb15c68a847ae1c4b021f57ed02c21c41f84949a00dd60d536989ff6f6d7.m3u8
@@ -1078,7 +1078,6 @@ Other,#genre#
 [BD]imam_hussein_tv_3,https://stream1.freetv.fun/2527b5da5d394aa45e2f0e98b9cafd260905e42cf583d9294030dec8dcc43c09.m3u8
 [SD]irib2,https://stream1.freetv.fun/b60d91090e01ca6077d1bc2cf20ac40511cb52d4cc7c4a60cce7279739d966cf.m3u8
 [SD]islam_channel_(576p)_[not_24/7],https://stream1.freetv.fun/5e0cca2677883fe5d3f62941001280e8f594fab98dc9a54310e6b2368fe1d345.m3u8
-[HD]jitv,https://stream1.freetv.fun/f6bf6fc3ca179d9d774ac495d818769f7026d8fc4b233c2d8913623813fb8cf2.m3u8
 [BD]shop_channel,https://stream1.freetv.fun/5100c56de5df39cfd50d08d6fddf4da7bb3f9e8383be9790a29f8aaaf6156a8a.m3u8
 [BD]kontra_channel,https://stream1.freetv.fun/5e661161dc6090abcd41715a84c4f6b6a24e0a73fcfb81587f8a2d9330e9215c.m3u8
 [HD]kurdmax_show,https://stream1.freetv.fun/2b61f7b02932f635401a3230524c86c7e22bf7c051f6eb364dbbd08c66f2efad.m3u8
