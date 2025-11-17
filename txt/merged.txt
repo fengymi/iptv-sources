@@ -1555,7 +1555,7 @@ Test,#genre#
 知识,#genre#
 [BD]documentary_plus,https://stream1.freetv.fun/39c6ca9887b134e09b5b500e6b5e8bc96a925f65ef10e490ff3d1558b2f5cd5b.m3u8
 [BD]cctv9,https://stream1.freetv.fun/72df79b1a6e2e9f481761c6f925aa275908f41120aea73c241ba767234402730.ctv
-[SD]rt_documentary,https://stream1.freetv.fun/954fce4011f65941ab132958aa95eea3eb3bb577f454aa5de26d0345c4169a62.m3u8
+[HD]cgtn_documentary,https://stream1.freetv.fun/299881e5222eea2b6e3a2decc6f8c811d3add710fa4134e5e30223c52fd016ec.m3u8
 [BD]金鹰纪实,https://stream1.freetv.fun/06673863c75bdea703152b8e55d90f19cbfaac578651d2b60871d5aa3c0990f7.m3u8
 
 其它,#genre#
@@ -1710,8 +1710,7 @@ Test,#genre#
 [BD]劲爆体育,https://stream1.freetv.fun/5c9f8deb5d2b8a259adb635f16239674f23d6075bb3713aa4795a8a7ecb34f52.m3u8
 [BD]广州竞赛,https://stream1.freetv.fun/3bae77bc5c50d229f017065385ace3d322b9059fb639f24d52c38d217335f842.ctv
 [BD]广东体育,https://stream1.freetv.fun/7b470f9fc5c305db0c8622117b7b25ca00eb35ba3e93e865cf0ff9df5c736681.ctv
-[BD]广东体育高清,https://stream1.freetv.fun/b6f39b0a4ba5de158dc675cd2ed69c2be4d88129dfbb435b88a975a79229d11f.m3u8
-[BD]新视觉,https://stream1.freetv.fun/0c49782cb4d6cec5bd8dcd291e0ddd10c2cb27455a44378824fd1518b03fa6e3.m3u8
+[BD]广东体育,https://stream1.freetv.fun/d8de197cafccb00d5ef0b74b6d51099156cdda3dfa9f12a2400ffbbd3c837f9e.ctv
 [BD]江苏体育,https://stream1.freetv.fun/e9b0607a6ad54ba676d9bb046555ef959e983d1f66e584dd05e2c58424945b7e.ctv
 
 综艺,#genre#
@@ -13916,15 +13915,11 @@ CCTV-14_少儿,rtp://239.3.1.65:8132
 CCTV-15_音乐,rtp://239.3.1.153:8136
 CCTV-16_奥林匹克,rtp://239.3.1.184:8001
 CCTV-17_农业农村,rtp://239.3.1.151:8144
-
-CGTN,#genre#
 CGTN英语,rtp://239.3.1.215:4220
 CGTN纪录,rtp://239.3.1.216:4220
 
-北京超高清,#genre#
+卫视,#genre#
 北京卫视,rtp://239.3.1.22:8001
-
-卫视超高清,#genre#
 湖南卫视,rtp://239.3.1.112:3002
 东方卫视,rtp://239.3.1.119:3006
 江苏卫视,rtp://239.3.1.113:3003
@@ -13933,8 +13928,6 @@ CGTN纪录,rtp://239.3.1.216:4220
 广东卫视,rtp://239.3.1.203:2000
 深圳卫视,rtp://239.3.1.202:2000
 四川卫视,rtp://239.3.1.131:3001
-
-卫视,#genre#
 江西卫视,rtp://239.3.1.123:8164
 河北卫视,rtp://239.3.1.148:8072
 河南卫视,rtp://239.3.1.50:8184
@@ -13975,10 +13968,8 @@ CCTV-4K,rtp://239.3.1.245:2000
 睛彩篮球,rtp://239.3.1.126:8001
 睛彩青少,rtp://239.3.1.127:8001
 睛彩广场舞,rtp://239.3.1.128:8001
-4K超清,rtp://239.3.1.249:8001
-
-轮播,#genre#
 爱上4K,rtp://239.3.1.236:2000
+4K超清,rtp://239.3.1.249:8001
 城市剧场,rtp://239.3.1.67:4120
 军旅剧场,rtp://239.3.1.68:4120
 古装剧场,rtp://239.3.1.69:4120
