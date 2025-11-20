@@ -1,4 +1,4 @@
-# List for **cymz6/AutoIPTV-Hotel lives**
+# List for **cymz6/AutoIPTV-Hotel lives**(Rollback)
 
 > M3U: [cymz6_lives.m3u](/cymz6_lives.m3u), TXT: [cymz6_lives.txt](/txt/cymz6_lives.txt)
 
@@ -82,4 +82,4 @@
 | 76 | 经济科教 | IPv4 直链 | <http://218.13.170.98:9901/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0> |
 | 77 | 金鹰卡通 | IPv4 直链 | <http://125.42.150.64:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0> |
 
-Updated at **Thu Nov 20 2025 18:16:12 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Nov 20 2025 20:12:25 GMT+0000 (Coordinated Universal Time)**
