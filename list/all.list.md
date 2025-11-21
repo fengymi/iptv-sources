@@ -196,7 +196,7 @@
 | 190 | [BD]bibel tv musik | stream1.freetv.fun | <https://stream1.freetv.fun/c2dd6f213d4898b2fd6caa94ba5b481a7f20fe154a4f06f472534fc9efb418dc.m3u8> |
 | 191 | [SD]big ten network == | stream1.freetv.fun | <https://stream1.freetv.fun/3017831badb498a341e822ace13a107bf3fbf771bd4d3f7497ef1b0ec2cf9d68.ctv> |
 | 192 | [HD]billiard tv | stream1.freetv.fun | <https://stream1.freetv.fun/ddc449384315ad3735435378adbcebd02e4aa3446b279c02ad068720e144b53b.m3u8> |
-| 193 | [HD]bloomberg ht | stream1.freetv.fun | <https://stream1.freetv.fun/1b505d88a30f528ccaae3b6820dd8e787c9633ac7d204212948cacbefef45144.m3u8> |
+| 193 | [BD]bloomberg tv plus | stream1.freetv.fun | <https://stream1.freetv.fun/bf1d71c5c5045458e8e7198865317594f27ef617b060976e0be5773405d228c3.m3u8> |
 | 194 | [VGA]bloomberg ht | stream1.freetv.fun | <https://stream1.freetv.fun/db127be51626697a5ea23ff1feeabfab6c7d8bb34deb82d8456ba83bae54030b.m3u8> |
 | 195 | [BD]bloomberg news | stream1.freetv.fun | <https://stream1.freetv.fun/a57249dc1fbb72e595250fd982a6546179458fd1cfe689ce56a20a50c9bb5ccb.ctv> |
 | 196 | [BD]bloomberg tv plus | stream1.freetv.fun | <https://stream1.freetv.fun/cf3f20f6fdcf87eed8f4c4596a760bc1a5f0c902bfb053ab97924cec187f9572.m3u8> |
@@ -1363,7 +1363,7 @@
 | 1357 | [HD]寰宇新闻 | stream1.freetv.fun | <https://stream1.freetv.fun/d9e077d94c5ba3a10f9d1a26d5c1f3aa5d4d3f811e1f85120c5b742aaa506157.ctv> |
 | 1358 | [VGA]寰宇财经 | stream1.freetv.fun | <https://stream1.freetv.fun/0da3a17bf7d65998f4c03e2f5fd35e98a129ced4c7ef8d723d2344a44362003e.ctv> |
 | 1359 | [BD]山东教育卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/5fb9f3d5938062b625b04df4e05fba93f89f5d6333685743fa0593d9497e3abf.m3u8> |
-| 1360 | [BD]山东卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/3b97ca6daa3a8451a385b7db783b1c5622e979ec500532a2ff7145e99e78fab5.m3u8> |
+| 1360 | [BD]山东卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/6ae72c2ed9e03972d255c19be7f49c4731d8c51bfd1dfc150e73a2d7a132235d.m3u8> |
 | 1361 | [SD]山西卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/2f538e8c3c3dc60b99799fb3331f5f05b5a9c3c574544b4178a57a7de78f6884.ctv> |
 | 1362 | [BD]峨嵋电影 | stream1.freetv.fun | <https://stream1.freetv.fun/4b000a541e51690025326cffbf43d0e994a6327abaa0dc59b79021949e62d289.m3u8> |
 | 1363 | [BD]岭南戏曲 | stream1.freetv.fun | <https://stream1.freetv.fun/d765215aa01852928728857a458ce41ae3c5c04fa90622dc587c840dbcd33fb6.ctv> |
@@ -1410,7 +1410,7 @@
 | 1404 | [BD]晋城公共 | stream1.freetv.fun | <https://stream1.freetv.fun/8541f17cd6081bc041d504cd6edbc1803cb1162e1ce2207d4d4486a98b3769d2.m3u8> |
 | 1405 | [BD]晋城新闻 | stream1.freetv.fun | <https://stream1.freetv.fun/b7f44c7cf0937773ca350ff513cb1bb9e8a89a1c39b4834fa72e6c41695ebcc5.m3u8> |
 | 1406 | [BD]郸城新闻综合 | stream1.freetv.fun | <https://stream1.freetv.fun/9a0aa1ad67904f518a9108f654945ce4908bc4e893ad41ae1c332973eed102d8.m3u8> |
-| 1407 | [BD]东南卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/3ad6599415990b0f15bec3d681fb934f53a2f82aac7584375237a83573efe5c7.m3u8> |
+| 1407 | [HD]东南卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/12cc275a53b0651fdf3fb0c2e9a8bdf5a3eb47d2470edf05da5d0e5d86681f23.m3u8> |
 | 1408 | [BD]东方影视 | stream1.freetv.fun | <https://stream1.freetv.fun/24b2b7048074d6989b0b0bdbb6cf188930ea474e17a5a04641c5313791b6791a.m3u8> |
 | 1409 | [BD]东方卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/d4b9c22b8edf2e54ede70b443a5f1e33d1ea1f6742dea0a539cbf70e4cc546db.m3u8> |
 | 1410 | [BD]东森幼幼 | stream1.freetv.fun | <https://stream1.freetv.fun/a5ce703abb18e1b201bebe82d846acbff82ab953643a7153a7df8df671f465cf.ctv> |
@@ -1448,7 +1448,7 @@
 | 1442 | [HD]河北农民 | stream1.freetv.fun | <https://stream1.freetv.fun/9bbe61c3b5d654e981e8256c9d3524467065dc700aa117f2e973bfec74ccea0e.m3u8> |
 | 1443 | [BD]河南新闻 | stream1.freetv.fun | <https://stream1.freetv.fun/a0caf795a52bb23d1d59bb721fd67074ece2c5ef334780a4cd35cd63c9e9731a.m3u8> |
 | 1444 | [BD]河南民生 | stream1.freetv.fun | <https://stream1.freetv.fun/3dba1aa77b00ec70e21ad288b975e283cf64dbfa98374eae276ffad9be33b1cf.ctv> |
-| 1445 | [VGA]河南卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/7331faf4032e9de329e2c041cd9fa6f95fad0683ef1937a7bbbb76322856b9eb.ctv> |
+| 1445 | [BD]河南卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/ea842ab34e6da31e0eae5bd8be6c4b7d67f0b0c214efaca7ff2c5a1718f7fe55.m3u8> |
 | 1446 | [BD]河南都市 | stream1.freetv.fun | <https://stream1.freetv.fun/159787fa1c85725d343a5097adb51da069502ad220ca826ada667b010aeabf5b.ctv> |
 | 1447 | [BD]河南电视剧 | stream1.freetv.fun | <https://stream1.freetv.fun/a43721bffdbe0d3438f94a2a3a45d1e37c201a3dfb81f1afd8bde9c32e4035f8.m3u8> |
 | 1448 | [VGA]洪金宝 | stream1.freetv.fun | <https://stream1.freetv.fun/a26e1939830ecf1e3d46f032f2daf5650b1820f10dfab266605ae933192d59aa.m3u8> |
@@ -1590,4 +1590,4 @@
 | 1584 | [HD]龙华经典 | stream1.freetv.fun | <https://stream1.freetv.fun/c2275b572ec49684dc532efc606c5f6b264581f346379559e72ec2137c1ecb1d.ctv> |
 | 1585 | [BD]龙华电影 | stream1.freetv.fun | <https://stream1.freetv.fun/e61ec6990715622e4b73cf6eb9b3b83a245bd96c7fa9a5d2cd066490f092289c.ctv> |
 
-Updated at **Fri Nov 21 2025 18:15:59 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Nov 21 2025 20:12:02 GMT+0000 (Coordinated Universal Time)**
