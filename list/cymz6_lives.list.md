@@ -77,4 +77,4 @@
 | 71 | 河北都市 | IPv4 直链 | <http://101.74.28.102:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0> |
 | 72 | 马鞍山新闻 | IPv4 直链 | <http://223.241.247.214:9901/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0> |
 
-Updated at **Fri Nov 21 2025 22:10:24 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Nov 22 2025 00:48:44 GMT+0000 (Coordinated Universal Time)**
