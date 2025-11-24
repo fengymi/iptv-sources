@@ -1,4 +1,4 @@
-# List for **qwerttvv/Beijing-IPTV IPTV Unicom Multicast**(Rollback)
+# List for **qwerttvv/Beijing-IPTV IPTV Unicom Multicast**
 
 > M3U: [q_bj_iptv_unicom_m.m3u](/q_bj_iptv_unicom_m.m3u), TXT: [q_bj_iptv_unicom_m.txt](/txt/q_bj_iptv_unicom_m.txt)
 
@@ -135,4 +135,4 @@
 | 129 | 山东教育 | IPv4 直链 | <rtp://239.3.1.52:4120> |
 | 130 | 财富天下 | IPv4 直链 | <rtp://239.3.1.53:9136> |
 
-Updated at **Mon Nov 24 2025 12:21:26 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Nov 24 2025 14:11:51 GMT+0000 (Coordinated Universal Time)**
