@@ -6,4 +6,4 @@
 | --- | ------------ | ---- | ------ |
 | 1 | 深圳卫视 | IPv4 直链 | <http://123.129.70.178:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0> |
 
-Updated at **Thu Nov 27 2025 06:17:40 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Nov 27 2025 08:16:33 GMT+0000 (Coordinated Universal Time)**
