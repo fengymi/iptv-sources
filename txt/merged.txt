@@ -1487,7 +1487,7 @@ Kids,#genre#
 [BD]boomerang_*m,https://stream1.freetv.fun/121db17e027f306f0cbe7493a8a37a596206518fa1b1966b8a8a5a5f9ee76681.ctv
 [BD]cbbc_uhd_*m,https://stream1.freetv.fun/de4b02838955d95ce99d38d48056c10e3ac410291cf21abee09dd5ddaf18bc16.ctv
 [SD]cctv-14少儿,https://stream1.freetv.fun/16b39a17c3bc3f5982d0796055c25699d7ffc0948274e5f69da181d74d680bc8.m3u8
-[BD]cnn_brasil,https://stream1.freetv.fun/fefbc59b25136216cc016486f12863930fe5dfb16c58605e57e66da19800cbef.m3u8
+[HD]cnn_brasil,https://stream1.freetv.fun/6e0dee5fa9288239fa366c099bc0735133bfc398782c8459def263a6c29ecea2.m3u8
 [SD]cnt,https://stream1.freetv.fun/6092b749027b96795243da1fb0ae072cffedf5f80b3618f08a54265e6ada99d6.m3u8
 [HD]canal_ipe_ᴴᴰ,https://stream1.freetv.fun/49b09319fa923b701df28f2e0f5f8b2abf55c1931bfa0811c6bda404af6c25e2.m3u8
 [HD]cartoon_network_*m,https://stream1.freetv.fun/bd69e99776a4456e0737aedcc25758b3a015db02fef373579f546663c5737e36.ctv
