@@ -1685,7 +1685,7 @@ Test,#genre#
 [HD]电影,https://stream1.freetv.fun/7486998b02351695b94b3785c1c230875368fea6160ddab9e7af4195271874f8.m3u8
 [HD]韩国电影2,https://stream1.freetv.fun/fb55bfb45a0ccd52c3736f2cc95d9cd39d6684375440b822a786dd1c4ece3f33.m3u8
 综合,#genre#
-[BD]cctv-08,https://stream1.freetv.fun/b24f01c82b7185eb28c80ce82291c7533a0fbfb3a64dc84533e8f30ca7cf8e91.ctv
+[BD]cctv-8高清,https://stream1.freetv.fun/d4e41340653ef3bc5e2b559cce1953ba68c56106f7afad9c4b9245f2c426d1fb.m3u8
 [BD]唐河一套,https://stream1.freetv.fun/2dfba1a07e4c4192c08973501820703a9e35a7090e951599c72f2fe38c263749.m3u8
 [BD]cctv12,https://stream1.freetv.fun/713f8c42d89efd6b0b31ab22e8070a22a6eb54790b31f6e8ebe511775c1309f5.m3u8
 [HD]cctv-4中文国际,https://stream1.freetv.fun/eeac560cb2db13aa0ea2094ca16c2fde31ce7b721769652b927d23ff56e9dee4.m3u8
@@ -1802,7 +1802,7 @@ Test,#genre#
 电影,#genre#
 [BD]cctv-11戏曲,https://stream1.freetv.fun/4f22b12d8bb7580f105a3fa7de769af1954a31d64e8515a79fbc637060d17533.m3u8
 [BD]cctv11,https://stream1.freetv.fun/a1ee8a4f3954b5e76c7d40251197d089421f936e5f616960f16ff6494fff42bf.ctv
-[BD]cctv6-gq,https://stream1.freetv.fun/e1f16e34882ef1b6e2e8ecfdabf2241b5d6ddab9aa1641825acdb42b048623f6.ctv
+[BD]cctv-6高清,https://stream1.freetv.fun/ab50853718b89e30007be237ab4886d89319090af994921dbb401225abb40a4a.m3u8
 [HD]cctv8,https://stream1.freetv.fun/4bdb622b9323106fefcd68479b8ae140c393fc8a50e6fb82832591e9505f90f7.m3u8
 [SD]cctv第一剧场,https://stream1.freetv.fun/631e31539c1b0c0c745f6727dd2e9511ef40616c5732baa462609264fa22c757.m3u8
 [HD]celestial_classic_*wj,https://stream1.freetv.fun/ea390e27102f65b435967e5b2c5f1d61135eda1b383531a2fb90af1d4346b74a.ctv
@@ -1849,6 +1849,7 @@ Test,#genre#
 [VGA]哈尔滨生活,https://stream1.freetv.fun/277680ed8bb45917049db6fe7f0ef113a2166b6476d77b96b9b3f9ac49e2dc12.m3u8
 [BD]四川文化,https://stream1.freetv.fun/4ef3c1b3bee76ad7dea737459be21c92d2370476c6cd20cea5339fe6c7bb878a.m3u8
 [BD]四川科教,https://stream1.freetv.fun/dd26f57be074ce07e1fb0d357b9bff2846bd030575df792d54abb4299ba5ada0.m3u8
+[BD]家庭剧场,https://stream1.freetv.fun/7236f7b579a5683f20de8683e0ebe180aa8ec3e560ca0b7f3dd10cd4fddd2226.m3u8
 [HD]宁夏卫视,https://stream1.freetv.fun/c3a22585493b5fbb62ab4b873bbf60ce767e779781bf178117fcf0918e2de201.m3u8
 [HD]山东教育,https://stream1.freetv.fun/0a42f47350c5496caf043968c38c04edee874a1acfcb5520f11d4afae642a618.m3u8
 [BD]岭南戏曲,https://stream1.freetv.fun/d765215aa01852928728857a458ce41ae3c5c04fa90622dc587c840dbcd33fb6.ctv
@@ -2162,7 +2163,30 @@ Test,#genre#
 
 其它,#genre#
 [BD]云南卫视,https://epg.pw/stream/368e59cc43274d4c5380dfd940d1f40ee03a4b9cb5b1648b01c42b47f2516d8b.ctv
+央视频道,#genre#
+CCTV1,http://182.114.48.220:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV2,http://182.114.48.220:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV4,http://182.114.48.220:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV6,http://182.114.48.220:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV8,http://182.114.48.220:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV9,http://182.114.48.220:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV10,http://182.114.48.220:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
 
+卫视频道,#genre#
+山东卫视,http://101.74.28.102:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
+山西卫视,http://182.114.48.220:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
+广东卫视,http://101.74.28.102:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
+深圳卫视,http://182.114.48.220:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南卫视,http://182.114.48.220:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
+辽宁卫视,http://182.114.48.220:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
+陕西卫视,http://182.114.48.220:9901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
+
+其他频道,#genre#
+河北影视,http://101.74.28.102:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
+河南新闻,http://182.114.48.220:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
+河南法制报道,http://182.114.48.220:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+河南电视剧,http://182.114.48.220:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
+河南都市报道,http://182.114.48.220:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 央视高清,#genre#
 CCTV-1_综合,http://58.248.112.205:8006/GD_CUCC/G_CCTV-1-CQ.m3u8?Authinfo=3iRp8RZG1d3hGsaPmj%2FtHZMxCRWp3HWsIw2YA4WN0gZ4ZwGH0TEaahnmJ3AUk9g%2B&p=GITV&area=GD_CUCC&mac=d4:38:44:a5:72:8b
 CCTV-2_财经,http://58.248.112.205:8006/GD_CUCC/G_CCTV-2-CQ.m3u8?Authinfo=3iRp8RZG1d3hGsaPmj%2FtHYpSLOWx8KnbAEA%2FNlMdpMt4ZwGH0TEaahnmJ3AUk9g%2B&p=GITV&area=GD_CUCC&mac=d4:38:44:a5:72:8b
