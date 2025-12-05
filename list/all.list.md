@@ -1599,7 +1599,7 @@
 | 1593 | [BD]靖洋卡通 | stream1.freetv.fun | <https://stream1.freetv.fun/984a82f0f08c0cd9d33ae7189d099e3b9125da1270ccd13acc9840d83f92f4ad.m3u8> |
 | 1594 | [BD]靖洋戏剧 | stream1.freetv.fun | <https://stream1.freetv.fun/7b257b9abd13790ce343fd280564c1810cc85a5497b0f6bbab320bd6dca4d8bd.m3u8> |
 | 1595 | [BD]非凡商业 | stream1.freetv.fun | <https://stream1.freetv.fun/2a1ad212c36a6b1d6e219b2616c2606718d857c4c23b80879a19d8248fdc4f16.ctv> |
-| 1596 | [HD]非凡新闻 | stream1.freetv.fun | <https://stream1.freetv.fun/a74cfddea020652e0f056eabc4a5848a698277ba87ad5da3079a3f827812ae18.ctv> |
+| 1596 | [BD]非凡新闻 | stream1.freetv.fun | <https://stream1.freetv.fun/0d5a5ce924aa323b57e608e00cf62cbd6628179bf5d0b2e0ddd93a5796ccfbdf.ctv> |
 | 1597 | [BD]韩国娱乐 | stream1.freetv.fun | <https://stream1.freetv.fun/6999baf9ec99d34edfb6d55582c25bec5185609a8692528d83b9f029ffa6223e.ctv> |
 | 1598 | [HD]韩国电影2 | stream1.freetv.fun | <https://stream1.freetv.fun/fb55bfb45a0ccd52c3736f2cc95d9cd39d6684375440b822a786dd1c4ece3f33.m3u8> |
 | 1599 | [SD]凤凰卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/d3c92459e8f551fb9d596197050f5caa3441cc4b4300514833d9bcfe23aeddb8.ctv> |
@@ -1619,4 +1619,4 @@
 | 1613 | [BD]龙华经典 | stream1.freetv.fun | <https://stream1.freetv.fun/c2275b572ec49684dc532efc606c5f6b264581f346379559e72ec2137c1ecb1d.ctv> |
 | 1614 | [BD]龙华电影 | stream1.freetv.fun | <https://stream1.freetv.fun/d2be8ec62b215362ffd0925ece1643d31aa932df95c5d88516333b5d1e3daebb.m3u8> |
 
-Updated at **Fri Dec 05 2025 12:21:51 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Dec 05 2025 14:11:48 GMT+0000 (Coordinated Universal Time)**
