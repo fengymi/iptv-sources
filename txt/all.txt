@@ -1382,7 +1382,6 @@ Sports,#genre#
 [BD]eurosport_1,https://stream1.freetv.fun/e66bd23e47a9849c664626e0ebb30dd67d058a70a5d34522a79998ff3e0e49b8.m3u8
 [HD]esports_max,https://stream1.freetv.fun/9140b3a23802515e0ad7483f470adac3875995243f2836df473c5ffecfb582f5.m3u8
 [BD]eurosport,https://stream1.freetv.fun/672fc0528808836f408e06de819dbe5c41284c1f77cc0f3518ce9bea6858d22d.m3u8
-[BD]eurosport_2,https://stream1.freetv.fun/d4346147005028a044349f37856681abe346073396886281298a809a96d79616.ctv
 [HD]fox_sports,https://stream1.freetv.fun/bc7d6bbb014e43fadcb0db4c3f49184e7078343168a23d0e543d45cffd56e3dd.m3u8
 [HD]ช่อง_fox_sports_southwest_plus,https://stream1.freetv.fun/16772e4af11785a5bceea1273efd1b0b0ea4a8ffef18d4a00f670b63f8d1433d.m3u8
 [HD]ช่อง_fox_sports_2,https://stream1.freetv.fun/1795584dc54b00b257024e0fd834a7ed21c58400338356a79e90664686634de8.m3u8
