@@ -8,7 +8,7 @@
 | 2 | [BD]documentary plus | stream1.freetv.fun | <https://stream1.freetv.fun/39c6ca9887b134e09b5b500e6b5e8bc96a925f65ef10e490ff3d1558b2f5cd5b.m3u8> |
 | 3 | [BD]cctv-11戏曲 | stream1.freetv.fun | <https://stream1.freetv.fun/30d304ab7f1c2c8a609f96902e0346ae3e5b24d212d4fbcd20f7933bc45e6eb8.m3u8> |
 | 4 | [BD]唐河一套 | stream1.freetv.fun | <https://stream1.freetv.fun/2dfba1a07e4c4192c08973501820703a9e35a7090e951599c72f2fe38c263749.m3u8> |
-| 5 | [BD]cctv10 | stream1.freetv.fun | <https://stream1.freetv.fun/601aaec79c3895954bda6716c1435d723a2f88fa532bd101bf6deec4a997ccb5.ctv> |
+| 5 | [BD]cctv10[ipv6] | stream1.freetv.fun | <https://stream1.freetv.fun/29806059eb936e2abfc8b61bd53f1b6fe901050316c0a6c9e9b03df8f6e48eda.m3u8> |
 | 6 | [BD]cctv11 | stream1.freetv.fun | <https://stream1.freetv.fun/a1ee8a4f3954b5e76c7d40251197d089421f936e5f616960f16ff6494fff42bf.ctv> |
 | 7 | [BD]cctv12 | stream1.freetv.fun | <https://stream1.freetv.fun/713f8c42d89efd6b0b31ab22e8070a22a6eb54790b31f6e8ebe511775c1309f5.m3u8> |
 | 8 | [BD]cctv13-新闻 | stream1.freetv.fun | <https://stream1.freetv.fun/3f4c55d943a39fcf6ea076bd9c91f18a1552888f2abfb97d85c1768554a59659.ctv> |
@@ -117,7 +117,7 @@
 | 111 | [BD]宿迁综合 | stream1.freetv.fun | <https://stream1.freetv.fun/7b08f648c628f6e88b5eba12298a86245e5cbff06664fd424aa6d6193853c1a8.m3u8> |
 | 112 | [BD]宁夏卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/cc16a0fe49219a8e892e4ac0a89d626d09f0c5af7cd94198648427aca9719943.m3u8> |
 | 113 | [BD]宁波新闻综合 | stream1.freetv.fun | <https://stream1.freetv.fun/5eee88e93c5b7681cfbae7b627b7cd4cfd90bed45a87eb8290a933f15ad81aca.m3u8> |
-| 114 | [SD]山东教育 | stream1.freetv.fun | <https://stream1.freetv.fun/497dbc858ac950752aedd19e6ab943e3752516e9a937601969741f3a51ed74b2.m3u8> |
+| 114 | [HD]山东教育 | stream1.freetv.fun | <https://stream1.freetv.fun/0a42f47350c5496caf043968c38c04edee874a1acfcb5520f11d4afae642a618.m3u8> |
 | 115 | [BD]山东教育卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/8596262d4deaa9e82de7276248b7b996d7f7c42f07ed5996e3daa8373a18a0ac.m3u8> |
 | 116 | [BD]山东卫视高清 | stream1.freetv.fun | <https://stream1.freetv.fun/76bf28c606bf693d0b2f17091266e1797c87021b63f9b0afb88ee56b86911f19.m3u8> |
 | 117 | [SD]山西卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/2f538e8c3c3dc60b99799fb3331f5f05b5a9c3c574544b4178a57a7de78f6884.ctv> |
@@ -228,7 +228,7 @@
 | 222 | [BD]无锡都市 | stream1.freetv.fun | <https://stream1.freetv.fun/f8e36dca459f5095df9f4e6abf9702cf27cbcab06aca07bc66931a998a1e4b01.m3u8> |
 | 223 | [SD]吉林新闻综合 | stream1.freetv.fun | <https://stream1.freetv.fun/f229007f325ee603d39a4a6ef3046dd9140433eebfb43d2dfdbc410f22e6ad0a.m3u8> |
 | 224 | [HD]海宁生活服务 | stream1.freetv.fun | <https://stream1.freetv.fun/e5ac3e4541425aa812f19aca59fcd06a279955e60fd1647616f04a68f80ef87e.m3u8> |
-| 225 | [BD]甘肃卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/f11146c2006e7910b9afafb28d2862756fb9da148e957c0d32c92e8714b57f5c.m3u8> |
+| 225 | [BD]甘肃卫视[ipv6] | stream1.freetv.fun | <https://stream1.freetv.fun/62fc00b17e85a0f05bc7442ba4c507d0d9ed83d0e4c628543a0c8cc0f3c0e79e.m3u8> |
 | 226 | [HD]生活时尚 | stream1.freetv.fun | <https://stream1.freetv.fun/af577cd69d640274bdefa24125bfba424d35044c1235f7a429a7e85a00fc41e4.m3u8> |
 | 227 | [BD]峨眉山综合 | stream1.freetv.fun | <https://stream1.freetv.fun/1cf7575c3f1da0d65a80772246f246826b620f4fc0a04498bcab9ef71172c462.m3u8> |
 | 228 | [BD]池州新闻综合 | stream1.freetv.fun | <https://stream1.freetv.fun/6159f892ca992b81c7cd08dcbb44542c43f04f7b53d4ae41ba8133d855d49b90.ctv> |
@@ -270,7 +270,7 @@
 | 264 | [BD]重庆科教高清 | stream1.freetv.fun | <https://stream1.freetv.fun/f95fc2c361a5c575b9fa9663f9fc8cbe352ff641a3456eeb9c423e5785bbd247.ctv> |
 | 265 | [BD]重庆卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/2af0c7392453c9de383e05a4ae3af9a959fb2ed1172733a27f7b5286bd6be067.m3u8> |
 | 266 | [BD]金川新闻综合 | stream1.freetv.fun | <https://stream1.freetv.fun/3589cdadb9cf378ca6ab9f44be44e486a4d842413c2075db260d2f37d1a3308d.m3u8> |
-| 267 | [HD]金鹰卡通 | stream1.freetv.fun | <https://stream1.freetv.fun/5e3bed107644ced1e2d243d9b30a7162afd97def301f0eaccf91fd58dcd2ebf6.m3u8> |
+| 267 | [BD]金鹰卡通[ipv6] | stream1.freetv.fun | <https://stream1.freetv.fun/cd1700ab646b32bbc25ff0c4b3857d10ae823b125c4e63e0006db038f17c4126.m3u8> |
 | 268 | [BD]金鹰纪实 | stream1.freetv.fun | <https://stream1.freetv.fun/b10a64ff6a56af7bdf3b2f7db0a2057c397fdb5e42a3dcd12b42fdf929124372.m3u8> |
 | 269 | [BD]镇江新闻 | zjtv-wshls.homecdn.com | <rtmp://zjtv-wshls.homecdn.com/live/2aa50> |
 | 270 | [SD]江夏新闻综合 | stream1.freetv.fun | <https://stream1.freetv.fun/b721fd17d5166827b490ce21270dce5dd9736ae6e5fc2b5795c609252f252d01.m3u8> |
@@ -290,4 +290,4 @@
 | 284 | [SD]黑龙江新闻法治 | stream1.freetv.fun | <https://stream1.freetv.fun/0b020b11ef1c7fd5c70eca53f6c5d5d831e4bc8c1259ce54a67ae8da368cfef8.m3u8> |
 | 285 | [BD]黑龙江卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/9d7a745d71fa16ea6b1a0edce79f7b842e59487519e7a76bcef5b0c7a87a3f24.m3u8> |
 
-Updated at **Mon Dec 08 2025 00:53:50 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Dec 08 2025 03:14:19 GMT+0000 (Coordinated Universal Time)**
