@@ -944,7 +944,7 @@
 | 938 | [SD]vijay takkar | stream1.freetv.fun | <https://stream1.freetv.fun/32ddf6c0da78b9d352961867bafd055ce4629b0ae3747aa4881678abd17c041e.ctv> |
 | 939 | [BD]start world | stream1.freetv.fun | <https://stream1.freetv.fun/71058bba10627763c0c832250517c552417e99902ff0ec1866ecffaff400275d.m3u8> |
 | 940 | [BD]starz east | stream1.freetv.fun | <https://stream1.freetv.fun/eb7e0d29388ea974881aae260448f355f28024f647c9e24c3351338b5e9a3030.m3u8> |
-| 941 | [VGA]starz cinema-- | stream1.freetv.fun | <https://stream1.freetv.fun/817d9dfd515a16932a8aa40d73c649fe178a3fbf08aca9d3240ddc50dbdaf1cd.ctv> |
+| 941 | [VGA]starz cinema *s | stream1.freetv.fun | <https://stream1.freetv.fun/a3a6af2eba00e594938ba38e32d7ac3112434b6c9aac5e40ae70bb29b8190731.m3u8> |
 | 942 | [SD]starz encore *s | stream1.freetv.fun | <https://stream1.freetv.fun/8ae25537f663bdc3ee93e51c1d7a5a171109b52ea5d13d3e2faa0f9c099a4412.m3u8> |
 | 943 | [VGA]starz west == | stream1.freetv.fun | <https://stream1.freetv.fun/34210fd1dac1768d81a9880fef65c1b7d2d50e265755f064b440489bc48867b2.ctv> |
 | 944 | [BD]stiletv | stream1.freetv.fun | <https://stream1.freetv.fun/e15a1efdc1fb204728247488244911344eb438bb12d990e3ece2b0f1e814f9ae.m3u8> |
@@ -1015,7 +1015,7 @@
 | 1009 | [BD]tvri sport | stream1.freetv.fun | <https://stream1.freetv.fun/4d5be3e01edb7c018d4556b6eaf2fe12e0752813b447e444eb1b8dfe20312e0a.m3u8> |
 | 1010 | [BD]super | stream1.freetv.fun | <https://stream1.freetv.fun/00fcf3c1d71581332a0660a043bfe922336d975fcade646d547b9568479c7bdd.ctv> |
 | 1011 | [BD]tv1 | stream1.freetv.fun | <https://stream1.freetv.fun/acbc77aa8615188bf5a47ad1431631397bff5dbe887c6afeb2a7e810618cd867.m3u8> |
-| 1012 | [BD]tv1 backup *sm | stream1.freetv.fun | <https://stream1.freetv.fun/126641d599f7291d40b71c929d78ca4ddc0e5f1d530d76245a42b4bef0605717.ctv> |
+| 1012 | [HD]tv1 backup *sm | stream1.freetv.fun | <https://stream1.freetv.fun/126641d599f7291d40b71c929d78ca4ddc0e5f1d530d76245a42b4bef0605717.ctv> |
 | 1013 | [HD]tv2 *sm | stream1.freetv.fun | <https://stream1.freetv.fun/68d421189ee8a593e9fb834f4a2d74da2bd50d927eaf340e7e6fc15e0a908bdb.ctv> |
 | 1014 | [HD]tv3 *sm | stream1.freetv.fun | <https://stream1.freetv.fun/3f4c9587e486d510aef089d63e64f19494a7a41178ac66d4932c7e40a5b4d824.ctv> |
 | 1015 | [VGA]tv4 (360p) | stream1.freetv.fun | <https://stream1.freetv.fun/10f3d47ccef07247a72ead9f2672fcc2b887ce8e2863b3ac724dca688f59fde7.m3u8> |
@@ -1631,4 +1631,4 @@
 | 1625 | [BD]龙华经典 | stream1.freetv.fun | <https://stream1.freetv.fun/c2275b572ec49684dc532efc606c5f6b264581f346379559e72ec2137c1ecb1d.ctv> |
 | 1626 | [BD]龙华电影 | stream1.freetv.fun | <https://stream1.freetv.fun/0e3435ff2d9cac143a75ae6ccb680753bbd31c341d6b7410b3ff8d1e177a3a5e.m3u8> |
 
-Updated at **Mon Dec 08 2025 16:14:35 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Dec 08 2025 18:17:14 GMT+0000 (Coordinated Universal Time)**
