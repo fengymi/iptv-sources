@@ -603,7 +603,7 @@
 | 597 | [BD]4 kurd | stream1.freetv.fun | <https://stream1.freetv.fun/d7a7236bedba595ef90421ce65fbe79d093aa33be4d8873195266d3d71189cb1.m3u8> |
 | 598 | [HD]kanal d | stream1.freetv.fun | <https://stream1.freetv.fun/6519e28cc7bf49dec9c405e87450033797c152bfb3f389cd60cdfc333bf7f6a8.m3u8> |
 | 599 | [SD]kerman | stream1.freetv.fun | <https://stream1.freetv.fun/a7f8cd51ddcad44287a50c8f5950db25e16efc0d78336114718429769b951d13.m3u8> |
-| 600 | [HD]tvp info | stream1.freetv.fun | <https://stream1.freetv.fun/22fafe94943c7b594ae9fa383c47a67a9bc3364f56010e3c4b595d916189ae52.m3u8> |
+| 600 | [SD]tvp info | stream1.freetv.fun | <https://stream1.freetv.fun/22fafe94943c7b594ae9fa383c47a67a9bc3364f56010e3c4b595d916189ae52.m3u8> |
 | 601 | [SD]kochu tv | stream1.freetv.fun | <https://stream1.freetv.fun/fe0192f3f5385d6aed850a6053a680995ed7bc1cffd1570ecd6a84018dd240b1.ctv> |
 | 602 | [BD]komala tv | stream1.freetv.fun | <https://stream1.freetv.fun/00082d0644a82c081e1ae485978a22034ac724c84c1691088a3f509f3719207b.m3u8> |
 | 603 | [HD]kompass tv | stream1.freetv.fun | <https://stream1.freetv.fun/816b02a1f77db97637d50ab9540a935b19d5b678ab293f987090b18aa70f03a9.ctv> |
@@ -707,8 +707,8 @@
 | 701 | [BD]unife tv | stream1.freetv.fun | <https://stream1.freetv.fun/b5145507cf4ca357be01b3196cb35f22b355225e901eed2b3a7483daefccb26d.m3u8> |
 | 702 | [HD]onnitv | stream1.freetv.fun | <https://stream1.freetv.fun/d0270f1fb375bb04dfa979b2e1cbda0d6ebff26a8ad4dff784aa3c9c354cd096.m3u8> |
 | 703 | [SD]noursat mariam | stream1.freetv.fun | <https://stream1.freetv.fun/636d8ae77fc9347d3b37c82f95a1f6a8b574026d99eaf37f2b55623d56bdbc43.m3u8> |
-| 704 | [BD]now星影台备 | stream1.freetv.fun | <https://stream1.freetv.fun/6c3e1fa063dd63f00919dbc3b4f318460f658d57e48db0293e014650ef60745f.ctv> |
-| 705 | [BD]now爆谷台备 | stream1.freetv.fun | <https://stream1.freetv.fun/ac55fdfb51223b1bbde0515825f03bb2653d9b4d25f9e1cc9050523fd5ce071f.ctv> |
+| 704 | [HD]now星影台备 | stream1.freetv.fun | <https://stream1.freetv.fun/6c3e1fa063dd63f00919dbc3b4f318460f658d57e48db0293e014650ef60745f.ctv> |
+| 705 | [HD]now爆谷台备 | stream1.freetv.fun | <https://stream1.freetv.fun/ac55fdfb51223b1bbde0515825f03bb2653d9b4d25f9e1cc9050523fd5ce071f.ctv> |
 | 706 | [BD]ntv | stream1.freetv.fun | <https://stream1.freetv.fun/9aab7bc1916fc47c18f67c475388d769346b9177985583dad5a5d39f139f2ba9.ctv> |
 | 707 | [HD]ntv7 *sm | stream1.freetv.fun | <https://stream1.freetv.fun/c8931d460ce4521be8c2b79fc9ab38f74a00300d3aab2e06b66039b9dd6112d5.ctv> |
 | 708 | [SD]kanak news | stream1.freetv.fun | <https://stream1.freetv.fun/ef7e2518c4f755d6c2e54058ccdc41d55b19ef3f59979f27e965aa03828b8b1c.m3u8> |
@@ -1066,7 +1066,7 @@
 | 1060 | [HD]deluxe lounge | stream1.freetv.fun | <https://stream1.freetv.fun/0d12af8b7b41a924ba41195a4c77d097407c2d9528d694db0c888d18e469b0d0.ctv> |
 | 1061 | [HD]tele pavia | stream1.freetv.fun | <https://stream1.freetv.fun/2cf3f940d6d2d5d804dd77a68d6e1d7100c0db2f01b61bce79f16a515366682a.m3u8> |
 | 1062 | [HD]telebarn | stream1.freetv.fun | <https://stream1.freetv.fun/f1dbf8c662a9f57cc17d74ce45495a8a0dc085432f683b548afceb4f1608b81c.m3u8> |
-| 1063 | [BD]telemar | stream1.freetv.fun | <https://stream1.freetv.fun/ff8170b1f7a3ca27cb2ed3e31b7d840b26535990fe0708bc049c563707401c88.m3u8> |
+| 1063 | [HD]telemar | stream1.freetv.fun | <https://stream1.freetv.fun/ff8170b1f7a3ca27cb2ed3e31b7d840b26535990fe0708bc049c563707401c88.m3u8> |
 | 1064 | [BD]telemax | stream1.freetv.fun | <https://stream1.freetv.fun/0278132485e1d085912c88942b340ba374147a5d76c771916cbd85e4d6195e4f.m3u8> |
 | 1065 | [VGA]telemundo al dia | stream1.freetv.fun | <https://stream1.freetv.fun/9f7fff52daa66266973d2dd1f4e13a98d34592f9dd53edc3347c309dbc81ab85.m3u8> |
 | 1066 | [VGA]telenorte | stream1.freetv.fun | <https://stream1.freetv.fun/5128f82f3566360ed129e0194bfd13c8fbbb106db10524b6f8e19c5c251e6cff.m3u8> |
@@ -1631,4 +1631,4 @@
 | 1625 | [BD]龙华经典 | stream1.freetv.fun | <https://stream1.freetv.fun/c2275b572ec49684dc532efc606c5f6b264581f346379559e72ec2137c1ecb1d.ctv> |
 | 1626 | [BD]龙华电影 | stream1.freetv.fun | <https://stream1.freetv.fun/0e3435ff2d9cac143a75ae6ccb680753bbd31c341d6b7410b3ff8d1e177a3a5e.m3u8> |
 
-Updated at **Mon Dec 08 2025 18:17:14 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Dec 08 2025 20:12:27 GMT+0000 (Coordinated Universal Time)**

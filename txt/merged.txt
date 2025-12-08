@@ -82,7 +82,7 @@ Movies,#genre#
 [SD]jaya_tv,https://stream1.freetv.fun/35f81653354bd7ac78805bd56850a873e4952bf49b33d8df38217e53a22cfa96.ctv
 [VGA]pbs_ket_world_(480p),https://stream1.freetv.fun/29e6394deb11a02567e6173215b92d713c5a559c72e72e8875b8fbe9363ca4e9.m3u8
 [BD]kbs_world_*sm,https://stream1.freetv.fun/aabb61eb4a824a0eb5876c917cff62a4226ca51dd112cb7adbc10f62876cc8e7.ctv
-[HD]tvp_info,https://stream1.freetv.fun/22fafe94943c7b594ae9fa383c47a67a9bc3364f56010e3c4b595d916189ae52.m3u8
+[SD]tvp_info,https://stream1.freetv.fun/22fafe94943c7b594ae9fa383c47a67a9bc3364f56010e3c4b595d916189ae52.m3u8
 [SD]makkal_tv,https://stream1.freetv.fun/1d9df0178b645ae0cb96f3ec47c4b7b4710e9f8b4d00e383827343a398f53b78.ctv
 [VGA]mgm,https://stream1.freetv.fun/92ea663e36fbcd84e93541a218e83d4672d3e277844688115f0cc210273b4b94.m3u8
 [BD]mytime_movie_network,https://stream1.freetv.fun/4dcfe6b94315e523fdc36c33af599d211682761d528521f889ff25a32659ef44.m3u8
@@ -90,8 +90,8 @@ Movies,#genre#
 [HD]momo_tv,https://stream1.freetv.fun/29532eafa840195fd9caee3f6bedf864e7ae7c0cea7b6d69d2addf9f1651ef30.ctv
 [SD]movieplus,https://stream1.freetv.fun/c1e3645833e1b28cb3e3041a7117f600078f72ace21e3ed062c7263b19ce548e.m3u8
 [BD]mystery_science_theater_3000=,https://stream1.freetv.fun/11e11d66dfbc2791b76e0276485ffbe26d4287e38698238156bcabe3de249f44.ctv
-[BD]now星影台备,https://stream1.freetv.fun/6c3e1fa063dd63f00919dbc3b4f318460f658d57e48db0293e014650ef60745f.ctv
-[BD]now爆谷台备,https://stream1.freetv.fun/ac55fdfb51223b1bbde0515825f03bb2653d9b4d25f9e1cc9050523fd5ce071f.ctv
+[HD]now星影台备,https://stream1.freetv.fun/6c3e1fa063dd63f00919dbc3b4f318460f658d57e48db0293e014650ef60745f.ctv
+[HD]now爆谷台备,https://stream1.freetv.fun/ac55fdfb51223b1bbde0515825f03bb2653d9b4d25f9e1cc9050523fd5ce071f.ctv
 [HD]newflix,https://stream1.freetv.fun/5baeb065702464b00394777eb906cfa66af62282d049deb32172e3bda63d43a8.m3u8
 [VGA]nuview_tv,https://stream1.freetv.fun/994d239e37eb1bfc4e13f68e86574898137806bb233c53168ee09795702ac1c5.m3u8
 [BD]nile_comedy_==,https://stream1.freetv.fun/d39e917e3db71bdf4ff3e502523f371503807fbfd47f429a579bda386a425bfc.ctv
@@ -679,7 +679,7 @@ Generic,#genre#
 [BD]tele_1,https://stream1.freetv.fun/7450a87cd3fd0bd6e79d5a5db40d67cef9e005dffbba1a633413ee8c418c56b7.m3u8
 [HD]tele_pavia,https://stream1.freetv.fun/2cf3f940d6d2d5d804dd77a68d6e1d7100c0db2f01b61bce79f16a515366682a.m3u8
 [HD]telebarn,https://stream1.freetv.fun/f1dbf8c662a9f57cc17d74ce45495a8a0dc085432f683b548afceb4f1608b81c.m3u8
-[BD]telemar,https://stream1.freetv.fun/ff8170b1f7a3ca27cb2ed3e31b7d840b26535990fe0708bc049c563707401c88.m3u8
+[HD]telemar,https://stream1.freetv.fun/ff8170b1f7a3ca27cb2ed3e31b7d840b26535990fe0708bc049c563707401c88.m3u8
 [HD]teleticino,https://stream1.freetv.fun/96c59bc6e9a166bda086bf08788649246753b485f12651c1c005614522563b05.m3u8
 [BD]ten,https://stream1.freetv.fun/0ccc2423e93ac6636152e64d3ee2065197352b7c96c7898ce85893919a962063.m3u8
 [HD]thairath_tv,https://stream1.freetv.fun/d3ce447dddf87bf31bc3d56724e2ab4e172d90d98d66efbbc02dcd50f9ba23b6.m3u8
