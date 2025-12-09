@@ -12,7 +12,7 @@
 | 6 | [BD]tv 100 | stream1.freetv.fun | <https://stream1.freetv.fun/dbeb9e7bd1226ee15a0ad9d1f1265028d084a6696e280d31b2acd3fd559c4256.m3u8> |
 | 7 | [HD]africanews | stream1.freetv.fun | <https://stream1.freetv.fun/2d8c78aa149d2b7d544f7b6c07458aa516ec7a73c1291ed5e9dc6034b0785d42.m3u8> |
 | 8 | [BD]ми україна | stream1.freetv.fun | <https://stream1.freetv.fun/43a67aeea8f14f7498ca464aacace117aedceba37d489f8da857ca3490721dc4.ctv> |
-| 9 | [BD]3说电影 | stream1.freetv.fun | <https://stream1.freetv.fun/c5a2f22ff0bb436d059bd549c693d5d96b0194cacca05be90b0815202ab6b291.ctv> |
+| 9 | [HD]3030相声小品 | stream1.freetv.fun | <https://stream1.freetv.fun/45d7b50f102128e684ddef8a72691ab6985d93f46f8e2eb7d693a7fcf6405415.ctv> |
 | 10 | [BD]12 канал | stream1.freetv.fun | <https://stream1.freetv.fun/08de73382e824ad7acc98c4ab59c4d7048c3842dd3637f97adde8e494bb913c3.m3u8> |
 | 11 | [BD]dw russian | stream1.freetv.fun | <https://stream1.freetv.fun/099659a25ced8b1b9404b825a1fc55ca94fb910aeb0066ddbd61709379897f89.m3u8> |
 | 12 | [BD]cna | stream1.freetv.fun | <https://stream1.freetv.fun/206e3b04525e02c7c1afa88cbcb2bd2905209075dce5f44f41f4ca9e46ce9b76.m3u8> |
@@ -1631,4 +1631,4 @@
 | 1625 | [BD]龙华经典 | stream1.freetv.fun | <https://stream1.freetv.fun/c2275b572ec49684dc532efc606c5f6b264581f346379559e72ec2137c1ecb1d.ctv> |
 | 1626 | [BD]龙华电影 | stream1.freetv.fun | <https://stream1.freetv.fun/0e3435ff2d9cac143a75ae6ccb680753bbd31c341d6b7410b3ff8d1e177a3a5e.m3u8> |
 
-Updated at **Mon Dec 08 2025 22:10:43 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Dec 09 2025 00:53:23 GMT+0000 (Coordinated Universal Time)**
