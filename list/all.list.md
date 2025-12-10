@@ -1320,7 +1320,7 @@
 | 1314 | [HD]博斯无限 | stream1.freetv.fun | <https://stream1.freetv.fun/2aacc2a886da7e23508322d0898715fe3b812f5622d92e876bd9601adebf07ec.ctv> |
 | 1315 | [HD]博斯网球 | stream1.freetv.fun | <https://stream1.freetv.fun/ded416aa1c7336e031a261467e0f52f2ebe830826c56f35aab168d96849f5988.ctv> |
 | 1316 | [BD]博斯运动一 | stream1.freetv.fun | <https://stream1.freetv.fun/463982c612ebb7ebcd50d5d2e859cb40be8bf8ad6f114430bf53d63dca53fa3d.ctv> |
-| 1317 | [BD]博斯运动2 *c | stream1.freetv.fun | <https://stream1.freetv.fun/ed54a2a35ae4e87727f25601ec0c9e839d8bd22d8cf860ad9927503be8d6ec7c.ctv> |
+| 1317 | [HD]博斯运动2 *c | stream1.freetv.fun | <https://stream1.freetv.fun/ed54a2a35ae4e87727f25601ec0c9e839d8bd22d8cf860ad9927503be8d6ec7c.ctv> |
 | 1318 | [BD]博斯高球ii | stream1.freetv.fun | <https://stream1.freetv.fun/cd70a0ee14d995cb1ad076e00b363ee5e97cfb0f590b924b3727765166557cdb.m3u8> |
 | 1319 | [BD]博斯魅力 | stream1.freetv.fun | <https://stream1.freetv.fun/1168c7cf37528c53f6cc3a113493c0a6adcdfa9b764ccb64ee5f23d09d71fd33.m3u8> |
 | 1320 | [BD]原住民族电视 | stream1.freetv.fun | <https://stream1.freetv.fun/d308ddc649bb2ed72a8a2f8b39d94a906db6cc7507737c6e990e9ccadd04b162.m3u8> |
@@ -1577,7 +1577,7 @@
 | 1571 | [SD]江夏新闻综合 | stream1.freetv.fun | <https://stream1.freetv.fun/b721fd17d5166827b490ce21270dce5dd9736ae6e5fc2b5795c609252f252d01.m3u8> |
 | 1572 | [SD]长春综合 | stream1.freetv.fun | <https://stream1.freetv.fun/c52544bde510c9708eff60c52662cc95a6aabcd7588173792ced3ff019ae1897.m3u8> |
 | 1573 | [BD]登封新闻综合频道 | stream1.freetv.fun | <https://stream1.freetv.fun/1a014554cf33476013cdd44ccc3d1d345853dc99e28608f17651b3420673e7c3.m3u8> |
-| 1574 | [BD]阿里郎 *c | stream1.freetv.fun | <https://stream1.freetv.fun/931924088edb0763a923975eddd6a5e635c7bf43c85abfb8b1ab0fc5f34d9dc0.ctv> |
+| 1574 | [HD]阿里郎 *c | stream1.freetv.fun | <https://stream1.freetv.fun/931924088edb0763a923975eddd6a5e635c7bf43c85abfb8b1ab0fc5f34d9dc0.ctv> |
 | 1575 | [BD]陕西新闻资讯 | stream1.freetv.fun | <https://stream1.freetv.fun/bc29e85798a33bfb1b0e49cc9c8b14a379ee73626b52053b1a0f6c28a56d4d08.ctv> |
 | 1576 | [SD]陕西卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/eb1d7157459fe4c37bbfad23252b85ab628f4e3d14d81aea7b4a014d2658ae41.m3u8> |
 | 1577 | [BD]陕西都市青春 | stream1.freetv.fun | <https://stream1.freetv.fun/6e50096042a45701dee412e204047d567d1b83a03a1fb0ba64c46775a40be955.ctv> |
@@ -1619,4 +1619,4 @@
 | 1613 | [BD]龙华经典 | stream1.freetv.fun | <https://stream1.freetv.fun/c2275b572ec49684dc532efc606c5f6b264581f346379559e72ec2137c1ecb1d.ctv> |
 | 1614 | [BD]龙华电影 | stream1.freetv.fun | <https://stream1.freetv.fun/e61ec6990715622e4b73cf6eb9b3b83a245bd96c7fa9a5d2cd066490f092289c.m3u8> |
 
-Updated at **Wed Dec 10 2025 08:16:47 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Dec 10 2025 10:13:15 GMT+0000 (Coordinated Universal Time)**
