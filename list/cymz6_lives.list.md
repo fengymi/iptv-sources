@@ -15,4 +15,4 @@
 | 9 | 浙江卫视 | IPv4 直链 | <http://182.114.50.12:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0> |
 | 10 | 陕西卫视 | IPv4 直链 | <http://182.114.50.12:9901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0> |
 
-Updated at **Tue Dec 09 2025 22:11:25 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Dec 10 2025 00:54:35 GMT+0000 (Coordinated Universal Time)**
