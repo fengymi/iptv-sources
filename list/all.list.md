@@ -1266,7 +1266,7 @@
 | 1260 | [BD]中天亚洲 | stream1.freetv.fun | <https://stream1.freetv.fun/7f95b8db949ef8c49c7cc7546fb8b6d2811e0812f36b30da1ee9ab1bf9e6aed9.ctv> |
 | 1261 | [BD]中天娱乐 | stream1.freetv.fun | <https://stream1.freetv.fun/273feeba13fbb981cd84c91626576722b00e46b6aadf5c3fff46b3267dcd3131.ctv> |
 | 1262 | [SD]中天新闻台 *4g | stream1.freetv.fun | <https://stream1.freetv.fun/4ebe4fe5a9dc90d2c050e5d658896d7dab82d5328a738eedaf81703205b0bd85.m3u8> |
-| 1263 | [HD]中天新闻 | stream1.freetv.fun | <https://stream1.freetv.fun/1c4114ab698f649bee7ef065bc356e8beab46db2fc4a67456a7904dc93355c93.m3u8> |
+| 1263 | [BD]中天新闻 | stream1.freetv.fun | <https://stream1.freetv.fun/e7feb6666540336a0de3d1134c4cca76bd6b3bba3e937c72dd2bc27c4f3b4c36.m3u8> |
 | 1264 | [BD]中天综合 | stream1.freetv.fun | <https://stream1.freetv.fun/775f1b5191906d084c014827729aa231f991215c2ad1c49f3cd4be440869dcfe.ctv> |
 | 1265 | [BD]中视 | stream1.freetv.fun | <https://stream1.freetv.fun/b615ee32ec710332dd33c57e818a428b79c1d691f9c56c13dd0e72345788e6da.m3u8> |
 | 1266 | [HD]中视 | f13h.mine.nu:1935 | <rtmp://f13h.mine.nu:1935/sat/tv091> |
@@ -1613,4 +1613,4 @@
 | 1607 | [BD]龙华经典 | stream1.freetv.fun | <https://stream1.freetv.fun/c2275b572ec49684dc532efc606c5f6b264581f346379559e72ec2137c1ecb1d.ctv> |
 | 1608 | [BD]龙华电影 | stream1.freetv.fun | <https://stream1.freetv.fun/e61ec6990715622e4b73cf6eb9b3b83a245bd96c7fa9a5d2cd066490f092289c.m3u8> |
 
-Updated at **Wed Dec 10 2025 14:14:15 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Dec 10 2025 16:16:31 GMT+0000 (Coordinated Universal Time)**
