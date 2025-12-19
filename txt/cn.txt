@@ -171,7 +171,7 @@
 新闻,#genre#
 [BD]cctv13-新闻,https://stream1.freetv.fun/23c8fb2fb3679699a36eeb0dd64ada1155456e81264002b9ec768465c9ca1d25.m3u8
 [BD]cctv2_*wj,https://stream1.freetv.fun/18b42efc1be0968a98a710bd8607966de3973e133c3f3c6e2707b3e4f0b2a516.ctv
-[BD]cctv4,https://stream1.freetv.fun/1927200d910f3087e569a0050d84b50158d3c1e2d928ad116119bb9eafe8ac9f.m3u8
+[BD]cctv_4_*vp,https://stream1.freetv.fun/d4cdc29678d67a911266c5973f58b192b929874c6c5ca6b597027dd48887cfb5.ctv
 [SD]cctv4,https://stream1.freetv.fun/15a4180e12b35249c7b2bc9d2b5d2feed983b66d309ca216fc6d8782766a349f.m3u8
 [BD]上海新闻综合,https://stream1.freetv.fun/ae1e5ba924f70d20ff760d1eb8f0ab71583a7fe6549edb506193b0c54387d9a0.ctv
 [BD]上虞新闻综合,https://stream1.freetv.fun/78f55f361d865fb3a113720e11fded9307bb9cb180fe731826736d2f5df8ca0b.m3u8
