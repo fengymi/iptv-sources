@@ -9,4 +9,4 @@
 | 3 | CCTV12 | IPv4 直链 | <http://123.129.70.178:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0> |
 | 4 | CCTV14 | IPv4 直链 | <http://123.129.70.178:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0> |
 
-Updated at **Fri Jan 02 2026 04:34:29 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Jan 02 2026 06:21:01 GMT+0000 (Coordinated Universal Time)**
