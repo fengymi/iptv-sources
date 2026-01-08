@@ -1467,6 +1467,8 @@ https://stream1.freetv.fun/81840cd51185dca58a8a9e9bb67b73e93ca78fa19b2881a46775d
 https://stream1.freetv.fun/ab77d4a94219e3700a14e292f9e33c2558062f2eacf6a6c3e5076285484863b7.m3u8
 #EXTINF:-1 tvg-name="Red Bull TV" tvg-id="" tvg-country="United Kingdom" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/05/16/large/20220516155835221115_90.jpg" group-title="Sports",[BD]red bull tv
 https://stream1.freetv.fun/37a8a007237207285a22a56758913c131ca74cb61f50a8b1700fe8263a81a07d.m3u8
+#EXTINF:-1 tvg-name="Rede Mais Família (Brazil)" tvg-id="" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/images/channel/2023/07/19/large/20230719190934335404_57.png" group-title="Entertainment",[BD]rede mais família
+https://stream1.freetv.fun/39f4feea6e28f2e95e39b5563a543e63dacc0788513b890cc52ea3c5a456564a.m3u8
 #EXTINF:-1 tvg-name="Rede Minas (Brazil)" tvg-id="" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/images/channel/2023/07/19/large/20230719190917366076_88.png" group-title="News",[HD]rede minas
 https://stream1.freetv.fun/df0b29f35c0dd135056cba227253c196f8c3657fc378b255e6dcf483febd46b7.m3u8
 #EXTINF:-1 tvg-name="Rede NGT Brazil" tvg-id="" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/images/channel/2023/07/19/large/20230719183143327405_21.png" group-title="Entertainment",[BD]ngt

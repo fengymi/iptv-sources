@@ -257,6 +257,7 @@ Entertainment,#genre#
 [HD]rthk-31,https://stream1.freetv.fun/5546c3ab5bc7e244e279ff0b6d1b9ed00fb72393841ad099e1df22aadfc975f1.m3u8
 [BD]etv_music,https://stream1.freetv.fun/0d78144b680f1112f73a40430b2b8e00cd8964342d245254626b9b5b471239f6.m3u8
 [HD]radio_italia_trend,https://stream1.freetv.fun/2db9dc96bf2dce41d9a78135db5114917e97d75c3173ef1195549444f0a854f2.m3u8
+[BD]rede_mais_família,https://stream1.freetv.fun/39f4feea6e28f2e95e39b5563a543e63dacc0788513b890cc52ea3c5a456564a.m3u8
 [BD]ngt,https://stream1.freetv.fun/5f664c6701f42cec33ce7470d5c3bf437324184882dc226fdedb479eb3eba082.m3u8
 [HD]rock_tv,https://stream1.freetv.fun/39c26f967de187cb1d2733a81b6855693cbcd1ddfd7ef87febb7f187101f5e23.m3u8
 [BD]ronahi_tv,https://stream1.freetv.fun/3fc8c7460b94ba8e65e892f17e1a1e774f47d120503d254142dd73dd416d6bdb.m3u8
