@@ -1192,7 +1192,7 @@ Sports,#genre#
 [HD]футбол,https://stream1.freetv.fun/1f4804e6e14b8efb7f71cc9eaf9538233ffdf48bfd9aa5822fdd0db9e89ba5e6.m3u8
 [BD]五星体育,https://stream1.freetv.fun/b7c4ee6b3c4afecd79663bc25c80646604ad837c1476b98835eaaba7d5fe0225.ctv
 [BD]广州竞赛,https://stream1.freetv.fun/4ed18e368561bc57ec7459b3e25e0ff0c25059601ba1d865aa3f257fd09b3f4a.ctv
-[BD]广东体育,https://stream1.freetv.fun/7b470f9fc5c305db0c8622117b7b25ca00eb35ba3e93e865cf0ff9df5c736681.m3u8
+[SD]广东体育,https://stream1.freetv.fun/7b470f9fc5c305db0c8622117b7b25ca00eb35ba3e93e865cf0ff9df5c736681.m3u8
 [SD]广东体育,https://stream1.freetv.fun/1b51eaf416ee4be8045ce160c21c2b956788a652e03c78ea0db462d925c09459.ctv
 [BD]武汉文体,https://stream1.freetv.fun/5c6bdec662c157ef22c7c4ec6f1f271909ebe47be4f6fb4a2974dd65d727df2c.ctv
 [BD]江苏体育,https://stream1.freetv.fun/7aee82fc56682d609694854932ea8f72809ffa3760e022241f57baad2cb37a64.ctv
@@ -1570,7 +1570,7 @@ Test,#genre#
 [BD]cctv风云足球,https://stream1.freetv.fun/f29c24e198f9bf47ac2be43abf3d1a9eb21ebf26392c4959f9ec8d2077718450.m3u8
 [BD]五星体育,https://stream1.freetv.fun/b7c4ee6b3c4afecd79663bc25c80646604ad837c1476b98835eaaba7d5fe0225.ctv
 [BD]广州竞赛,https://stream1.freetv.fun/4ed18e368561bc57ec7459b3e25e0ff0c25059601ba1d865aa3f257fd09b3f4a.ctv
-[BD]广东体育,https://stream1.freetv.fun/7b470f9fc5c305db0c8622117b7b25ca00eb35ba3e93e865cf0ff9df5c736681.m3u8
+[SD]广东体育,https://stream1.freetv.fun/7b470f9fc5c305db0c8622117b7b25ca00eb35ba3e93e865cf0ff9df5c736681.m3u8
 [SD]广东体育,https://stream1.freetv.fun/1b51eaf416ee4be8045ce160c21c2b956788a652e03c78ea0db462d925c09459.ctv
 [BD]武汉文体,https://stream1.freetv.fun/5c6bdec662c157ef22c7c4ec6f1f271909ebe47be4f6fb4a2974dd65d727df2c.ctv
 [BD]江苏体育,https://stream1.freetv.fun/7aee82fc56682d609694854932ea8f72809ffa3760e022241f57baad2cb37a64.ctv
@@ -4291,7 +4291,6 @@ TV_8.5_(720p),http://bozztv.com/gin-dvrfl05/gin-tv8_5/index.m3u8
 TV9_(1080i),http://43.252.18.195:5080/live/streams/CTV9__khmer_etv.playlist.m3u8.m3u8
 TV9_Nusantara_(720p),https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
 TV_16_Toronto_(720p)_[Not_24/7],http://rtmp.smartstream.video:1935/capco/tv29/playlist.m3u8
-TV21,https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(TV21)/index.m3u8
 TV_24_(1080p),https://viamotionhsi.netplus.ch/live/eds/tv24/browser-HLS8/tv24.m3u8
 TV_38_(360p)_[Not_24/7],https://59cba4d34b678.streamlock.net/live/tv38/playlist.m3u8
 TV38_Südost-Niedersachen_(1080p),https://h057.video-stream-hosting.de/tv38-live/_definst_/smil:livestream.smil/playlist.m3u8?ref=
@@ -4933,6 +4932,7 @@ Zoomer_TV,https://dq126dsoud56d.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b7
 Телплюс_ТВ_(Астрахань)_(360p)_[Not_24/7],https://streaming.astrakhan.ru/telplushd/playlist.m3u8
 ТКР_(Рязань)_(1080p)_[Not_24/7],http://live.tkr.cdnvideo.ru/tkr/tkr.sdp/playlist.m3u8
 ТНВ-Планета_(Казань),https://planeta.mediacdn.ru/cdn/tnvplanet/playlist.m3u8
+ТНТ_MUSIC,https://cdn-01.bonus-tv.ru/tntmusic/playlist.m3u8
 ТРК_Алекс_(576p),http://46.46.112.223/live/livestream1.m3u8
 Уникум,http://31.148.48.15/Detskiy/index.m3u8
 Хөгжим_(720p),https://cdn4.skygo.mn/live/disk1/Khugjim/HLSv3-FTA/Khugjim.m3u8
@@ -7168,6 +7168,7 @@ TV7_Colmar_(576p),https://tv7.live-kd.com/live/tv7/livestream/playlist.m3u8
 TV8_(720p),https://cdn4.skygo.mn/live/disk1/TV8HD/HLSv3-FTA/TV8HD.m3u8
 TV10_(720p),https://5c46fa289c89f.streamlock.net/pub1live/mystream/playlist.m3u8
 TV15_(1080p)_[Not_24/7],http://gohoski.fvds.ru:3000/mediabay/655/playlist.m3u8
+TV21,https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(TV21)/index.m3u8
 TV_25,http://dvrfl05.bozztv.com/gin-tv25/index.m3u8
 TV_100_(576p)_[Not_24/7],https://live.fm100.gr/hls/tv100/index.m3u8
 TV_A_(720p),https://live.artidijitalmedya.com/artidijital_tva/tva/playlist.m3u8
@@ -8127,7 +8128,6 @@ ZWEI2_Music_(1080p),https://cdne.folxplay.tv/folx-trz/streams/ch-2/master.m3u8
 Сити_Эдем_Классическая_Музыка_[Not_24/7],https://cityeden.catcast.tv/content/47400/index.m3u8
 Сити_Эдем_Сиртаки_ТВ_[Not_24/7],https://cityeden.catcast.tv/content/46421/index.m3u8
 Страна_FM_(720p)_[Not_24/7],http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
-ТНТ_MUSIC,https://cdn-01.bonus-tv.ru/tntmusic/playlist.m3u8
 УТРК_Музыка_(480p)_[Not_24/7],https://st2.mediabay.tv/KG_KTRK-Muzika/index.m3u8
 Шансон_ТВ_(576p),https://uiptv.do.am/1ufc/602079679/playlist.m3u8
 
@@ -12431,6 +12431,9 @@ RTI_La_3_(1080p)_[Not_24/7],http://69.64.57.208/la3/index.m3u8
 
 Culture;Lifestyle,#genre#
 Salira_TV_(720p),https://live.salira.tv/p/3870/hybrid/play.m3u8
+
+Relax;Travel,#genre#
+Space_Live_powered_by_sen_(1080p),https://linear-1224.frequency.stream/dist/lg-uk/1224/hls/master/playlist.m3u8
 
 General;Series,#genre#
 Super_TV_(720p),http://wms.shared.streamshow.it/supertv/mp4:supertv/playlist.m3u8
