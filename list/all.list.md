@@ -1080,7 +1080,7 @@
 | 1074 | [BD]россия 24 | stream1.freetv.fun | <https://stream1.freetv.fun/0fda344a6c3cf1f14d725bc7ba4a3eb409a47993c23c72ff6764916d23290d7d.m3u8> |
 | 1075 | [SD]радость моя | stream1.freetv.fun | <https://stream1.freetv.fun/3f7b8f056a89fd2590f36c3cfc285edc8e23f85c9da753bcd08e1334222fc65e.m3u8> |
 | 1076 | [SD]россия 1 | stream1.freetv.fun | <https://stream1.freetv.fun/9609b118bfffd9c4b2285fe8e43ae78ad248ae640e77c1817fe8203e10c7ee44.ctv> |
-| 1077 | [SD]россия к | stream1.freetv.fun | <https://stream1.freetv.fun/3dc1c9d8810bca88ad7f6f0e1f26d0fcec922df8d86014aced3c142a7fc68b46.ctv> |
+| 1077 | [SD]россия к | stream1.freetv.fun | <https://stream1.freetv.fun/96924c62f81b635685a011c77ce7c4ed5f4533bb6361fb3806ce4331f58149db.m3u8> |
 | 1078 | [BD]русский роман | stream1.freetv.fun | <https://stream1.freetv.fun/059307287f56270cc06d253fe56223129e648b7c0e171cd1e244a9a8b6d31b65.m3u8> |
 | 1079 | [SD]русский бестселлер | stream1.freetv.fun | <https://stream1.freetv.fun/9e29223b655f991108036ca11fe753f1f6f3173c221e17a439c8897ff88e2899.m3u8> |
 | 1080 | [SD]рыжий | stream1.freetv.fun | <https://stream1.freetv.fun/f3fc776bdd9f2abe915406684446134862a3f781878178d8a7d0a4b98564a37e.m3u8> |
@@ -1326,4 +1326,4 @@
 | 1320 | [BD]凤凰香港 | stream1.freetv.fun | <https://stream1.freetv.fun/d478a7c008fd51e80ebe718d405cd71e3967bb0cdc323a5ce4237162e731b1d5.ctv> |
 | 1321 | [BD]黑龙江卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/683060089384f9db90b6996b4a9eed2ffe2f42aa9b2ec8d4b55330630fc5df68.m3u8> |
 
-Updated at **Tue Feb 10 2026 01:19:30 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Feb 10 2026 04:23:13 GMT+0000 (Coordinated Universal Time)**

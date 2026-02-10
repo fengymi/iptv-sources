@@ -122,7 +122,7 @@ Movies,#genre#
 [BD]союз,https://stream1.freetv.fun/ecc2566520077d7ceef1a5241ea42e0ce2632f408a5a4acdf9ff1913def59c1f.m3u8
 [SD]нст,https://stream1.freetv.fun/c70b38eab30e2111eba48db5a289e83b44a5c6a9511f60f0d819b695f59488e4.ctv
 [SD]нтв_сериал,https://stream1.freetv.fun/cacbae77d3c8858a73bb5929000aac6390f1d15638d623f4e82d8d3ed25dde8d.m3u8
-[SD]россия_к,https://stream1.freetv.fun/3dc1c9d8810bca88ad7f6f0e1f26d0fcec922df8d86014aced3c142a7fc68b46.ctv
+[SD]россия_к,https://stream1.freetv.fun/96924c62f81b635685a011c77ce7c4ed5f4533bb6361fb3806ce4331f58149db.m3u8
 [BD]русский_роман,https://stream1.freetv.fun/059307287f56270cc06d253fe56223129e648b7c0e171cd1e244a9a8b6d31b65.m3u8
 [SD]русский_бестселлер,https://stream1.freetv.fun/9e29223b655f991108036ca11fe753f1f6f3173c221e17a439c8897ff88e2899.m3u8
 [SD]ностальгия,https://stream1.freetv.fun/ace903436296cf8c8d8773e0b188d99b4847e08f59150a4489458cfce14e3f69.m3u8
