@@ -979,6 +979,7 @@ News,#genre#
 [BD]trt_haber,https://stream1.freetv.fun/f3398e997017b00b33ca6dc8c2d3bc0b536bff4081cd78f1e89c2b4466dd9d2c.m3u8
 [BD]tvri_world,https://stream1.freetv.fun/8c9ea7a802649007a663f725a87dcaee0552283c2806a2deaef2cf15b8bd87c5.m3u8
 [HD]tv_chosun_2,https://stream1.freetv.fun/be12223cd89a98cd50a7af48ce73ac3788f6fd59f09f422de4e276f4176ebcfc.m3u8
+[BD]tvp2,https://stream1.freetv.fun/648dbbc3cc611a73cd1261c8024593fce482421d6d9055095fb8e901fca96d4c.m3u8
 [VGA]tv5_kannada,https://stream1.freetv.fun/1cfacca42330995bbb9db08ed361e1b2d599703b449e070eff5f66ab501f9d6b.m3u8
 [VGA]teve_2,https://stream1.freetv.fun/3784bbe167ba7676b348a53c96316b12b9dfd2ae674ecece126f78aec31b7732.m3u8
 [HD]rtrs_tv,https://stream1.freetv.fun/e3e1bc4534714b5d5760ceedb7711f52f43f6e5c974e594560a5f076233c07ff.m3u8
