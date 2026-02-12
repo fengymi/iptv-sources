@@ -72,4 +72,4 @@
 | 66 | 广西综艺 | IPv4 直链 | <http://36.136.38.87:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0> |
 | 67 | 灵宝新闻综合 | IPv4 直链 | <http://115.48.161.98:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0> |
 
-Updated at **Wed Feb 11 2026 22:19:37 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Feb 12 2026 01:10:11 GMT+0000 (Coordinated Universal Time)**
