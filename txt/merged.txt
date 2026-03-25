@@ -1047,7 +1047,7 @@ News,#genre#
 [BD]zee_news,https://stream1.freetv.fun/0345c17699e2f75310a00d35b289896da086953a0fc5b64620c1b25bf07dda59.m3u8
 [BD]cigar_tv,https://stream1.freetv.fun/c2fe2caea7ed661072a50dbc84ece37cba3f3ef95a209193033519b73f959332.m3u8
 [BD]halk_tv,https://stream1.freetv.fun/080077c35aa3e1ebbdca2664f4ce8241f54a7f1c25700200252fa6ed28989758.m3u8
-[BD]i24_news_fr,https://stream1.freetv.fun/7132294b52decd204361b51a7fc3c462036a7d417c7a8f8744a5751ffa284894.m3u8
+[BD]i24_news_ar,https://stream1.freetv.fun/d028319529c7028bdddc76bc11d7e7759bd94e76378420f471f27b53add57985.m3u8
 [BD]cnews,https://stream1.freetv.fun/3f87433bc65093168b110b8e3d6b29d0b821391274c516f940fd05d66c96b5e5.m3u8
 [BD]salem_news_channel,https://stream1.freetv.fun/291496a6b4ddb392b194ea4b83112b7ad625c7fd2c553fea9b249826b6e98657.m3u8
 [BD]now财经,https://stream1.freetv.fun/6f9c76c500afbfd33350f7e4ab4b7051a577ab6e5f1a9317b35b8c7f1f838512.m3u8
@@ -1536,7 +1536,6 @@ Test,#genre#
 [HD]chc家庭影院,https://stream1.freetv.fun/d6c6dcdce08fdda05114649d8ceaa9c9fbf5e053724fa7b21a0b8e28bdeef696.ctv
 [HD]chc影迷电影,https://stream1.freetv.fun/e19f53c2ac2bb7cbd8a9efd6fab6690900c57cd2c8b45b9c910538be57f714d1.ctv
 [SD]nfl_channel,https://stream1.freetv.fun/b815242bb6eb2bff5879e82b1e538b32a378fced5d6cde60e8c0e7926b6b1bf4.m3u8
-[HD]lotus_macau_720p,https://stream1.freetv.fun/d0c7e0d5083f22d192da38306e24a83acd3f343610d23c4412faa817243a470a.m3u8
 [BD]上虞文化影院,https://stream1.freetv.fun/b6810db85578f6b240f95f6bf3277d11bc5766b089b3f0d554921de7b9560fff.m3u8
 [HD]刘德华,https://stream1.freetv.fun/77c55891906e7d7fc960759c42c395c7d290d5f7cb402625278314b691d0c3f6.ctv
 [VGA]哈尔滨影视,https://stream1.freetv.fun/b681acfb3d9cf5bc9d056d8513a6f1ef9ead223fe349f541e02a39edfabbd88a.m3u8
