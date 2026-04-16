@@ -12,4 +12,4 @@
 | 6 | 湖北卫视 | IPv4 直链 | <http://123.55.3.35:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0> |
 | 7 | 嘉佳卡通 | IPv4 直链 | <http://123.55.3.35:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0> |
 
-Updated at **Thu Apr 16 2026 17:01:50 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Apr 16 2026 18:56:34 GMT+0000 (Coordinated Universal Time)**
