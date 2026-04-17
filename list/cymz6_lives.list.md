@@ -7,4 +7,4 @@
 | 1 | 山西卫视 | IPv4 直链 | <http://182.114.49.159:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0> |
 | 2 | 陕西卫视 | IPv4 直链 | <http://182.114.49.159:9901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0> |
 
-Updated at **Fri Apr 17 2026 10:45:36 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Apr 17 2026 12:54:26 GMT+0000 (Coordinated Universal Time)**
