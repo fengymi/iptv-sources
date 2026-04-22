@@ -1217,8 +1217,8 @@ https://stream1.freetv.fun/004dca736c680a040336d536e57cac27909db36d4327644ceacd8
 https://stream1.freetv.fun/a13ed29d44ba1b9c462cceca4414eea4c06726cd1adbbb677a757186ecb2f319.m3u8
 #EXTINF:-1 tvg-name="MDR Fernsehen" tvg-id="" tvg-country="Germany" tvg-language="German" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/06/13/20140613201217441963_83.png" group-title="Generic",[HD]wdr fernsehen
 https://stream1.freetv.fun/b44363530ca30606ff21c06abc07c0b3be20ccd2f33a9f607a568d1104dfa6b5.m3u8
-#EXTINF:-1 tvg-name="METRO TV" tvg-id="" tvg-country="Indonesia" tvg-language="Bahasa Indonesia" tvg-logo="https://epg.pw/media/images/channel/2025/01/30/large/20250130005640435069_22.jpg" group-title="Other",[HD]metro tv
-https://stream1.freetv.fun/58c598239dd23543bcdc05029f9919e4e38b4990960f8338349f56b99f2db302.m3u8
+#EXTINF:-1 tvg-name="METRO TV" tvg-id="" tvg-country="Indonesia" tvg-language="Bahasa Indonesia" tvg-logo="https://epg.pw/media/images/channel/2025/01/30/large/20250130005640435069_22.jpg" group-title="Other",[HD]metro sd
+https://stream1.freetv.fun/fc2dfe95293b852a7e05c5947a34b4f75d6ef8330550a36bfbb4ba94b118e120.ctv
 #EXTINF:-1 tvg-name="MEZZO LIVE(TW)" tvg-id="370197" tvg-country="Taiwan" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2024/08/14/large/20240814094908863860_80.png" group-title="Music",[BD]mezzolivehd
 https://stream1.freetv.fun/93cb179a84498539bbde6e03dab67d3f3482ed7bd9c98f4dd84dff65492b1007.m3u8
 #EXTINF:-1 tvg-name="MG" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/06/08/20140608180703527964_84.png" group-title="Movies",[VGA]msg
@@ -2183,6 +2183,8 @@ https://stream1.freetv.fun/041598e2086df8191c0c464ef2b3525a1768c2a5e56b7f2793b88
 https://stream1.freetv.fun/b554d8dc8ac7d8852574e3dc4f7c6e52aa603edf1c28eca57ac09c37e5150bd4.m3u8
 #EXTINF:-1 tvg-name="Zee News" tvg-id="" tvg-country="India" tvg-language="Hindi" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506163803734751_89.png" group-title="News",[BD]zee news
 https://stream1.freetv.fun/0345c17699e2f75310a00d35b289896da086953a0fc5b64620c1b25bf07dda59.m3u8
+#EXTINF:-1 tvg-name="Zee TV US   (IN ) " tvg-id="" tvg-country="India" tvg-language="Hindi" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/08/21/20150821171657836024_92.jpg" group-title="Generic",[BD]zee tv uk
+https://stream1.freetv.fun/8bb0331b0b582d219ce11215a1db6ba50bfdccc8e399b091499ad9a835d5a12f.ctv
 #EXTINF:-1 tvg-name="Zig Zag RTP" tvg-id="" tvg-country="Portugal" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/images/channel/2021/10/16/large/20211016152225099364_28.png" group-title="Kids",[HD]rtp
 https://stream1.freetv.fun/f56734ac8293e7d5976a9a89f3e540276bbbb39bd59d74ae7d28af2dcc52d43d.m3u8
 #EXTINF:-1 tvg-name="aMazing" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/05/23/20150523231957721209_54.png" group-title="Entertainment",[SD]the amazing race
@@ -2205,7 +2207,7 @@ https://stream1.freetv.fun/efd51e6bf015241ae2a7864e4b8a1eac301fc58be4c6a9e843a8d
 https://stream1.freetv.fun/7ad18b7ef7016359d475f71a67d65641929074373593c14cf0e199cf82b0fd0d.m3u8
 #EXTINF:-1 tvg-name="cartoons 4U" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/02/10/large/20220210221721042504_96.png" group-title="Kids",[VGA]extrema cartoons
 https://stream1.freetv.fun/2ac387fca28e50fbba3af9fa53f32f1eb19444d22376eb1471178efefcf80a68.m3u8
-#EXTINF:-1 tvg-name="cira tv hd" tvg-id="" tvg-country="Kurdistan" tvg-language="Kurdish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/01/04/20170104001115564563_33.jpg" group-title="News",[BD]cigar tv
+#EXTINF:-1 tvg-name="cira tv hd" tvg-id="" tvg-country="Kurdistan" tvg-language="Kurdish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/01/04/20170104001115564563_33.jpg" group-title="News",[VGA]cigar tv
 https://stream1.freetv.fun/c2fe2caea7ed661072a50dbc84ece37cba3f3ef95a209193033519b73f959332.m3u8
 #EXTINF:-1 tvg-name="dTV(Japan)" tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2021/12/11/large/20211211000333648373_33.png" group-title="Movies",[HD]dtv
 https://stream1.freetv.fun/a21ba97bec135438b35d06c4f92f7d7272a99e7f35845daee5f9e51d1776fa06.m3u8
