@@ -167,7 +167,7 @@
 | 161 | [HD]湖北生活 | stream1.freetv.fun | <https://stream1.freetv.fun/a0b82b4e9481f63d3c5f29ca07af58ccc37a883250cb0434bfe584a7288798fb.m3u8> |
 | 162 | [HD]湖北经视 | stream1.freetv.fun | <https://stream1.freetv.fun/98d384d3cb8667785d8d2b84f705ee667b48ffb45e51d6524d3d3c859a0e0f3e.m3u8> |
 | 163 | [BD]湖北卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/f159656e972aa17ba9ff4e974713a0f92b152108582d298455b0bed215d2427b.m3u8> |
-| 164 | [VGA]湖南国际 | stream1.freetv.fun | <https://stream1.freetv.fun/520d50fe1315c97b340d95dc51e80fe1620e3059add9f0f3d85fd94a583b631c.m3u8> |
+| 164 | [VGA]湖南国际 | stream1.freetv.fun | <https://stream1.freetv.fun/0a73013e3d5583d05515fd78f36af0d3a20499a25d5137ea1f09b85b72ae9ba3.m3u8> |
 | 165 | [HD]湖南娱乐 | stream1.freetv.fun | <https://stream1.freetv.fun/d823f63f178d27fa744c94a23baa86fac9d249923cf03843d769b3bae2e70a8a.m3u8> |
 | 166 | [HD]湖南教育 | stream1.freetv.fun | <https://stream1.freetv.fun/354283335738ca823e457e68ba3f4cd00437a1ea7d1ab361f38b38fdde7423b6.m3u8> |
 | 167 | [VGA]湖南经视 | stream1.freetv.fun | <https://stream1.freetv.fun/40dd8f31430ace26cfeb1151452ff2c819d358dd2b99844f1c4bd80e08930ddf.m3u8> |
@@ -218,4 +218,4 @@
 | 212 | [SD]电影 | stream1.freetv.fun | <https://stream1.freetv.fun/e4d02d393bccc5c2b80d58eb4978c3b32181296b5fc4c92fe04bf88528736633.ctv> |
 | 213 | [BD]黑龙江卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/9d7a745d71fa16ea6b1a0edce79f7b842e59487519e7a76bcef5b0c7a87a3f24.ctv> |
 
-Updated at **Mon Apr 27 2026 15:29:13 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Apr 27 2026 17:13:18 GMT+0000 (Coordinated Universal Time)**
