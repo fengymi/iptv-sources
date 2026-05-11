@@ -727,7 +727,7 @@ https://stream1.freetv.fun/7e9dc40ae25e2a2e86424dc9583e6afbe590a04369a6204b5e14a
 https://stream1.freetv.fun/106947d05ee2e96bc1fbd6b59b63fc93ad9be872d56d63bff4194adf68e8f0ef.m3u8
 #EXTINF:-1 tvg-name="Disney XD" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2017/02/16/large/20170216145755639443_28.png" group-title="Kids",[BD]Disney XD @vt
 https://stream1.freetv.fun/212c34bdfcf1dd8269dff1a5037a19b7bc9d51621c2ea4dc6ce30c75977b506b.m3u8
-#EXTINF:-1 tvg-name="Disney канал Россия" tvg-id="" tvg-country="Russia" tvg-language="Русский" tvg-logo="https://epg.pw/media/" group-title="Movies",[HD]канал
+#EXTINF:-1 tvg-name="Disney канал Россия" tvg-id="" tvg-country="Russia" tvg-language="Русский" tvg-logo="https://epg.pw/media/" group-title="Movies",[VGA]канал
 https://stream1.freetv.fun/e7b394afd6308dc21681f8a8f5f0ceccb94b5342718386b84e7aac6225ab11d4.m3u8
 #EXTINF:-1 tvg-name="Dizimax Sci-Fi Türk" tvg-id="" tvg-country="Türkiye" tvg-language="Turkish" tvg-logo="https://epg.pw/media/" group-title="Movies",[SD].sci-fi
 https://stream1.freetv.fun/d1660c97a8defa33daf9d762e624af813cc4bcf99b29d64b2e95956171fa5277.ctv
@@ -895,7 +895,7 @@ https://stream1.freetv.fun/4780e8f5b53c56fa4b9cd5fec59d11134d0af078fb14a8935ba6d
 https://stream1.freetv.fun/3d35d265ad39f0c7aeeeeca4442f1aae15d6b26f0e78f52cad2116d2a560ed97.ctv
 #EXTINF:-1 tvg-name="Film 1 Premiere HD Netherlands" tvg-id="" tvg-country="Netherlands" tvg-language="Dutch" tvg-logo="https://epg.pw/media/" group-title="Movies",[HD]premiere 3
 https://stream1.freetv.fun/9e8043f29b6b1073d3df611b0dfb66177df515382c8621a10e383183b9ed4626.ctv
-#EXTINF:-1 tvg-name="Film Zone HD" tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/05/04/20150504010031814348_72.jpg" group-title="Movies",[VGA]кинозалы 10 film zone
+#EXTINF:-1 tvg-name="Film Zone HD" tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/05/04/20150504010031814348_72.jpg" group-title="Movies",[SD]кинозалы 10 film zone
 https://stream1.freetv.fun/4218d5edb584670efb68451b9361253b4fbd854184120beee7ce32b871348db7.m3u8
 #EXTINF:-1 tvg-name="FilmBox SD Poland" tvg-id="" tvg-country="Poland" tvg-language="Polish" tvg-logo="https://epg.pw/media/" group-title="Movies",[BD]filmbox
 https://stream1.freetv.fun/afff96865c8a2d5d826eafdf43f296afe8c5f3270e84e4da188c686b3553f915.m3u8
@@ -1267,7 +1267,7 @@ https://stream1.freetv.fun/bf5311e5369c220e8a4c69b14ae875ae3edfa412f727890ed76e0
 https://stream1.freetv.fun/ab8e45e306a439b7a8b37db5f6ae6ea91378d4f0f38806ff842263543c1e870c.ctv
 #EXTINF:-1 tvg-name="MTV Pulse Italy" tvg-id="" tvg-country="Italy" tvg-language="Italiano" tvg-logo="https://epg.pw/media/images/channel/2022/05/27/large/20220527020523632541_62.png" group-title="Music",[BD]pulse
 https://stream1.freetv.fun/3c9a36d73cdb3b1eed319479634d13f73ef684f24addd6ac2e13c03bd361264d.m3u8
-#EXTINF:-1 tvg-name="MTV Rocks USA" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/05/19/20140519122122986194_33.png" group-title="Music",[HD]mtv rocks
+#EXTINF:-1 tvg-name="MTV Rocks USA" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/05/19/20140519122122986194_33.png" group-title="Music",[SD]mtv rocks
 https://stream1.freetv.fun/9fea12d01bac4cd45b7e46afa65ecead60364767a347983b42f4fcdc046b249a.m3u8
 #EXTINF:-1 tvg-name="MVM Portugal" tvg-id="" tvg-country="Portugal" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/01/27/20150127044902611569_89.png" group-title="Entertainment",[HD]assim é portugal
 https://stream1.freetv.fun/372c4c0d3c5244ae6d79a6247906b95d4a1ee5ebe405f308835ca86f487fb292.m3u8
@@ -1661,7 +1661,7 @@ https://stream1.freetv.fun/3fc8c7460b94ba8e65e892f17e1a1e774f47d120503d254142dd7
 https://stream1.freetv.fun/db8e9c1008370ce46699ca95b8488c0ed8055606d244d68f7455a12626a89f6b.m3u8
 #EXTINF:-1 tvg-name="Rugby Pass" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2020/05/03/large/20200503212907881286_54.png" group-title="Sports",[SD]rugby pass tv
 https://stream1.freetv.fun/ea5c527fc34add3567800704d6310140b8ed51b13ba6d5d35ea95e8a5d855cec.m3u8
-#EXTINF:-1 tvg-name="Runtime Action! [Brazil]" tvg-id="" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/images/channel/2023/07/19/large/20230719183123208869_34.png" group-title="Movies",[HD]runtime
+#EXTINF:-1 tvg-name="Runtime Action! [Brazil]" tvg-id="" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/images/channel/2023/07/19/large/20230719183123208869_34.png" group-title="Movies",[SD]runtime
 https://stream1.freetv.fun/713062c8c627ce358a327e7eca3aac4d2529f4c6cca200ee9f9852430195d5f8.m3u8
 #EXTINF:-1 tvg-name="Russian Music Box TV" tvg-id="" tvg-country="Russia" tvg-language="Русский" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/05/23/20140523215035933069_60.jpg" group-title="Entertainment",[BD]music box
 https://stream1.freetv.fun/6109e3573921712386c16132986f5ae43295772a85b87e48a2fd957a840ab4a0.m3u8
@@ -2201,7 +2201,7 @@ https://stream1.freetv.fun/9fc4c50aba17174517a92f8349977a28e1000ddd477d2557fc7b4
 https://stream1.freetv.fun/7041c618f5cb2aa33c50a33c187246e777ffa6e5741dec8d6dfb0a93cf77be9e.m3u8
 #EXTINF:-1 tvg-name="VIRGIN RADIO" tvg-id="12030" tvg-country="United Kingdom" tvg-language="English" tvg-logo="https://epg.pw/media/" group-title="Entertainment",[BD]virgin radio tv ⓖ
 https://stream1.freetv.fun/7efce8e04bfc41b8d552e1a259760a0cd8169a60b68a33530be538e81e0dff69.m3u8
-#EXTINF:-1 tvg-name="VIVA HD russia" tvg-id="" tvg-country="Russia" tvg-language="Russian" tvg-logo="https://epg.pw/media/images/channel/2023/03/13/large/20230313162523602117_62.png" group-title="Music",[VGA]viva russia
+#EXTINF:-1 tvg-name="VIVA HD russia" tvg-id="" tvg-country="Russia" tvg-language="Russian" tvg-logo="https://epg.pw/media/images/channel/2023/03/13/large/20230313162523602117_62.png" group-title="Music",[BD]viva russia
 https://stream1.freetv.fun/cc7f04b8ce67f8b11a3a02c5123ddc2bf3dee25ea2d34418c2bd330c0c4bab16.m3u8
 #EXTINF:-1 tvg-name="VOA Persian" tvg-id="" tvg-country="United States" tvg-language="فارسی" tvg-logo="https://epg.pw/media/images/channel/2022/05/16/large/20220516223213654255_45.jpg" group-title="News",[BD]voa persian
 https://stream1.freetv.fun/464abea4487cf283c0371f9317041683f4d923da4acdf6aa734b868924506adf.m3u8
