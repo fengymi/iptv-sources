@@ -29,4 +29,4 @@
 | 23 | [BD]陕西卫视高清 | stream1.freetv.fun | <https://stream1.freetv.fun/e18da45121d2a09f6609be4d547924ee48565a3cc8eb5a0e2ff6715c25523aae.ctv> |
 | 24 | [HD]非凡新闻 | f13h.mine.nu | <rtmp://f13h.mine.nu/sat/tv581> |
 
-Updated at **Wed May 13 2026 19:28:55 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed May 13 2026 21:14:36 GMT+0000 (Coordinated Universal Time)**
