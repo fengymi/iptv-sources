@@ -12,6 +12,9 @@ Sports,#genre#
 [HD]dazn1,rtmp://f13h.mine.nu/sat/tv731
 [HD]纬来体育,rtmp://f13h.mine.nu/sat/tv721
 
+Movies,#genre#
+[BD]爆谷,rtmp://oc-play-ali.vipkid.com.cn/live/xianajiaoge-bg
+
 News,#genre#
 [VGA]中天新闻,rtmp://home.aceimage.cn/live/xiangjiaoge-ztxw
 [HD]非凡新闻,rtmp://f13h.mine.nu/sat/tv581
