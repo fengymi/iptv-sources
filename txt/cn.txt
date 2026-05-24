@@ -220,7 +220,7 @@
 [HD]南京新闻综合,https://stream1.freetv.fun/5b4b16310f8c33dd6977992d1d1fa402cff0c85f10d68bbfc4e0415e95a74492.m3u8
 [BD]黔南新闻综合,rtmp://tv.qntv.net/channellive/ch1?zguizd
 [VGA]平凉新闻综合,https://stream1.freetv.fun/95903b0bd3e225a719c64f05f8fa4f289b01d177b15e643a19e9bd60b174791f.m3u8
-[BD]新昌新闻综合,https://stream1.freetv.fun/815f92753eec1322b02c49809238cd6b24e01e85f43c90abc9b9262e1fe53eee.m3u8
+[BD]浙江|新昌新闻综合,https://stream1.freetv.fun/117353e7f349e9841ea7d79852cc8cb8fa4449dd2ddffa9bec27e2babfdba2f9.m3u8
 [BD]台州新闻综合,https://stream1.freetv.fun/c4e5873503b189c2c828b0a60392ad7bcc04f20320b4de9fef041904fc33f693.m3u8
 [SD]合肥新闻,https://stream1.freetv.fun/447bc23a2af7194a517d4869389c2d56eedb85e856a65720a10edd6f50cb6ec6.m3u8
 [BD]嘉兴新闻综合,https://stream1.freetv.fun/896ca707b844180e10fd9501bddd73f95d1493423adb2f0ae0acdff060297426.m3u8
@@ -254,7 +254,7 @@
 [HD]湖北综合,https://stream1.freetv.fun/91f1158db451302ce7f05c0c8d955e54d5bbebd0537a6ff8923316365f8c919d.m3u8
 [HD]湖北经视,https://stream1.freetv.fun/eb749e67a5322178f6bc75265b16ee5e927b95487f327ca25e062e4eb5671330.m3u8
 [HD]泸州新闻综合,https://stream1.freetv.fun/78ff2a1906b458cac0f424556a4d75cad5a332397e9f103400ef6d2264c97b95.m3u8
-[HD]靖江新闻综合,rtmp://visit.jjbctv.com:1935/live/xwzhmb?zjiangsd
+[BD]重庆|江津新闻综合,https://stream1.freetv.fun/48e8e8d0fc6a429f90921269888907d31e377c22e5fc3018702e6a9762873a42.m3u8
 [HD]沈阳新闻,https://stream1.freetv.fun/44f44f6f0e705a8cded6f22c21a51a1985300b88b945b6cfe4a9800993508948.m3u8
 [BD]辽阳新闻综合,https://stream1.freetv.fun/a7fa0c5edd967e981621370411367fb6a99d758617258a6f454e4088384c9b50.m3u8
 [BD]玉林综合_高清,https://stream1.freetv.fun/63691ce369b6d816edb036d4017a10a871aea8a4140e43d37f84c13d23f80890.ctv

@@ -153,8 +153,8 @@ rtmp://tv.qntv.net/channellive/ch1?zguizd
 https://stream1.freetv.fun/b88dce93757224c81c0b7cff4b276be147011588c24712add4fdd9c6e6eb59d5.m3u8
 #EXTINF:-1 tvg-name="南平新闻综合" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/11/01/large/20221101002314166539_20.jpg" group-title="新闻",[VGA]平凉新闻综合
 https://stream1.freetv.fun/95903b0bd3e225a719c64f05f8fa4f289b01d177b15e643a19e9bd60b174791f.m3u8
-#EXTINF:-1 tvg-name="南昌新闻综合" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/img/logo/3_8.jpg" group-title="新闻",[BD]新昌新闻综合
-https://stream1.freetv.fun/815f92753eec1322b02c49809238cd6b24e01e85f43c90abc9b9262e1fe53eee.m3u8
+#EXTINF:-1 tvg-name="南昌新闻综合" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/img/logo/3_8.jpg" group-title="新闻",[BD]浙江|新昌新闻综合
+https://stream1.freetv.fun/117353e7f349e9841ea7d79852cc8cb8fa4449dd2ddffa9bec27e2babfdba2f9.m3u8
 #EXTINF:-1 tvg-name="南阳新闻综合" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/img/logo/2_19.jpg" group-title="其它",[BD]南阳新闻综合
 https://stream1.freetv.fun/c74db00607be6bb6f29bd21e7823892e0cb8584a421a27b160f4707f3d8d2b47.ctv
 #EXTINF:-1 tvg-name="台州新闻综合" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/11/01/large/20221101020712299758_11.jpg" group-title="新闻",[BD]台州新闻综合
@@ -449,8 +449,8 @@ https://stream1.freetv.fun/94f93241eec509bb5096d7980b36fe86b4c4d7de2ee93272030c2
 https://stream1.freetv.fun/8c0deff913dc9e1f960f84c0c8ffd1fca0db4a05a1670e16bc6eac393e9c8f7d.m3u8
 #EXTINF:-1 tvg-name="湖州新闻综合" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/11/01/large/20221101020031305070_25.jpg" group-title="新闻",[HD]泸州新闻综合
 https://stream1.freetv.fun/78ff2a1906b458cac0f424556a4d75cad5a332397e9f103400ef6d2264c97b95.m3u8
-#EXTINF:-1 tvg-name="湛江新闻综合" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/11/01/large/20221101000354616391_13.jpg" group-title="新闻",[HD]靖江新闻综合
-rtmp://visit.jjbctv.com:1935/live/xwzhmb?zjiangsd
+#EXTINF:-1 tvg-name="湛江新闻综合" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/11/01/large/20221101000354616391_13.jpg" group-title="新闻",[BD]重庆|江津新闻综合
+https://stream1.freetv.fun/48e8e8d0fc6a429f90921269888907d31e377c22e5fc3018702e6a9762873a42.m3u8
 #EXTINF:-1 tvg-name="温州经济科教" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/11/01/large/20221101015212417692_86.jpg" group-title="其它",[BD]经济科教
 https://stream1.freetv.fun/335a86a4b34384eeb26091cbe319c41d060db3bbd27f3531c5dc32559550d016.ctv
 #EXTINF:-1 tvg-name="潮州综合" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2023/10/07/large/20231007174220816419_38.jpg" group-title="综合",[BD]潮州综合高清
