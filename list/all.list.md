@@ -73,7 +73,7 @@
 | 67 | [BD]alikhbaria syria | stream1.freetv.fun | <https://stream1.freetv.fun/90841b29fbaf667b71be115acbeefeb81174bb0cc0a9a75df0b224a3fd969116.m3u8> |
 | 68 | [BD]alkass two | stream1.freetv.fun | <https://stream1.freetv.fun/2210232b458c8d6411bf282344d0a6b7b508aec1bd680d84220af0cac3024db7.m3u8> |
 | 69 | [SD]amedia premium | stream1.freetv.fun | <https://stream1.freetv.fun/6319e234fdb069120970b11e89812a50c3bc2ef7671d9644ff740f07ded4c04c.m3u8> |
-| 70 | [HD]great american living | stream1.freetv.fun | <https://stream1.freetv.fun/0340f2cb9fca0ce09dbd9877c5fe7574c9968c1a19829d19109b1d1c883ed105.m3u8> |
+| 70 | [BD]american crimes | stream1.freetv.fun | <https://stream1.freetv.fun/0e1d33f06fb1a968dcfea03cdf553d6bcdc757add13aee8e4674432f5bef70d8.m3u8> |
 | 71 | [BD]amozhgary tv | stream1.freetv.fun | <https://stream1.freetv.fun/efd2bcb211a44b9b2bbb45fd9ce4cf87296718fb4fc7d1be9a251d0a7328ccca.m3u8> |
 | 72 | [BD]andorra tv | stream1.freetv.fun | <https://stream1.freetv.fun/288b2da7c20b9da996d6be8a7c6e0f0e157eab140da23173dbc5af200fe50db7.m3u8> |
 | 73 | [HD]animal planet | stream1.freetv.fun | <https://stream1.freetv.fun/71ce3641b22279c8979ba61452ac22bf13d661ae827749bda87ddf9549e45400.m3u8> |
@@ -1211,4 +1211,4 @@
 | 1205 | [HD]黄金华剧 | stream1.freetv.fun | <https://stream1.freetv.fun/75b590794b60bb73aae974cb8af558819774810add8d4c4b30c27c7cedd0fee1.ctv> |
 | 1206 | [HD]黑龙江卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/8db7fe87f56b1781603eca82aa8111cd9a6f7a52cb6648858a6a657a926d5ddf.m3u8> |
 
-Updated at **Sun Jul 26 2026 01:44:21 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Jul 26 2026 05:19:51 GMT+0000 (Coordinated Universal Time)**
