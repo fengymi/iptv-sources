@@ -986,4 +986,4 @@
 | 980 | [BD]黄金华剧 | stream1.freetv.fun | <https://stream1.freetv.fun/bedd12b5e35ca590f97dba15b55825b71c6a066cc95328f49b2d92c23927b910.ctv> |
 | 981 | [BD]黑龙江卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/cfa2ed9d4f96d20f3dd2eb920e17de8ecd8482cfff2328d8cfdcaba050a03a4b.m3u8> |
 
-Updated at **Sun Aug 09 2026 20:18:23 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Aug 09 2026 22:18:05 GMT+0000 (Coordinated Universal Time)**
