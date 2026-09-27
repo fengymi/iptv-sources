@@ -147,7 +147,7 @@ Movies,#genre#
 
 Kids,#genre#
 [VGA]cctv14少儿,https://stream1.freetv.fun/163faab1c0ed145b80e32d17b119cdc75f0793435a49d54ef55324193d3ff2d9.ctv
-[SD]优漫卡通,https://stream1.freetv.fun/4f3e660db4b75f218546c35fbdf55813ca1cd497ebcaa5fa4d873cff81c402f5.ctv
+[SD]优漫卡通,https://stream1.freetv.fun/8d5a3f2047571f2a22fc83f4f9a30860ffe37f872358b0e284589ee499966428.m3u8
 [BD]动漫秀场,https://stream1.freetv.fun/73a696031fc8f1fdb15ef76f1739f184c8e5d828d6d98225ce1a8a3ed4371ce5.m3u8
 [SD]哈哈炫动,https://stream1.freetv.fun/b435063b71b5f3ed95ab500118314f5e9f3289f3afcbb7c0dba3b0e9e5dff943.m3u8
 [VGA]嘉佳卡通,https://stream1.freetv.fun/6cb8b6dd2afb96dd3746b748f252faad5ca86b4679e1856565bd579f178f6483.ctv
